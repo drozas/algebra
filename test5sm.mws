@@ -1,0 +1,135 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 
+0 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 
+-1 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 
+18 0 0 0 0 0 1 0 0 0 0 0 0 0 }1 0 0 0 6 6 0 0 0 0 0 0 -1 0 }{PSTYLE "
+" 0 256 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 
+-1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {SECT 1 {PARA 3 "" 0 "" {TEXT -1 45 " Cuestiones sobre la pr
+\341ctica 5 (2002-2003): " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 59 "1.  Determinar la matriz inversa de la siguiente m
+atriz de " }{XPPEDIT 18 0 "M[8](Z[2]);" "6#-&%\"MG6#\"\")6#&%\"ZG6#\"
+\"#" }{TEXT -1 2 "  " }}{PARA 256 "" 0 "" {TEXT -1 1 " " }{XPPEDIT 18 
+0 "A = matrix([[1, 1, 1, 0, 0, 0, 1, 0], [0, 0, 0, 1, 1, 0, 0, 0], [0,
+ 1, 1, 1, 1, 1, 1, 0], [1, 0, 1, 0, 1, 1, 1, 0], [1, 1, 1, 1, 0, 0, 1,
+ 0], [0, 1, 0, 0, 0, 1, 1, 1], [0, 0, 1, 1, 0, 1, 0, 0], [1, 1, 1, 1, \+
+1, 1, 1, 0]]);" "6#/%\"AG-%'matrixG6#7*7*\"\"\"F*F*\"\"!F+F+F*F+7*F+F+
+F+F*F*F+F+F+7*F+F*F*F*F*F*F*F+7*F*F+F*F+F*F*F*F+7*F*F*F*F*F+F+F*F+7*F+
+F*F+F+F+F*F*F*7*F+F+F*F*F+F*F+F+7*F*F*F*F*F*F*F*F+" }{TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 11 "Respuestas:" }}{PARA 0 "" 0 "" {TEXT -1 
+23 "a) A no es invertible  " }}{PARA 0 "" 0 "" {TEXT -1 4 "b)  " }
+{XPPEDIT 18 0 "A^(-1);" "6#)%\"AG,$\"\"\"!\"\"" }{TEXT -1 2 "= " }
+{XPPEDIT 18 0 "matrix([[0, 0, 0, 1, 1, 0, 0, 1], [0, 1, 0, 0, 0, 0, 0,
+ 0], [0, 1, 0, 0, 1, 0, 1, 1], [1, 1, 0, 0, 0, 0, 1, 1], [1, 0, 1, 1, \+
+0, 1, 1, 0], [0, 1, 1, 1, 0, 0, 0, 1], [0, 0, 1, 0, 1, 1, 0, 1], [0, 1
+, 0, 1, 1, 1, 0, 1]]);" "6#-%'matrixG6#7*7*\"\"!F(F(\"\"\"F)F(F(F)7*F(
+F)F(F(F(F(F(F(7*F(F)F(F(F)F(F)F)7*F)F)F(F(F(F(F)F)7*F)F(F)F)F(F)F)F(7*
+F(F)F)F)F(F(F(F)7*F(F(F)F(F)F)F(F)7*F(F)F(F)F)F)F(F)" }{TEXT -1 13 "  \+
+       c)  " }{XPPEDIT 18 0 "A^(-1);" "6#)%\"AG,$\"\"\"!\"\"" }{TEXT 
+-1 3 " = " }{XPPEDIT 18 0 "matrix([[1, 1, 0, 1, 1, 1, 0, 1], [0, 1, 0,
+ 0, 0, 0, 0, 0], [1, 1, 1, 1, 0, 1, 0, 0], [1, 0, 1, 1, 0, 1, 1, 1], [
+1, 1, 1, 0, 1, 1, 0, 1], [0, 0, 0, 1, 1, 1, 0, 0], [1, 0, 0, 0, 1, 0, \+
+1, 0], [0, 0, 0, 0, 0, 1, 1, 1]]);" "6#-%'matrixG6#7*7*\"\"\"F(\"\"!F(
+F(F(F)F(7*F)F(F)F)F)F)F)F)7*F(F(F(F(F)F(F)F)7*F(F)F(F(F)F(F(F(7*F(F(F(
+F)F(F(F)F(7*F)F)F)F(F(F(F)F)7*F(F)F)F)F(F)F(F)7*F)F)F)F)F)F(F(F(" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT 
+-1 57 "2. Siendo  C el c\363digo lineal cuya matriz de control es  " }
+{XPPEDIT 18 0 "H = matrix([[1, 0, 1, 1, 0], [1, 0, 0, 0, 1], [0, 0, 0,
+ 1, 0]]);" "6#/%\"HG-%'matrixG6#7%7'\"\"\"\"\"!\"\"\"\"\"\"F+7'\"\"\"F
++F+F+\"\"\"7'F+F+F+\"\"\"F+" }{TEXT -1 1 "," }}{PARA 0 "" 0 "" {TEXT 
+-1 28 " \277cu\341l es la dimensi\363n de C?" }}{PARA 0 "" 0 "" {TEXT 
+-1 11 "Respuestas:" }}{PARA 0 "" 0 "" {TEXT -1 46 "a)  dim(C)=3     b)
+ dim(C)=2       c) dim(C)=4" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{PARA 0 "" 0 "" {TEXT -1 10 "3. Siendo " }{XPPEDIT 18 0 "H = matrix([
+[1, 0, 0, 1, 1], [1, 0, 0, 0, 0], [0, 0, 0, 1, 0]]);" "6#/%\"HG-%'matr
+ixG6#7%7'\"\"\"\"\"!F+F*F*7'F*F+F+F+F+7'F+F+F+F*F+" }{TEXT -1 100 "   \+
+la matriz de control de un c\363digo lineal C, determinar una matriz  \+
+G  generadora de dicho c\363digo." }}{PARA 0 "" 0 "" {TEXT -1 11 "Resp
+uestas:" }}{PARA 0 "" 0 "" {TEXT -1 8 "a) G =  " }{XPPEDIT 18 0 "matri
+x([[1, 0], [0, 1], [1, 0], [0, 0], [0, 0]]);" "6#-%'matrixG6#7'7$\"\"
+\"\"\"!7$F)F(F'7$F)F)F+" }{TEXT -1 21 "             b)  G = " }
+{XPPEDIT 18 0 "matrix([[0, 0], [0, 1], [1, 0], [0, 0], [0, 0]]);" "6#-
+%'matrixG6#7'7$\"\"!F(7$F(\"\"\"7$F*F(F'F'" }{TEXT -1 25 "            \+
+      c) G = " }{XPPEDIT 18 0 "matrix([[0, 0], [0, 1], [1, 0], [0, 0],
+ [1, 0]]);" "6#-%'matrixG6#7'7$\"\"!F(7$F(\"\"\"7$\"\"\"F(7$F(F(7$\"\"
+\"F(" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 8 "4. Sea  " }{XPPEDIT 18 0 "G = matrix([[0, 0], [0
+, 1], [1, 0], [0, 0], [1, 0]]);" "6#/%\"GG-%'matrixG6#7'7$\"\"!F*7$F*
+\"\"\"7$\"\"\"F*7$F*F*7$\"\"\"F*" }{TEXT -1 86 "  la matriz generadora
+ de un c\363digo lineal C. Determinar una matriz de decodificaci\363n.
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 11 "Respu
+estas:" }}{PARA 0 "" 0 "" {TEXT -1 4 "a)  " }{XPPEDIT 18 0 "T = matrix
+([[0, 0, 0, 0, 1], [0, 1, 0, 0, 0]]);" "6#/%\"TG-%'matrixG6#7$7'\"\"!F
+*F*F*\"\"\"7'F*\"\"\"F*F*F*" }{TEXT -1 8 "    b)  " }{XPPEDIT 18 0 "T \+
+= matrix([[0, 0, 1, 0, 1], [0, 1, 0, 0, 0]]);" "6#/%\"TG-%'matrixG6#7$
+7'\"\"!F*\"\"\"F*\"\"\"7'F*\"\"\"F*F*F*" }{TEXT -1 9 "     c)  " }
+{XPPEDIT 18 0 "T = matrix([[0, 1, 0, 0], [0, 1, 0, 0]]);" "6#/%\"TG-%'
+matrixG6#7$7&\"\"!\"\"\"F*F*7&F*\"\"\"F*F*" }{TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 20 "5. Dada l
+a matriz   " }{XPPEDIT 18 0 "A = matrix([[1, 1, 0], [1, 1, 0], [1, 0, \+
+1]]);" "6#/%\"AG-%'matrixG6#7%7%\"\"\"F*\"\"!F)7%F*F+F*" }{TEXT -1 7 "
+    de " }{XPPEDIT 18 0 "M[3](Z[2])" "6#-&%\"MG6#\"\"$6#&%\"ZG6#\"\"#
+" }{TEXT -1 45 ",  \277cual es el elemento (2,1)  de la matriz  " }
+{XPPEDIT 18 0 "A^32;" "6#*$%\"AG\"#K" }{TEXT -1 4 "?.  " }}{PARA 0 "" 
+0 "" {TEXT -1 57 "a)  0         b)   1      c) La pregunta no tiene se
+ntido" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 11 "6.  Siendo " }{XPPEDIT 18 0 "H = matrix([[1, 0, 0, 1, 1],
+ [1, 0, 0, 0, 0], [0, 0, 0, 1, 0]]);" "6#/%\"HG-%'matrixG6#7%7'\"\"\"
+\"\"!F+\"\"\"\"\"\"7'\"\"\"F+F+F+F+7'F+F+F+\"\"\"F+" }{TEXT -1 74 "   \+
+la matriz de control de un c\363digo lineal C, el s\355ndrome de la pa
+labra  " }{XPPEDIT 18 0 "u = [1, 0, 1, 0, 1];" "6#/%\"uG7'\"\"\"\"\"!
+\"\"\"F'\"\"\"" }{TEXT -1 3 " es" }}{PARA 0 "" 0 "" {TEXT -1 3 "a) " }
+{XPPEDIT 18 0 "matrix([[0], [1], [1]]);" "6#-%'matrixG6#7%7#\"\"!7#\"
+\"\"7#\"\"\"" }{TEXT -1 17 "               b)" }{XPPEDIT 18 0 "matrix(
+[[1], [1], [0]]);" "6#-%'matrixG6#7%7#\"\"\"7#\"\"\"7#\"\"!" }{TEXT 
+-1 20 "                 c) " }{XPPEDIT 18 0 "matrix([[0], [1], [0]]);
+" "6#-%'matrixG6#7%7#\"\"!7#\"\"\"F'" }{TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 13 "7.   Siendo  " }{XPPEDIT 18 0 "G = matrix([[0, 0], [
+0, 1], [1, 0], [0, 0], [1, 0]]);" "6#/%\"GG-%'matrixG6#7'7$\"\"!F*7$F*
+\"\"\"7$\"\"\"F*7$F*F*7$\"\"\"F*" }{TEXT -1 76 "   la matriz generador
+a de un c\363digo lineal C, se verifica que las palabras " }}{PARA 0 "
+" 0 "" {TEXT -1 29 "[0,1,0,0,1]  y  [0,0,1,0,0]  " }}{PARA 0 "" 0 "" 
+{TEXT -1 99 "a) tienen el mismo s\355ndrome    b) no tienen el mismo s
+\355ndrome     c) la pregunta  no tiene sentido " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 6 "8. El " }{TEXT 
+256 5 " peso" }{TEXT -1 159 " p(v) de una palabra v en es el n\372mero
+ de unos de dicha palabra y la distancia de Hamming entre dos palabras
+ es el n\372mero de coordenadas que tienen distintas. " }}{PARA 0 "" 
+0 "" {TEXT -1 91 "Dadas dos palabras  v  y  w de longitud 5 con p(v)= \+
+4 y p(w)=3, su distancia de Hamming es:" }}{PARA 0 "" 0 "" {TEXT -1 
+101 "a)  siempre igual a 1             b) menor o igual a 2           \+
+        c) siempre mayor o igual a 1" }}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 10 
+"9. Siendo " }{XPPEDIT 18 0 "H = matrix([[1, 1, 0, 1, 0], [0, 1, 0, 1,
+ 1], [0, 0, 1, 0, 0], [0, 1, 0, 1, 0]]);" "6#/%\"HG-%'matrixG6#7&7'\"
+\"\"F*\"\"!F*F+7'F+F*F+F*F*7'F+F+F*F+F+7'F+F*F+F*F+" }{TEXT -1 71 "  u
+na matriz de control de un c\363digo lineal C, determinar si la matriz
+ " }{XPPEDIT 18 0 "G = matrix([[0], [1], [0], [1], [0]]);" "6#/%\"GG-%
+'matrixG6#7'7#\"\"!7#\"\"\"F)F+F)" }{TEXT -1 42 " es una matriz genera
+dora de dicho c\363digo." }}{PARA 0 "" 0 "" {TEXT -1 11 "Respuestas:" 
+}}{PARA 0 "" 0 "" {TEXT -1 13 "a)   SI      " }}{PARA 0 "" 0 "" {TEXT 
+-1 7 "b)   NO" }}{PARA 0 "" 0 "" {TEXT -1 33 "c)   La pregunta no tien
+e sentido" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 36 "10. Se\361\341lese la afirmaci\363n correcta:" }}{PARA 0 
+"" 0 "" {TEXT -1 132 "a) En general pueden existir palabras que perten
+ecen al mismo cogrupo respecto de un c\363digo lineal C pero tienen di
+stintos s\355ndromes" }}{PARA 0 "" 0 "" {TEXT -1 213 "b) Si recibimos \+
+una palabra p que contiene dos errores y est\341 a distancia de Hammin
+g 1 de una palabra q de nuestro c\363digo lineal C, seg\372n el princi
+pio del vecino m\341s cercano, la palabra p se corrige a la palabra q
+" }}{PARA 0 "" 0 "" {TEXT -1 51 "c) Ninguna de las sentencias anterior
+es es correcta" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 4 "#fin" }}}}}{MARK "0" 0 }{VIEWOPTS 1 1 0 1 1 1803 
+}

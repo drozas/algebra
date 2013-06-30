@@ -1,0 +1,1561 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 
+0 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 257 "" 1 14 
+0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 258 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 261 "" 0 1 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 262 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 263 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 264 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 265 "" 0 1 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 266 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 268 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 269 "" 0 1 0 0 
+0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 272 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 273 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 276 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 277 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 278 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 279 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 280 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 281 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 282 "" 0 1 0 0 0 0 0 1 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 283 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 284 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 285 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 286 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 287 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 288 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 289 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 290 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 291 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 292 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 293 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 294 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 295 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 296 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 297 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 298 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 299 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 300 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 301 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 302 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 303 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 304 "" 1 24 0 0 0 0 2 1 2 0 0 0 0 0 0 }{CSTYLE "" -1 305 "" 1 12 0 
+0 0 0 0 2 2 0 0 0 0 0 0 }{CSTYLE "" -1 306 "" 0 1 0 0 0 0 0 2 2 0 0 0 
+0 0 0 }{CSTYLE "" -1 307 "" 1 14 0 0 0 0 2 0 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 308 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 309 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 310 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 311 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 312 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 313 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 314 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 315 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 316 "" 0 1 0 0 0 0 2 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 317 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 318 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 319 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 320 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 321 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 322 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 323 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 324 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 325 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 326 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 327 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 328 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 329 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 330 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 331 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 332 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 333 "" 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 334 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 335 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 336 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 337 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 338 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 339 "" 1 18 0 0 0 0 0 1 2 0 0 0 0 0 0 }{CSTYLE "" 
+-1 340 "" 1 18 0 0 0 0 0 1 1 0 0 0 0 0 0 }{CSTYLE "" -1 341 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 342 "" 0 18 0 0 0 0 0 0 2 0 0 
+0 0 0 0 }{CSTYLE "" -1 343 "" 0 18 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE 
+"" -1 344 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 345 "" 0 1 
+0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 346 "" 0 1 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 347 "" 1 24 0 0 0 0 2 1 2 0 0 0 0 0 0 }{CSTYLE 
+"" -1 348 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 349 "" 0 1 
+0 0 0 0 0 1 1 0 0 0 0 0 0 }{CSTYLE "" -1 350 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 351 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 352 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 353 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 354 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 355 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 356 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 357 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 358 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 359 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 360 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 361 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 362 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 363 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 364 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 365 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 366 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 367 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 368 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 369 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 370 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 371 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 372 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 373 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 374 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 375 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 376 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 377 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 378 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 379 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 380 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 381 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 382 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 383 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 384 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 385 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 386 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 387 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 388 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 389 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 390 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 391 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 392 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 393 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 394 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 395 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 396 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 397 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 398 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 399 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 400 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 401 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 402 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 403 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 404 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 405 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 406 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 407 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 408 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 409 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 410 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 411 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 412 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 413 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 414 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 415 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 416 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 417 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 418 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 419 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 420 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 421 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 422 "" 0 1 0 0 0 0 0 1 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 423 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 424 "" 0 1 0 0 0 0 0 1 2 0 0 0 0 0 0 }{CSTYLE "" -1 425 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 426 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 427 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 428 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 429 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 430 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 431 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 432 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 433 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 434 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 435 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 436 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 437 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 438 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 439 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 440 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 441 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 442 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 443 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 444 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 445 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 446 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 447 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 448 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 449 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 450 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 451 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 452 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 453 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 454 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 455 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{PSTYLE "Norm
+al" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 }1 
+1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 
+-1 "Courier" 1 10 0 0 255 1 0 0 0 0 0 1 3 0 3 }1 0 0 -1 -1 -1 0 0 0 0 
+0 0 -1 0 }{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 
+0 0 1 2 1 2 2 2 2 1 1 1 }1 1 0 0 6 6 1 0 1 0 2 2 0 1 }{PSTYLE "Heading
+ 2" -1 4 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 1 1 }1 
+1 0 0 4 4 1 0 1 0 2 2 0 1 }{PSTYLE "Warning" 2 7 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 255 1 0 0 0 0 0 0 1 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 
+2 2 2 2 2 2 1 1 1 }3 3 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Bullet Item" 
+-1 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 }1 1 
+0 0 3 3 1 0 1 0 2 2 15 2 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Ti
+mes" 1 18 0 0 0 1 2 1 1 2 2 2 1 1 1 }3 1 0 0 12 12 1 0 1 0 2 2 19 1 }
+{PSTYLE "Author" 0 19 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 }3 0 0 -1 8 8 0 0 0 0 0 0 -1 0 }{PSTYLE "Title" -1 256 1 {CSTYLE "
+" -1 -1 "Times" 1 14 0 0 0 1 2 1 1 2 2 2 1 1 1 }3 1 0 0 12 12 1 0 1 0 
+2 2 19 1 }{PSTYLE "Normal" -1 257 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 
+0 1 1 2 2 2 2 2 1 1 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "" 18 258 
+1 {CSTYLE "" -1 -1 "" 1 14 0 0 0 0 0 2 2 0 0 0 0 0 0 }0 0 0 -1 -1 -1 
+0 0 0 0 0 0 -1 0 }{PSTYLE "" 257 259 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 
+260 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 
+-1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 257 261 1 {CSTYLE "" -1 -1 "" 0 1 0 0 
+0 0 2 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 
+257 262 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 
+-1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 257 263 1 {CSTYLE "" -1 -1 "" 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "
+" 0 264 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 
+-1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 265 1 {CSTYLE "" -1 -1 "" 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 
+0 266 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 
+-1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 267 1 {CSTYLE "" -1 -1 "" 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 
+0 268 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 
+-1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 269 1 {CSTYLE "" -1 -1 "" 0 1 0 
+0 0 0 0 0 1 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 
+257 270 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 2 0 0 0 0 0 0 0 0 }0 0 0 -1 
+-1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 271 1 {CSTYLE "" -1 -1 "" 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {PARA 18 "" 0 "" {TEXT -1 0 "" }{TEXT 256 0 "" }{OLE 1 21164 
+1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya<nYny
+yyYE:G:I:K:M:O:Q:S:UJ:n;v;;JBB:]:_:a:wAwAg:i:k:m:o:q:s:u:w:y:;[:F>N>V>
+^>f>n>v>nYvY::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:;THcV>whGYX>efI<VN=nN`H<::;DtAb
+JaIy?X:A:;R:B:F:AlqfG[maNFO=;::::::::_J;@J<jysyJ:B:::::::i]:>:VBYLa^DE
+LajcJ::::::::JCj:j;>:yayA:<::::::CJ:^lXZ:j[:fBjcnDaKR<Z::::::::kJ;@j<j
+ysyJ:B::::::N:^<>:F:;JyKy;vY::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::F:wyyAb<vYxYZ`MD;:f>FcgGfagfh?
+^^gfZfccWflwgmwg`_hZ>dbwgnwgZfb^Ggnwgl?^mn_jb=RMaDNKuUfb^GG>ZFJ::JQH]n
+IalHH<J::::yI:>::::::::::j:b:B::::::::::vyyuyAJ:^:F:<jysy?:;:Ke;noEJrM
+<<::::::::::::::::::::::::::::::::::::N:wkrJ:^rHB:;M:<J<LJ<LL<xJLxjAxL
+<xjQxjAxlALlQLLLxLLxL\\xJLLNLLL\\xlQLN\\xLgxlQdoQLNgLnQdO\\LNgdO\\dOgd
+OldO\\LPgdOlLPgLPlLPwLPldQwLPwdQwdQ<eQ<eQwLR<eQ<MR<MRGMR<eSGeSGMRGecTx
+oTPmixoiPmTLGytQytQeuQeUWyTWOqtxstPqIystPuIysIySoxmYxuohpYipopqeWwyxqy
+J<xxALnqMlAxXLLlqyLLxX\\xjqMNLxX\\xlqMN\\xXgxlqeOgxXgLpqMPgxXlLpqeQ\\x
+XwdqqMRwxX<MrqMRGyXGMrqeSGyxQesqytQyXWytqeUWyxaeuqyvayxqewqyxqyXwyxqeY
+weY<LJwMLLdYLxLwylAdyQLLwylQdY\\xJwMNLdY\\LNweOLdYgxLweO\\dYgdOwMpQdYl
+dQweQ\\dYwdOweQwdY<MNwMRgdY<MPwMRwdY<MRweSwdYGeSwyTwdyQMRwyTGeyQyTweUw
+dYWMRweUGeYWyTwyvQeyaeUwyvaeYgyTweWWeYgyVweWgeyqyVwyXgeYweY:>Z::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::xIJ:::::Jnno
+Evyyyyy=:::::::::::::::::::::::::::::::::::::::::::::xplPpyyyyyI::::::
+::bF]TN]TNDmyyyyyI::::::::kUN]TN]<wtyyqy;:::::::>gKGD]<xyyyyy;:::::::F
+eKGdKGDN`qwyyyyy=:::::::FgKGD]<xIyA:::::::ZKGdKGDffyyYyA:::::::ZKkbbFy
+ay=:::::::ZaO`KGDmCXyyyyyy::::::::::::::::::::::::::::::::::::::::::::
+::jvXmb@ob@?qtyyqy;aUN]TN]\\l>hyyYyA>elFdKSN_COyyyyyy::^`KGdKGDBGyyyxI
+N@FDN`bwyyuybW]TN]TNjysy::L=@?JdxyywY]eF]TN@?jysyffKGdKGDJSxIyA:RNFD:x
+IyQTjb:vhyyYyQSjb:<pyyiy=:K=]<ZmwyyyysFdKSN:ryvynZK;Jdjy;JU@obFD:@pyyi
+lZK;ZqKnjb:Zymy;JTjb:BQyyyyiFRN:rVfeKGdKGD:ryvY:^@FD:l?D=@?:HAsTN]TN]<
+:_;yA:ATN]lb:rVvyOGdKSN:ryNcKGdKGD:ryvY:^cKGD]<ZymyUpb@_K;JSjyM=@?:kty
+yqy;ZKkb:ryvY]\\K;JpxyywygGdKSN:vHxyy;ZlZK;^@vYsSN]lb:vYxI_;]<bRyyyxI:
+J_Lmb@_KKVXqyyiy=u<]<s<yA\\A@?vYxI::>ilN`lf`yyYyAZ\\gdKGD?EXyyyxIJtHob
+@_KOFry::::::cEXyyyxI:>iD_hyyYyA::::::::::::::::::::::::::::::::::<Pi<
+Pj@Pl@pjPplPpl:>g_?gb?gdOgewgiwgi?hj?hlwYxI:::RNFD:bF_SN]lbJS@?]<DMSDm
+yyiy=:::@?]<::::jysy:::ZKkb:::::Dmysy:::ZKkb:::::vYxI:::RNFD:::::yay=:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::B:>::Zymy;::<:;:
+:^_yyYyA<:;::ryvY::Z:J:::Usyyqy[:J:b:@j:F:>Zymy;::<:=R:=R::;B:U;yA<:;:
+:ryvY::Z:j:R:;j:<j:@J:f?vYB:>::Zymy;::<:=R:=R:;J:<j:<J:f?vYB:>::Zymy;:
+:<:=R:;R:;Z:F:<jPjy[:J:R:;J:<:ryvY::Z:j:::U;yA<:=R:@:<:ryvY::Z:j:<Z;J:
+FZ;B:U;yA<:;R:;J:<:Zymy;::<:;:R:=:YsyxIB:>:@J:>Z::xIyA::B:>:j:F:;jQryZ
+:J:::xIyA::B:>:j:F:;jQryZ:J:::xIyA::B:FZ;R:;j:R:;jQryZ:J:::xIyA::B:>Z;
+>Z;B:=Z:>:Y[y=<:;::ryvY::Z:j:@J:FZ:FZ;J:<jQryZ:J:::xIyA::B:F:;J:FZ;FZ;
+>:yay=<:;:Z;>:;ryvY::Z:J:@:<j:@Z;>:yay=<:;::ryvY::Z:j:<Z;J:<j:@J:vYxIB
+:>:@J:>Z::xIyA::B:>:j:J:vYxIB:>::Zymy;::<:;:j:jysyZ:J:::xIyA::B:>Z;FZ;
+FZ:R:jysyZ:J:R:;J:<:ryvY::Z:J:j:J:jysyZ:J:R:B:Zymy;::<:=:R:@J:<jysyZ:J
+::b:<Zymy;::<:;Z;F:@j:<J:<jysyZ:J:::xIyA::B:FZ:R:=R:@Z:>Z:vYxIB:>::@J:
+ryvY::Z:j:@:>:=R:vYxIB:B:<J::ryvY::Z:j:@j:@J:B:jysyZ:J::@J:B:xIyA::B:>
+::jysyZ:J::@:<Zymy;::<:;::vYxIB:>::Zymy;::<:;::vYxIB:>::Zymy;::<:;::vY
+xIB:>::Zymy;::<:;::vYxIB:>:@:<:ryvY::Z:J:::yay=<:;R:B::xIyA::v;>::jysy
+Z:J:::xIyA::N[:J:::yay=<:;::ryvY::j<>:;::vYxIB:>::Zymy;::;Z:::vYxIB:>:
+R:B:ryvY::J:B:::yay=<:;::ryvY::J:B:::yay=@Z:B:j:R:>Zymy;::;Z:::vYxIB:>
+:R:B:FZyyYyA::\\\\:B:::yay=@:<:@J:B:=j:djyyyyyI::<:;::jysyZBF:@Z:>Z;FZ
+:J:NZ<n\\yyyyyY::S:;::jysyZDZ:::@j<xyywY:ZPZ:::jysyZVF:>Z;>:<:J;dJQxyy
+wY:N];Z:::jysyZiV:>:::xjPxyywYBDYb:B:::jysy:Y:;::Z;^ZI>^dN_fF_ZN[;F:>:
+::jysy:<j:J::j:<Z;FZ;FZ:FZ;Z:F:;B:;R:;Z:::vYxIZ;Z:::=j:R:;B:<j:>:;:=R:
+B:::yay=RCCR:B:::=B:>:=:;:F;>::jysy:f\\;B:<::::=:;:yI:>::jyyiy=jQDZ;>:
+<Z;Z::::jy=:;::vyyuy:b:Z::::=j:<J:>:=bCyI:>::jysy:j;@j:<Z;F:<J:R:;Z::j
+:@j:@lyyi:>:;::vYxI:B;=B:@J:>Z::::=R:cryyqy=:;::vYxI:jDFZ:J:@J::=Z:>:=
+:AR<yyyyyy<:;::vYxI:Z>:;::F:=R:=r:oryyqyC:>::jysy::jPLZ=FZ;Z:FZ;>Z;R:G
+RAyyyxIRE;Z:::yay=::rE=c<Ob;CB;Cb;ORBQsyyqy;:::::::jQxlQxiy=::::::::::
+:::::;Z:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::FZ
+:vc:^GEM:>:::::::::J?N:yyyxI:;Z::::::j;<:cB:>:NZ:vc::[LsfFaMR>@>Z:::::
+:::kJ;<jysy:>:<::::::eB:<JFP<<::::::::::::vYxI:;Z::::::::::::::::::::y
+ay=J:B::::::::vYxy;<:CB:F:;jysy?J:>:>G;JQC:>:=j>r:ke>F:?D>;J:F;<JMTjA<
+J>ve@gcLGcNwe]V:n=EJ:V[<J:<j<J@DJrfAEb:vXHJ:@J<LJ<<JLLjA<JLxjA<jQLjA<j
+QxjA<:CC:YKL<jQv_:^bI^^:^b^^^:^biv_:^b>w_:Neiv_:NECD:oDKYC:LN\\<JgdO\\
+<JgNe:^fT_b:^fTOe:BSoLl^f:Ni^_f:bXCE:oMw<JwLRw<J<eQw<J<MRw<:CF:Cf`CF:C
+NG=JGeS<=JGeSG=ZiPm:NMYG:Yg`oF:YweoF:YoQ=Ztxo:Nqtxo:JW=JWyVW=JWws:NqTy
+SYxmYH:YhpYH:xXg=JgyXg=:YI:ohxYI:Yy=CB:Yy=CD:YICYjqMLLvwi^^:vw>w[:BKCC
+:v_:vWCD:YiPYC:YiPoD:YiPCE:YISoD:YISCE:YiXCD:YQw<jqMRw<jq_j:vw>Pm:vwT`
+j:vwTPMYyeonqwOYihY?oG:YymoG:YqawwiQUYyuYI:YixYI:Ny:Ny>^Z:Ny^^^:NYYC:o
+yEYB:oQL<JwylQNy>w[:NYCC:LN\\NyT_^:NYYC:oiPCD:oQg<JwMpQ<Z^Oi:Nyt_b:bXo
+D:NIoI[CD:LRg<:CE:oQwJ<=ZTPi:b`oNwyTw<Jw_j:NyiPMoqQOytPi:bhCF:oihoF:vO
+xvQ=:oOwyvaOyTyo:JW=JwewaKg=Jwyxa=ZiQUoixoI:;J::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ya:^Z:
+>Z:^`<j;>:eK<j=@j;NbJj[xJJ^SFh:nA;B:;jr:;JN>:w;]M:<j:>;;J:>bVJ\\K\\K:@
+Z:B:^Z>B:YB;CC:Yr=CkALjQ<jAxjQ<JLv_:BCYkQL<Cs=CLLLL\\<jQxL\\<jQLN\\rEo
+D:CtEoD:YCKoD:CDKoD:dOgNeTC:CLl<Jg^f:BSCMlL@Ni:^ftOIoeXB[Nit_j:Ni>`JCF
+[b`CNGeS<=J<OMof`o^iPMYOGOmTxo:NmixOYweY_tlQOQoghrmooayVWcpooayvawsTyS
+oxuYPgOUYQgcxoH:Cr=YI:Ct=YqALlq=JLLlq=Zivw:BKYI:Lnq=jQLnq_b>wWYcPYQgdo
+q=JldoqOe^ww:^f^ww:^btww:Nitww:B[YI:CF[YI:oF[YQ<esq=JGesq=ZixWYweYI:du
+q=JWeuq=ZIyWYxmYI:opqwwiyWdyqOytyWCB;oI:CCCoI:YCCoI:YrEoI:CsEoI:YsEoqA
+LNw_^>OYCDKoQLdOw=jQdOw_bTOYoLw=jQLPwOi^OYCdXoI:odXoI:oeXoQ\\LRw=JgLRw
+=JlLRwOi>PYCNwOiTPy:NmTPYoueoI:CveoI:oveoqQOy:NitPy:^jtPYofhoqQeUw=ZIQ
+y:NQoqaOYYgpoI:ogpoqaeWwOuTQYYxuoI:oxuoQwOy:>:;:::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::vyyE:y
+yyxI:::::::::>Z:vYxI:::YsEYsyxI:::::;:xI::xlJZ>b;:yA::::;:xI:jPL:B:<j:
+@J:@Z;:xIRE;Z:::yayA:ry:B;J:::=B:=Z=jyyyyC:<J:::yayA:yay=jDJ:>Z;B:j:B:
+;j:j;`Zyuy<Z:>::jysy;jysy:L:@:;B:::j:@JDryyI:<J:::yayA:yay=VZ;Z;B:<J:R
+:;Z::j:@j:@\\yE:<J:::yayA:yay=DZ;Z::::=B:=B:;J:FZ`Z:>::jysy;jysyjQD:B:
+@J:B::::vy:>Z:>::jyyiyA:yay=eJ:B::::F:>:vy:B:;::vyyuy;jysyRCZ:::F:>:=:
+;:F;<J:::yayA:ryR:B::j:F:@J:B:=J:>:FZ;Z:::vYxY:Zy]:F:>::FZ:R:=R:=B:=:<
+j:>Z:>Z;>:<::jysy;B:ryv[:B:;::Z;^ZI>^d:O:;J::::yayA:yayuEA:;::ZI:yA\\<
+<J:<:::vYxY:ZyEAJ:@J:B::?b<vYyA:oJ:B:::vYxY:Zye<<Z:::@j<xyywY:ZPJ:<:::
+yayA:ry\\:@J:>Z;FZ:J:NZ<jywY::SZ:>:::yayA:ry@:<:@J:B:=j:djysy::B:<J:::
+vYxY:vYxi:B:;:@Z:B:FZymy;:Zb>Z:B:::yayA:yayU:B:j:<Z;J:xIyA::>:;B:::yay
+A:yayE:<J:::xIyA::>:<::jysy;jysy<Z:>:R:B:ryvY::J:B:::yayA:yayE:<J:::xI
+yA::>:<::jysy;jysy<Z:>::Zymy;::E:;::vYxY:vYxi:B:;::ryvY::J?J:::yayA:ya
+yE:<J:@:<:Zymy;::Y:;::vYxY:vYxi:B:;Z;Z::xIyA::B:>::jysy;jysy<Z:>::Zymy
+;::<:;::vYxY:vYxi:B:;::ryvY::Z:J:::yayA:yayE:<J:::xIyA::B:>::jysy;jysy
+<Z:>:Z;Z:ryvY::Z:J:::yayA:yayE:<J::@:<Zymy;::<:;::vYxY:vYxi:B:=:;:Zymy
+;::<:=R:=R:;Z::yayA:yayE:<J::R:;Zymy;::<:=R:;:;j:@:yayA:yayE:<J:::xIyA
+::B:FZ:R:=R:@j:<J:<jysy;jysy<Z:>::DJ:<Zymy;::<:;Z;R:@Z:>:yayA:yayE:<J:
+R:;Z::xIyA::B:F:Z;R:;B:yayA:yayE:<J:R:>Z::xIyA::B:>:F:>:vYxY:vYxi:B:;:
+:ryvY::Z:J:@j:@j:<Z;:yayA:yayE:<J:::xIyA::B:>::=B:<jysy;jysy<Z:>:@:<:r
+yvY::Z:J::=:;jysy;jysy<Z:>::Zymy;::<:=Z;J:<j:@J:vYxY:vYxi:B:;:Z;>:;ryv
+Y::Z:J:@:<j:@j:@J:vYxY:vYxi:B:;::ryvY::Z:j:<Z:>:=R:@J:vYxY:vYxi:B:;::r
+yvY::Z:j:>:=B:=R:>Z:v?xY:vYxi:B:;::ryvY::Z:J:@:;B:=Z:>:Y[yA:yayE:<J:::
+xIyA::B:FZ;FZ;>:=Z;>:Y[yA:yayE:<J:::xIyA::B:>:j:<j:>Z:v?xY:vYxi:B:;Z;Z
+::xIyA::B:>:j:F:;jQry;jysy<Z:>Z;Z::ryvY::Z:J::@j:jQry;jysy<Z:J:@:;B:Zy
+my;::<:=B:@:;j:@Z:f?jysy<Z:>:@J:>Z::xIyA::B:F::jP:yayE:<J:::xIyA::B:FZ
+;>Z;Z:F:<jP:yayE:<J:::xIyA::B:F:=R:;J:<j:<:U;vYxi:B:;::ryvY::Z:j:@Z;>:
+=B:=R:;jP:yayE:<J:b:@j:FZ:>Z:>Zymy;::<:=R:=R::;B:U;vYxi:B:;::ryvY::Z:J
+:::U;vYxi:B:;::ryvY::Z:J:::S;vYxI:::::::::>:ry:::::::::J:Zy=:::::::::;
+:xI:::::::::>:ry:::::::::J:Zy=:::::::::;:xI:::::::::>:ry:::::::::J:Zy=
+:::::::::;:xI:::::::::>:ry:::::::::J:Zy=:::::::::;:xI:RN]lb:::::vYxI:;
+:xI:RNFD:::::yay=J:Zy=:@?]<::::bFxiy=J:Zy=:@?]<::::jysy:>:ry:ZKkb:ZlN`
+KkbJS@?]<DMSD=xI:;:xI:BRwLj^Fjl:>GJoh`isU[=ry:>:ry:::::::::J:Zy=::::::
+:::;:xI:::::::::>:ry::::Jt\\Ayyy:JvryvY:;:xI:keFf@yqy;bRFD?=xIJtH?@OkZ
+y=;:xIJ_ZKKVryxIfEFD^Eyqy[rGD@?vYxI>:ryZlZK;^`ymy_A]lb:vYxI_;]<bRyayM:
+Zy=@?]<ZymyGD@?:S=yYURN:vHvY;:xI^CFD:xIyiSRN:N`ymyMmbRN:>EvY;:xIVBFD:H
+ayUORN:ryNcKkb:Zymy?:ryJTjb:BQbFRN:rV^E]lb:JSjy?:ryJTjb:BQbFRN:rVfEFD:
+ryvY;:xIn@FD:@@D=@?:XAK=]<:xIyQ:Zy=K=]<Zmkya=@?:xIyIGRN:^dymy?:ryZKkb:
+ryvYc;]<juryyQSjb:<pysy>:ryZnZK;^DvY]eF]\\K;vYxIE=]<N`ymyK:Zy=^@FDBGry
+JSjbJS\\@xITA@?vYxI>:ry:m=@?q<yAVHFDDMrjy;k<@OSL?xI>:ry:::::::::J:Zy=:
+::::::::;:xI:::::::::>:ry:::::::::J:Zy=:::rSFDm;xI:::>:ry::::@?]\\lvYx
+I:::>:ry::::@?]<EmywY:::>:ry::::M=]<xIyA:::;:xI:::jfjbJSXAxI:::;:xI:::
+JnjbZymy;::J:Zy=:::>IFDnEyqy;::J:Zy=:::bFRNDmysy:::J:Zy=:::Zi;xI:::J:Z
+y=:::::::::;:xI:::::::::>:ry:::::::::J:Zy=:::::::::;J<>:IS:yq;<:;:::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::@ssyA;Z:B::::
+:1:" }}{PARA 18 "" 0 "" {TEXT 306 0 "" }{TEXT -1 0 "" }{TEXT 339 17 "
+\301lgebra 2002/2003" }}{PARA 258 "" 0 "" {TEXT 341 0 "" }{TEXT 340 
+10 "Pr\341ctica 3" }}{PARA 259 "" 0 "" {TEXT 304 35 "M\351todos num
+\351ricos de resoluci\363n de " }}{PARA 263 "" 0 "" {TEXT 347 31 "sist
+emas de ecuaciones lineales" }}{PARA 262 "" 0 "" {TEXT -1 0 "" }}
+{PARA 261 "" 0 "" {TEXT 305 29 "Por: R.Criado y A.Gallinari, " }{TEXT 
+-1 10 "E.S.C.E.T." }{TEXT 343 6 ", URJC" }}{PARA 260 "" 0 "" {TEXT -1 
+54 "\332ltima actualizaci\363n: L.Sol\341 y A.Gallinari, E.S.C.E.T." }
+{TEXT 342 12 ", URJC, 2003" }}{PARA 19 "" 0 "" {TEXT -1 0 "" }}{SECT 
+1 {PARA 3 "" 0 "" {TEXT 257 22 "Objetivos de la sesi\363n" }}{PARA 15 
+"" 0 "" {TEXT -1 49 "Recordar algunas de las funciones de la librer
+\355a " }{TEXT 344 6 "linalg" }{TEXT -1 128 " con las que hemos trabaj
+ado en las pr\341cticas anteriores e introducir otras nuevas necesaria
+s para el desarrollo de la pr\341ctica." }}{PARA 15 "" 0 "" {TEXT -1 
+262 "Afianzar en el alumno la comprensi\363n de los conceptos de error
+ absoluto, relativo y condicionamiento. Aprendizaje de algunos m\351to
+dos directos que reducen la acumulaci\363n de error o que reducen el t
+iempo de c\341lculo y de la realizaci\363n de dichos m\351todos con Ma
+ple. " }}{PARA 15 "" 0 "" {TEXT -1 140 "Toma de contacto con los m\351
+todos iterativos, que no proporcionan una soluci\363n exacta, sino una
+ sucesi\363n que se va aproximando a la soluci\363n." }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}{SECT 1 {PARA 3 "" 0 "
+" {TEXT 264 7 "Tiempos" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 435 
+"La duraci\363n de la pr\341ctica (incluida la evaluaci\363n) es de  d
+os horas. La primera hora (aproximadamente) se dedicar\341 al desarrol
+lo-estudio de los contenidos de los apartados \"Comandos de Maple nece
+sarios para la realizaci\363n de esta pr\341ctica\" y \"Lecci\363n\", \+
+donde se introducen y repasan los conceptos y se muestran los comandos
+ de Maple precisos para el desarrollo de la pr\341ctica. La segunda ho
+ra a la realizaci\363n del test de evaluaci\363n. " }}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}{SECT 1 {PARA 4 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 348 43 "Como se debe realizar la siguiente pr\341
+ctica" }}{PARA 0 "" 0 "" {TEXT -1 210 "El presente gui\363n seguido co
+n las indicaciones y observaciones del profesor contiene las instrucci
+ones precisas para realizar con el ordenador ejercicios sobre los cont
+enidos presentados en las clases te\363ricas." }}{PARA 0 "" 0 "" 
+{TEXT -1 186 "Lo deseable, para que queden afianzadas las ideas y las \+
+nociones b\341sicas sobre la sintaxis de Maple, es que se realicen pru
+eba y nuevos ejemplos sobre la base de los ejemplos planteados." }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}{SECT 0 
+{PARA 4 "" 0 "" {TEXT -1 65 "Comandos de Maple necesarios para la real
+izaci\363n de esta pr\341ctica" }}{PARA 0 "" 0 "" {TEXT -1 100 "En est
+a primera parte de la pr\341ctica se describen a trav\351s de ejemplos
+ algunos comandos del paquete " }{TEXT 345 6 "linalg" }{TEXT -1 177 " \+
+ necesarios para el desarrollo de la pr\341ctica. As\355 pues el alumn
+o deber\341 ejecutar  dichos ejemplos y teclear\341 otros que le permi
+tan comprender la aplicaci\363n de dichos comandos." }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 131 "Los siguientes son com
+andos que pueden ser necesarios para la realizaci\363n de esta pr\341c
+tica  y que est\341n disponibles en la librer\355a " }{TEXT 346 6 "lin
+alg" }{TEXT -1 215 ". Algunos de ellos fueron introducidos en pr\341ct
+icas anteriores y otros no, por lo cual nos centraremos fundamentalmen
+te en estos \372ltimos. Ante cualquier duda que pueda surgir, consulta
+r con la ayuda (help) de Maple." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 98 "    linsolve            nullspace        \+
+   solve                     randmatrix                  " }}{PARA 0 "
+" 0 "" {TEXT -1 67 "    genmatrix         row, col            geneqns \+
+               op" }}{PARA 0 "" 0 "" {TEXT -1 85 "    isolate         \+
+     stackmatrix       augment                delcols, delrows   " }}
+{PARA 0 "" 0 "" {TEXT -1 68 "    addrow            mulrow             \+
+swaprow              concat" }}{PARA 0 "" 0 "" {TEXT -1 73 "    addcol
+             mulcol               swapcol                pivot " }}
+{PARA 0 "" 0 "" {TEXT -1 72 "    LUdecomp      gausselim          back
+sub                forwardsub  " }}{PARA 0 "" 0 "" {TEXT -1 4 "    " }
+}{PARA 0 "" 0 "" {TEXT 349 39 "Descripci\363n de los comandos menciona
+dos" }{TEXT 350 1 ":" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 21 "restart:with(linalg):" }}{PARA 7 "" 1 "" 
+{TEXT -1 32 "Warning, new definition for norm" }}{PARA 7 "" 1 "" 
+{TEXT -1 33 "Warning, new definition for trace" }}}{PARA 0 "" 0 "" 
+{TEXT -1 153 "Como ya vimos, los sistemas de ecuaciones lineales tambi
+\351n pueden ser resueltos utilizando su representaci\363n matricial. \+
+En ese caso se emplea el comando " }{TEXT 262 13 "linsolve(A,B)" }
+{TEXT -1 82 ", entendi\351ndose, entonces que lo que se est\341 resolv
+iendo es la ecuaci\363n matricial " }{XPPEDIT 18 0 "AX = B;" "6#/%#AXG
+%\"BG" }{TEXT -1 3 " : " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "A
+:= matrix([[1,2,2],[1,1,3],[-2,0,1]]);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%\"AG-%'matrixG6#7%7%\"\"\"\"\"#F+7%F*F*\"\"$7%!\"#\"\"!F*" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "B:=matrix([[3],[2],[1]]);" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"BG-%'matrixG6#7%7#\"\"$7#\"\"#7#
+\"\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "linsolve(A,B);" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'matrixG6#7%7##!\"\"\"\"$7##\"\"%F*
+7##\"\"\"F*" }}}{PARA 0 "" 0 "" {TEXT -1 11 "El comando " }{TEXT 295 
+9 "nullspace" }{TEXT -1 0 "" }{TEXT 296 1 " " }{TEXT -1 83 "obtiene un
+a base del espacio de las soluciones de una ecuaci\363n matricial homo
+g\351nea " }{XPPEDIT 18 0 "CX" "6#%#CXG" }{TEXT -1 3 "=0:" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "C:=matrix([[1,2,2],[1,1,3],[2,2,6]]
+);nullspace(C);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"CG-%'matrixG6#7
+%7%\"\"\"\"\"#F+7%F*F*\"\"$7%F+F+\"\"'" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#<#-%'vectorG6#7%!\"%\"\"\"F)" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{PARA 0 "" 0 "" {TEXT -1 64 "En general cualquier ecuaci\363n puede s
+er resuelta con el comando " }{TEXT 263 5 "solve" }{TEXT -1 247 ". La \+
+sintaxis de este comando es la siguiente: solve(lhs=rsh,x);. Permite r
+esolver una ecuaci\363n compuesta por la igualdad de dos expresiones (
+left-hand-side y right-hand-side) respecto de la variable  especificad
+a (en este caso la x). Por ejemplo:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 21 "solve(x^3-3*x+2=0,x);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6%!\"#\"\"\"F$" }}}{PARA 0 "" 0 "" {TEXT -1 71 "Como se puede comp
+robar, si una ra\355z es m\372ltiple aparece varias veces. " }}{PARA 
+0 "" 0 "" {TEXT -1 77 "La ecuaci\363n anterior tambi\351n se puede pla
+ntear y resolver del siguiente modo:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "ecuacion:=x^3+2=3*x;" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%)ecuacionG/,&*$)%\"xG\"\"$\"\"\"\"\"\"\"\"#F,,$F)F*" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "solve(ecuacion,x);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6%!\"#\"\"\"F$" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "rhs(ecuacion);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#,$%
+\"xG\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "lhs(ecuacion);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#,&*$)%\"xG\"\"$\"\"\"\"\"\"\"\"#F)
+" }}}{PARA 0 "" 0 "" {TEXT -1 85 "El comando anterior tambi\351n se pu
+ede emplear para resolver un sistema de ecuaciones: " }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 76 "solve(\{x1-x2+x3=1,4*x1-5*x2-5*x3=4,2*x1+
+x2-x3=2,x1+2*x2-2*x3=1\},\{x1,x2,x3\});" }}{PARA 11 "" 0 "" {TEXT -1 
+0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#<%/%#x3G\"\"!/%#x2GF&/%#x1G\"\"
+\"" }}}{PARA 0 "" 0 "" {TEXT -1 11 "El comando " }{TEXT 351 9 "genmatr
+ix" }{TEXT -1 1 " " }{TEXT 352 27 "([eq1,...,eqn],[x1,...,xn])" }
+{TEXT -1 83 " nos permite recuperar la matriz del sistema de ecuacione
+s anterior, mientras que  " }{TEXT 260 9 "genmatrix" }{TEXT -1 1 " " }
+{TEXT 259 33 "([eq1,...,eqn],[x1,...,xn], flag)" }{TEXT -1 147 " nos p
+ermite recuperar la matriz ampliada del sistema de ecuaciones anterior
+, apareciendo en la \372ltima columa el vector de t\351rminos independ
+ientes." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 83 "A:=genmatrix([x1-
+x2+x3=1,4*x1-5*x2-5*x3=4,2*x1+x2-x3=2,x1+2*x2-2*x3=1],[x1,x2,x3]);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7&7%\"\"\"!\"\"F*7%
+\"\"%!\"&F.7%\"\"#F*F+7%F*F0!\"#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 89 "Am:=genmatrix([x1-x2+x3=1,4*x1-5*x2-5*x3=4,2*x1+x2-x3
+=2,x1+2*x2-2*x3=1],[x1,x2,x3],flag);" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%#AmG-%'matrixG6#7&7&\"\"\"!\"\"F*F*7&\"\"%!\"&F.F-7&\"\"#F*F+F07&F
+*F0!\"#F*" }}}{PARA 0 "" 0 "" {TEXT -1 88 "Si ahora queremos resolver \+
+el sistema planteado de forma matricial empleando el comando " }{TEXT 
+261 8 "linsolve" }{TEXT -1 40 ", basta con recuperar la \372ltima colu
+mna:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "B:=col(Am,4);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"BG-%'vectorG6#7&\"\"\"\"\"%\"\"#F)
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "linsolve(A,B);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'vectorG6#7%\"\"\"\"\"!F(" }}}{PARA 
+0 "" 0 "" {TEXT -1 148 "Si, a partir de un sistema de ecuaciones plant
+eado en forma matricial, queremos obtener el sistema en la forma usual
+,  basta con emplear el comando " }{TEXT 326 24 "geneqns(A,[x1,...,xn]
+,B)" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "E:= g
+eneqns(A,[x1,x2,x3],B);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"EG<&/,(
+%#x1G\"\"\"%#x2G!\"\"%#x3GF)F)/,(F(\"\"%F*!\"&F,F0F//,(F(\"\"#F*F)F,F+
+F3/,(F(F)F*F3F,!\"#F)" }}}{PARA 0 "" 0 "" {TEXT -1 11 "El comando " }
+{TEXT 288 0 "" }{TEXT 289 2 "op" }{TEXT -1 0 "" }{TEXT 291 5 "(k,E)" }
+{TEXT -1 53 " obtiene la ecuaci\363n k de un sistema de n ecuaciones:
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "op(2,E);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#/,(%#x1G\"\"%%#x2G!\"&%#x3GF(F&" }}}{PARA 0 "" 0 "
+" {TEXT -1 11 "El comando " }{TEXT 258 1 "i" }{TEXT 286 0 "" }{TEXT 
+287 6 "solate" }{TEXT -1 158 " permite despejar una expresi\363n (o, e
+n particular, una variable) en una ecuaci\363n dada. Para hacer uso de
+ este comando es preciso leer previamente la libreria " }{TEXT 290 7 "
+isolate" }{TEXT -1 1 "." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "r
+eadlib(isolate):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "isolate
+(x-1/2*sin(a),x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%\"xG,$-%$sinG6#
+%\"aG#\"\"\"\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "isolat
+e(x-1/2*sin(a),sin(a));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%$sinG6#%
+\"aG,$%\"xG\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "isolate
+(x^2+2*sin(y)-log(z)=k,y);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%\"yG,$
+-%'arcsinG6#,(%\"kG#!\"\"\"\"#*$)%\"xGF-\"\"\"#\"\"\"F--%#lnG6#%\"zGF+
+F," }}}{PARA 0 "" 0 "" {TEXT -1 7 "Sean A1" }{TEXT 292 1 " " }{TEXT 
+-1 29 "y B1 las siguientes matrices:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 27 "A1:=matrix(2,2,[7,-2,5,0]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#A1G-%'matrixG6#7$7$\"\"(!\"#7$\"\"&\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "B1:=matrix(2,2,[2,1,8,0]);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#B1G-%'matrixG6#7$7$\"\"#\"\"\"7$\"
+\")\"\"!" }}}{PARA 0 "" 0 "" {TEXT -1 65 "Para acceder al elemento (i,
+j) de una matriz C  hay que escribir " }{TEXT 325 7 "C [i,j]" }{TEXT 
+-1 14 ". Por ejemplo:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "c:=
+B1[2,1];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"cG\"\")" }}}{PARA 0 "
+" 0 "" {TEXT -1 14 "Las funciones " }{TEXT 323 9 "row(A,r1)" }{TEXT 
+-1 2 ", " }{TEXT 324 9 "col(A,c1)" }{TEXT -1 131 " devuelven la fila r
+1 y la columna c1 de A, respectivamente. N\363tese que col(A,c1) devue
+lve una  matriz fila, no una matriz columna:" }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 29 "r2:=row(A1,2); c3:=col(B1,1);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#r2G-%'vectorG6#7$\"\"&\"\"!" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#c3G-%'vectorG6#7$\"\"#\"\")" }}}{PARA 0 "" 0 "" 
+{TEXT -1 11 "La funci\363n " }{TEXT 327 11 "stackmatrix" }{TEXT -1 32 
+" une dos matrices verticalmente:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "stackmatrix(A1,B1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#-%'matrixG6#7&7$\"\"(!\"#7$\"\"&\"\"!7$\"\"#\"\"\"7$\"\")F," }}}
+{PARA 0 "" 0 "" {TEXT -1 11 "La funci\363n " }{TEXT 328 7 "augment" }
+{TEXT -1 34 " une dos matrices horizontalmente." }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 15 "augment(A1,B1);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#-%'matrixG6#7$7&\"\"(!\"#\"\"#\"\"\"7&\"\"&\"\"!\"\")F." }}}
+{PARA 0 "" 0 "" {TEXT -1 11 "La funci\363n " }{TEXT 329 15 "delcols(A,
+r..s)" }{TEXT -1 18 " (respectivamente " }{TEXT 330 15 "delrows(A,r..s
+)" }{TEXT -1 73 ") elimina las columnas (respectivamente filas) r,r+1,
+...,s de la matriz A" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "delc
+ols(augment(A1,B1),2..4);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'matrix
+G6#7$7#\"\"(7#\"\"&" }}}{PARA 0 "" 0 "" {TEXT -1 53 "En esta pr\341cti
+ca tambi\351n vamos a utilizar la funci\363n " }{TEXT 331 5 "pivot" }
+{TEXT -1 37 ", ya empleada en las pr\341cticas 1 y 2:" }}{PARA 0 "" 0 
+"" {TEXT -1 27 "Llamada a la funci\363n pivot:" }}{PARA 0 "" 0 "" 
+{TEXT -1 22 "     pivot(A, i, j)   " }}{PARA 0 "" 0 "" {TEXT -1 28 "  \+
+   pivot(A, i, j, r..s)   " }}{PARA 0 "" 0 "" {TEXT -1 14 "Par\341metr
+os:   " }}{PARA 0 "" 0 "" {TEXT -1 20 "    A    - matriz   " }}{PARA 
+0 "" 0 "" {TEXT -1 28 "    i,j  - enteros positivos" }}{PARA 0 "" 0 "
+" {TEXT -1 25 "    r..s - rango de filas" }}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}
+{PARA 0 "" 0 "" {TEXT -1 411 "La funci\363n pivot toma como entradas u
+na matriz A y un par de enteros positivos i y j que determinan el elem
+ento A[i,j] de A. Este elemento debe ser distinto de cero, produci\351
+ndose un error en caso contrario. La funci\363n devuelve una matriz de
+l mismo orden que A, resultado de aplicar transformaciones elementales
+ de fila con el objeto de obtener ceros en la columna j excepto, por s
+upuesto, el elemento A[i,j].  " }}{PARA 0 "" 0 "" {TEXT -1 164 "La lla
+mada pivot(A,i,j,r..s) tiene pr\341cticamente la misma funcionalidad q
+ue pivot(A,i,j) excepto que las transformaciones tan s\363lo afectan a
+ las filas r, r+1,...,s." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "
+P1:=pivot(stackmatrix(A1,B1),1,1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+>%#P1G-%'matrixG6#7&7$\"\"(!\"#7$\"\"!#\"#5F*7$F-#\"#6F*7$F-#\"#;F*" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 
+"" 0 "" {TEXT -1 126 "Para finalizar, recordaremos dos de las funcione
+s ya vistas en la pr\341ctica anterior relacionadas con esto que acaba
+mos de ver:" }}{PARA 0 "" 0 "" {TEXT -1 11 "el comando " }{TEXT 332 
+12 "gausselim(A)" }{TEXT -1 123 " nos devuelve la matriz triangular su
+perior obtenida al aplicar el m\351todo de eliminaci\363n gaussiana po
+r filas a la matriz A:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "ga
+usselim(A1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'matrixG6#7$7$\"\"(!
+\"#7$\"\"!#\"#5F(" }}}{PARA 0 "" 0 "" {TEXT -1 63 "Es posible aplicar \+
+este comando columna a columna. Por ejemplo:" }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 50 "C:=augment(stackmatrix(A1,B1),stackmatrix(B1,A1));
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"CG-%'matrixG6#7&7&\"\"(!\"#\"
+\"#\"\"\"7&\"\"&\"\"!\"\")F07&F,F-F*F+7&F1F0F/F0" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 15 "gausselim(C,1);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#-%'matrixG6#7&7&\"\"(!\"#\"\"#\"\"\"7&\"\"!#\"#5F(#\"#YF(#!\"&F(
+7&F-#\"#6F(#\"#XF(#!#;F(7&F-#\"#;F(#\"#>F(#!\")F(" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 15 "gausselim(C,2);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#-%'matrixG6#7&7&\"\"(!\"#\"\"#\"\"\"7&\"\"!#\"#5F(#\"#Y
+F(#!\"&F(7&F-F-#!\"%\"\"&#!\"$F*7&F-F-#!#RF7F-" }}}{PARA 0 "" 0 "" 
+{TEXT -1 11 "El comando " }{TEXT 284 12 "backsub(A,B)" }{TEXT -1 243 "
+ obtiene X tal que A*X=B, siendo A una matriz triangular superior (obt
+enida aplicando por ejemplo el comando gausselim) y B es un vector (o \+
+incluso una matriz) del rango adecuado. Es decir, es una rutina que ca
+lcula la sustituci\363n hacia atr\341s." }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 16 "A:=gausselim(C);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%\"AG-%'matrixG6#7&7&\"\"(!\"#\"\"#\"\"\"7&\"\"!#\"#5F*#\"#YF*#!\"&F*7
+&F/F/#!\"%\"\"&#!\"$F,7&F/F/F/#\"$<\"\"\")" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 12 "B:=col(C,2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+\"BG-%'vectorG6#7&!\"#\"\"!\"\"\"F*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "backsub(A,B);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'v
+ectorG6#7&#\"#7\"\"(#\"#B\"\"%#!\"&F,\"\"!" }}}{PARA 0 "" 0 "" {TEXT 
+-1 10 "El comando" }{TEXT 317 16 " forwardsub(A,b)" }{TEXT -1 143 " re
+suelve el sistema A*X=B por sustituci\363n hacia adelante, siendo A un
+a matriz triangular inferior, y se utiliza exactamente igual que backs
+ub." }}{PARA 0 "" 0 "" {TEXT -1 23 "Finalmente, el comando " }{TEXT 
+315 12 "LUdecomp(A) " }{TEXT -1 97 "calcula la descomposici\363n LU de
+ una matriz A. Veremos c\363mo usarlo en el apartado correspondiente.
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}
+{SECT 0 {PARA 3 "" 0 "" {TEXT -1 7 "Lecci\363n" }}{PARA 0 "" 0 "" 
+{TEXT -1 435 "Esta pr\341ctica se compone de tres partes: la primera t
+rata de como los errores en los coeficientes pueden afectar a la soluc
+i\363n de un sistema lineal; la segunda de dos m\351todos directos de \+
+resoluci\363n de sistemas lineales, eliminaci\363n Gaussiana con pivot
+e parcial y la descomposici\363n LU; finalmente la tercera parte trata
+ de los m\351todos iterativos, es decir, m\351todos que proporcionan u
+na sucesi\363n de vectores que convergen a la soluci\363n. " }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 49 "Errores
+ de redondeo y sistemas mal condicionados " }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 8 "restart:" }}}{PARA 0 "" 0 "" {TEXT -1 76 "Hay cierto
+s aspectos pr\341cticos relacionados con la resoluci\363n de sistemas \+
+de" }{TEXT 265 2 " n" }{TEXT -1 25 " ecuaciones lineales con " }{TEXT 
+266 1 "n" }{TEXT -1 45 " inc\363gnitas que todav\355a no hemos contemp
+lado." }}{PARA 0 "" 0 "" {TEXT -1 155 "En particular, no hemos tenido \+
+en cuenta que los ordenadores tienen un l\355mite de cifras decimales \+
+que pueden almacenar, por lo que al realizar operaciones " }{TEXT 300 
+12 "\"redondean\" " }{TEXT -1 52 "(es decir, cambian o no la \372ltima
+ cifra considerada)" }{TEXT 302 1 " " }{TEXT -1 2 "o " }{TEXT 301 10 "
+\"truncan\" " }{TEXT -1 95 "(cortan por la \372ltima cifra considerada
+ sin m\341s) la mayor\355a de los n\372meros con los que operan. " }}
+{PARA 0 "" 0 "" {TEXT -1 127 "Al emplear Maple podemos controlar el n
+\372mero de cifras decimales con el que vamos a trabajar cambiando el \+
+valor de la variable " }{TEXT 285 6 "Digits" }{TEXT -1 14 ". Por ejemp
+lo:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "evalf(2/3);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+nmmmm!#5" }}}{PARA 0 "" 0 "" {TEXT -1 
+94 "Como puede comprobarse, Maple ha redondeado 2/3, incrementando la \+
+\372ltima cifra en una unidad. " }}{PARA 0 "" 0 "" {TEXT 353 9 "Redond
+ear" }{TEXT -1 164 " consiste en aumentar la \372ltima cifra considera
+da en una unidad si la cifra que la sigue es mayor que 5, y dejarla co
+mo est\341 si dicha cifra es menor o igual que 5. " }}{PARA 0 "" 0 "" 
+{TEXT 354 7 "Truncar" }{TEXT -1 84 " consiste no alterar la \372ltima \+
+cifra, sea o no la siguiente inferior o superior a 5." }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 11 "Digits:=20;" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%'DigitsG\"#?" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "eva
+lf(2/3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"5nmmmmmmmmm!#?" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "evalf(1/3);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#$\"5LLLLLLLLLL!#?" }}}{PARA 0 "" 0 "" {TEXT -1 76 
+"Como se puede observar, en este \372ltimo caso redondear y truncar es
+ lo mismo." }}{PARA 0 "" 0 "" {TEXT -1 148 "En cualquier caso, sea por
+ redondeo o por truncamiento, al sustituir 2/3 por ese valor aproximad
+o estamos introduciendo un error al que se denomina " }{TEXT 267 17 "e
+rror de redondeo" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" {TEXT -1 21 "En g
+eneral, se llama " }{TEXT 355 5 "error" }{TEXT -1 106 " a la diferenci
+a entre el valor real y el valor redondeado, truncado, o aproximado de
+ un n\372mero. Se llama " }{TEXT 356 14 "error relativo" }{TEXT -1 
+187 " al cociente entre el error y el valor real; es decir, se trata d
+e una medida de lo \"importante\" que es error con respecto al valor r
+eal. Por ejemplo, si tenemos dos n\372meros reales a y b:" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "Digits:=5:" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "a:=0.654; b:=10.337;" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%\"aG$\"$a'!\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"bG$\"&P.\"!
+\"$" }}}{PARA 0 "" 0 "" {TEXT -1 56 "y en un proceso hemos obtenido un
+os valores aproximados:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "a
+pert:=0.643;bpert:=10.348;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&apert
+G$\"$V'!\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&bpertG$\"&[.\"!\"$" 
+}}}{PARA 0 "" 0 "" {TEXT -1 32 "los errores han sido los mismos:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "errora:=abs(a-apert);errorb:
+=abs(b-bpert);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'erroraG$\"#6!\"$
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'errorbG$\"#6!\"$" }}}{PARA 0 "
+" 0 "" {TEXT -1 85 "pero los errores relativos son mayores para a, por
+ ser m\341s peque\361o en valor absoluto:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 49 "errela:=errora/(abs(a)); errelb:=errorb/(abs(b));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'errelaG$\"&?o\"!\"'" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%'errelbG$\"&T1\"!\"(" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 201 "Es \+
+importante observar que la introducci\363n de errores de redondeo tien
+e como consecuencia que ciertas propiedades no sean v\341lidas al intr
+oducir dichos errores, como por ejemplo la propiedad asociativa:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "Digits:=4;" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#>%'DigitsG\"\"%" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 16 "(1+.0003)+.0003;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$
+\"%+5!\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "1+(.0003+.0003
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"%,5!\"$" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 33 "(1+.0003)+.0003<>1+(.0003+.0003);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#0$\"%+5!\"$$\"%,5F&" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 11 "Digits:=10;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%'DigitsG\"#5" }}}{PARA 0 "" 0 "" {TEXT -1 728 "La introducci\363n de \+
+errores de redondeo puede ser especialmente importante, pues el efecto
+ acumulado de este tipo de errores puede hacer que obtengamos graves i
+nexactitudes en la soluci\363n; dicho problema se acentuar\341 para si
+stemas con muchas ecuaciones e incognitas, pues sobre ellos tendremos \+
+que realizar un gran n\372mero de operaciones, y cada una aporta una v
+ariaci\363n al error. Pero, no s\363lo la dimensi\363n de los sistemas
+ es importante, sino que la variaci\363n de los errores al resolver un
+ sistema de ecuaciones depende enormemente de sus coeficientes. A los \+
+sistemas que son tan extremadamente sensibles que incluso los errores \+
+m\341s ligeros en los coeficientes conducen a inexactitudes importante
+s en la soluci\363n se les denomina " }{TEXT 268 28 "sistemas mal cond
+icionados. " }}{PARA 0 "" 0 "" {TEXT 333 23 "Consideremos adem\341s qu
+e" }{TEXT 334 1 " " }{TEXT -1 245 "este tipo de situaciones es muy com
+\372n en el ambito de la ciencia y de la ingenier\355a, donde los coef
+icientes del sistema que ha de resolverse se obtienen frecuentemente m
+ediante una medici\363n experimental, y por tanto no est\341n exentos \+
+de errores. " }}{PARA 0 "" 0 "" {TEXT -1 59 "Por ejemplo, consid\351re
+se el sistema de ecuaciones lineales:" }}{PARA 0 "" 0 "" {XPPEDIT 18 
+0 "x+y=-3" "6#/,&%\"xG\"\"\"%\"yGF&,$\"\"$!\"\"" }}{PARA 0 "" 0 "" 
+{XPPEDIT 18 0 "x+1.016y  =5" "6#/,&%\"xG\"\"\"*&$\"%;5!\"$F&%\"yGF&F&
+\"\"&" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "ec1:=x+y=-3;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec
+1G/,&%\"xG\"\"\"%\"yGF(!\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+17 "ec2:=x+1.016*y=5;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec2G/,&%\"
+xG\"\"\"%\"yG$\"%;5!\"$\"\"&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 23 "solve(\{ec1,ec2\},\{x,y\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#<
+$/%\"yG$\"$+&\"\"!/%\"xG$!$.&F(" }}}{PARA 0 "" 0 "" {TEXT -1 83 "Al re
+solver el sistema anterior redondeando las cent\351simas, obtendr\355a
+mos el sistema" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "x+y=-3" "6#/,&%\"xG\"
+\"\"%\"yGF&,$\"\"$!\"\"" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "x+1.02y  =5
+" "6#/,&%\"xG\"\"\"*&$\"$-\"!\"#F&%\"yGF&F&\"\"&" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "ec1:=x+y=-3;
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec1G/,&%\"xG\"\"\"%\"yGF(!\"$" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "ec2:=x+1.02*y=5;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec2G/,&%\"xG\"\"\"%\"yG$\"$-\"!\"#
+\"\"&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "solve(\{ec1,ec2\},
+\{x,y\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#<$/%\"yG$\"$+%\"\"!/%\"xG
+$!$.%F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }
+}}{PARA 0 "" 0 "" {TEXT -1 128 "Obs\351rvese que un error de redondeo \+
+de 0.04 en un \372nico coeficiente del sistema conduce a un error impo
+rtant\355simo en la soluci\363n." }}}{SECT 0 {PARA 4 "" 0 "" {TEXT 
+307 44 "Reconocimiento de sistemas mal condicionados" }}{PARA 0 "" 0 "
+" {TEXT -1 279 "Ahondemos un poco m\341s en la noci\363n de error. Dad
+o un sistema lineal AX=b, podemos considerar perturbaciones (cambios) \+
+de los coeficientes de la matriz A y del t\351rmino independiente b y \+
+observar como var\355a la soluci\363n del sistema. De un modo no forma
+l, decimos que un sistema est\341" }{TEXT 358 17 " mal condicionado" }
+{TEXT -1 628 " cuando peque\361as perturbaciones en los coeficientes c
+onducen a grandes errores en las soluciones. Es importante entonces en
+ los problemas no teor\355cos (por ejemplo, en aquellos en que los coe
+ficientes se calculan de modo emp\355rico, y por tanto siempre tenemos
+ que considerar un error) tener m\351todos para reconocer los sistemas
+ mal condicionados y m\351todos para transformar sistemas mal condicio
+nados en sistemas bien condicionados, que no trataremos aqu\355. En cu
+alquier caso, hemos de definir alguna medida del condicionamiento de u
+n sistema que nos permita, sabiendo el posible error en los coeficient
+es de un sistema, calcular el " }{TEXT 357 12 "error m\341ximo" }
+{TEXT -1 39 " que podemos obtener en las soluciones." }}{PARA 0 "" 0 "
+" {TEXT -1 2 "  " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "restart:
+with(linalg):" }}{PARA 7 "" 1 "" {TEXT -1 32 "Warning, new definition \+
+for norm" }}{PARA 7 "" 1 "" {TEXT -1 33 "Warning, new definition for t
+race" }}}{PARA 0 "" 0 "" {TEXT -1 88 "Vamos a definir primero una medi
+da de las perturbaciones en una matriz. Definiremos una " }{TEXT 361 
+5 "norma" }{TEXT -1 256 " en el espacio de matrices, que nos d\351 una
+ medida del tama\361o de los coeficientes de una matriz, y luego compa
+raremos este tama\361o con el tama\361o de las perturbaciones que efec
+tuamos sobre la matriz. Una de las normas que podemos definir sobre ma
+trices es la " }{TEXT 308 14 "norma infinito" }{TEXT -1 112 ", que es \+
+el m\341ximo de los valores absolutos de sus coeficientes y que defini
+mos con el siguiente procedimiento: " }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 148 "norminf:=proc(A::matrix)\nlocal a,i,j;\na:=0:\nfor i
+ from 1 to rowdim(A) do\nfor j from 1 to coldim(A) do\na:=max(a,abs(A[
+i,j])):\nod: od:\nRETURN(a);\nend:" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{PARA 0 "" 0 "" {TEXT 309 8 "Ejemplo:" }{TEXT -1 55 " calculemos las \+
+normas infinito de la siguiente matriz:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 63 "A:=matrix(4,4,[10,7,8,7,7,5,6,5,8,6,10,9,7,5,9,10]);n
+orminf(A);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7&7&\"
+#5\"\"(\"\")F+7&F+\"\"&\"\"'F.7&F,F/F*\"\"*7&F+F.F1F*" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#\"#5" }}}{PARA 0 "" 0 "" {TEXT -1 110 "Modifiquemo
+s ahora los coeficientes de A en una peque\361a cantidad (menos de una
+ unidad), obteniendo la matriz A" }{TEXT 310 4 "pert" }{TEXT -1 63 ". \+
+Provocaremos perturbaciones aleatorias utilizando el comando " }{TEXT 
+311 47 "randmatrix(n\372mero de filas, n\372mero de columnas)" }{TEXT 
+-1 165 "; se suponen en principio perturbaciones del orden de las cien
+mil\351simas, pero el alumno puede cambiar posteriormente \351ste para
+metro y hacer sus propios experimentos:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 72 "Digits:=6:\npert:=evalm((.000001)*randmatrix(4,4));\n
+Apert:=evalm(A+pert);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%pertG-%'ma
+trixG6#7&7&$!#&)!\"'$!#bF,$!#PF,$!#NF,7&$\"#(*F,$\"#]F,$\"#zF,$\"#cF,7
+&$\"#\\F,$\"#jF,$\"#dF,$!#fF,7&$\"#XF,$!\")F,$!#$*F,$\"##*F," }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%&ApertG-%'matrixG6#7&7&$\"'#*****!\"&$\"'&
+***pF,$\"''***zF,$\"'(***pF,7&$\"'5+qF,$\"'0+]F,$\"'3+gF,$\"'1+]F,7&$
+\"'0+!)F,$\"'1+gF,$\"',+5!\"%$\"'%****)F,7&$\"'0+qF,$\"'****\\F,$\"'\"
+****)F,FA" }}}{PARA 0 "" 0 "" {TEXT -1 128 "Tomamos ahora un t\351rmin
+o independiente, tambi\351n aleatorio, y veamos como la perturbaci\363
+n en la matriz A afecta a las soluciones:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 65 "b:=randmatrix(4,1); \nX:=linsolve(A,b); \nXpert:=lins
+olve(Apert,b);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"bG-%'matrixG6#7&
+7#\"#V7#!#i7#\"#x7#\"#m" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"XG-%'ma
+trixG6#7&7#\"%\"*R7#!%Gm7#\"%r;7#!$x*" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%&XpertG-%'matrixG6#7&7#$\"'L(*R!\"#7#$!'ZQmF,7#$\"'gt;F,7#$!'N&y*
+!\"$" }}}{PARA 0 "" 0 "" {TEXT -1 30 "Observamos que las soluciones " 
+}{TEXT 427 1 "X" }{TEXT -1 3 " y " }{TEXT 428 5 "Xpert" }{TEXT -1 146 
+" obtenidas son muy diferentes. Ahora, utilizando la norma definida an
+teriormente, podemos dar una medida relativa de la perturbaci\363n en \+
+la matriz " }{TEXT 431 1 "A" }{TEXT -1 34 " y de la variaci\363n en la
+ soluci\363n " }{TEXT 429 1 "X" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" 
+{TEXT -1 48 "Para ello calculamos el cociente de la norma de " }{TEXT 
+430 5 "Apert" }{TEXT -1 1 "-" }{TEXT 313 1 "A" }{TEXT -1 19 " entre la
+ norma de " }{TEXT 432 1 "A" }{TEXT -1 30 " y el cociente de la norma \+
+de " }{TEXT 433 5 "Xpert" }{TEXT -1 21 "-X entre la norma de " }{TEXT 
+312 1 "X" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 133 
+"norminf(evalm(Apert-A));\nerrelA:=norminf(evalm(Apert-A))/norminf(A);
+\nerrelX:=norminf(evalm(Xpert-X))/norminf(X);\nCoef:=errelX/errelA;" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"#5!\"&" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'errelAG$\"'++5!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%'errelXG$\"'mz:!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%CoefG$\"'
+mz:!\"$" }}}{PARA 0 "" 0 "" {TEXT -1 70 "Concluimos entonces que, bajo
+ estas condiciones, un error relativo en " }{TEXT 434 1 "A" }{TEXT -1 
+14 " se propaga a " }{TEXT 435 1 "X" }{TEXT -1 44 " multiplic\341ndose
+ por un factor del orden de " }{XPPEDIT 18 0 "10^2;" "6#*$\"#5\"\"#" }
+{TEXT -1 45 " . Eso hace que un error de cienmil\351simas en " }{TEXT 
+436 1 "A" }{TEXT -1 43 " conduzca a un error incluso no decimal en " }
+{TEXT 437 1 "X" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" {TEXT -1 131 "Como \+
+adem\341s los \372nicos datos fijos que hemos tomado son los coeficien
+tes de la matriz A y los dem\341s son aleatorios, conclu\355mos que " 
+}{TEXT 360 101 "son los coeficientes de la matriz A los que provocan q
+ue el sistema sea muy sensible a perturbaciones" }{TEXT -1 1 "." }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 314 10 "Ejercicio:" }
+{TEXT -1 55 " realiza varias perturbaciones aleatorias de la matriz " 
+}{TEXT 438 1 "A" }{TEXT -1 126 " (simplemente vuelve a cargar nuevas p
+erturbaciones reempezando el proceso anterior) y conv\351ncete de que \+
+el error relativo en " }{TEXT 439 1 "A" }{TEXT -1 18 " se multiplica e
+n " }{TEXT 440 1 "X" }{TEXT -1 31 " por una cantidad del orden de " }
+{XPPEDIT 18 0 "10^2;" "6#*$\"#5\"\"#" }{TEXT -1 2 ". " }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 3 "El " }{TEXT 359 30 "condicionami
+ento de una matriz" }{TEXT -1 53 " es el producto de la norma de A y l
+a de su inversa. " }}{PARA 0 "" 0 "" {TEXT -1 113 "Vamos a definir el \+
+condicionamiento como procedimiento y calculemos el condicionamiento d
+e la matriz A anterior: " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "
+Cond:=proc(A::matrix)\nRETURN(norminf(A)*norminf(inverse(A)));\nend;" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%CondGR6#'%\"AG%'matrixG6\"F*F*-%'
+RETURNG6#*&-%(norminfG6#9$\"\"\"-F06#-%(inverseGF1F3F*F*F*" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "Cond(A);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#\"$!o" }}}{PARA 0 "" 0 "" {TEXT -1 143 "Puede comprobar
+se que el condicionamiento de una matriz proporciona una medida de lo \+
+bien o mal condicionado que est\341 un sistema; en concreto, " }{TEXT 
+454 109 "un sistema estar\341 peor condicionado cuanto mayor que 1 sea
+ el condicionamiento de su matriz de coeficientes. " }}{PARA 0 "" 0 "
+" {TEXT -1 139 "La prueba formal de este hecho est\341 fuera de los ob
+jetivos de este curso, pero vamos a intentar poner algunos ejemplos co
+n matrices 4 x 4. " }}{PARA 0 "" 0 "" {TEXT -1 83 "Ahora haremos un pr
+oceso an\341logo al anterior, donde tomaremos una matriz aleatoria " }
+{TEXT 441 1 "A" }{TEXT -1 35 " (que no perturbaremos), un vector " }
+{TEXT 442 1 "b" }{TEXT -1 124 "=(1,1,1,1) (al cual provocaremos una pe
+rturbaci\363n aleatoria del orden de las mil\351simas) y compararemos \+
+el error relativo de " }{TEXT 443 1 "b" }{TEXT -1 77 " con el error re
+lativo de la soluci\363n y con el condicionamiento de la matriz " }
+{TEXT 444 1 "A" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" {TEXT -1 108 "La id
+ea es que por un lado veamos que (en los ejemplos mal condicionados qu
+e aparezcan) errores peque\361os en " }{TEXT 445 1 "b" }{TEXT -1 43 " \+
+conducen a errores grandes en la soluci\363n " }{TEXT 446 1 "X" }
+{TEXT -1 67 ", y que por otro lado nos convezcamos de que es cierta la
+ f\363rmula: " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 271 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 335 32 "(error relativo de la soluci\363n) " }
+{TEXT -1 0 "" }{TEXT 447 70 "es menor o igual que ((error relativo de \+
+b) x (condicionamiento de A))" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 70 "Realiza este experimento varias
+ veces y toma tus propias conclusiones:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 10 "Digits:=8:" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "b:=m
+atrix(4,1,[1,1,1,1]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "bpert:=eva
+lm(b+(.0001)*randmatrix(4,1));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "A
+:=randmatrix(4,4);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"bG-%'matrixG
+6#7&7#\"\"\"F)F)F)" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&bpertG-%'matr
+ixG6#7&7#$\"&a+\"!\"%7#$\"%&***F,7#$\"&*45F,7#$\"%R**F," }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7&7&!#]!#7!#=\"#J7&!#E!#i\"\"
+\"!#Z7&!#\"*F2!#h\"#T7&!#e!#!*\"#`!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 42 "X:=linsolve(A,b);Xpert:=linsolve(A,bpert);" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 86 "errelb:=norminf(evalm(bpert-b))/norminf(b
+);errelX:=norminf(evalm(Xpert-X))/norminf(X);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 22 "CondA:=evalf(Cond(A));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%\"XG-%'matrixG6#7&7##!'@I>\"(wMM$7##\"&r0%\"(#\\967##\"%n$*\"'
+Ysb7##!&h='\"(Q<n\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&XpertG-%'mat
+rixG6#7&7#$!):R)y&!\"*7#$\")#REl$F,7#$\")JYt;F,7#$!)kF2PF," }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%'errelbG$\"#**!\"%" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'errelXG$\")Z0bE!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%&CondAG$\")iyNo!\"(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "
+errelX;errelb*CondA;\nis(errelX <= (errelb*CondA));" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\")Z0bE!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\")$G
+uw'!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#%%trueG" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}}{SECT 0 {PARA 4 "" 0 "" {TEXT -1 51 "M\351todo de eliminaci
+\363n gaussiana con pivoteo parcial" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 21 "restart:with(linalg):" }}{PARA 7 "" 1 "" {TEXT -1 32 
+"Warning, new definition for norm" }}{PARA 7 "" 1 "" {TEXT -1 33 "Warn
+ing, new definition for trace" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 3 "E
+l " }{TEXT 297 52 "m\351todo de eliminaci\363n gaussiana con pivoteo p
+arcial " }{TEXT -1 36 "se utiliza para resolver un sistema " }{TEXT 
+298 63 "compatible determinado de n ecuaciones lineales en n inc\363gn
+itas" }{TEXT -1 16 ", con el fin de " }{TEXT 362 54 "minimizar el efec
+to acumulativo del error por redondeo" }{TEXT -1 1 "." }}{PARA 0 "" 0 
+"" {TEXT -1 61 "Para describir este m\351todo utilizaremos el siguient
+e ejemplo." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+299 9 "Ejemplo: " }{TEXT -1 149 "queremos determinar la soluci\363n de
+l sistema de tres ecuaciones en tres inc\363gnitas que tiene las sigui
+entes matriz asociada A y matriz ampliada (A|b)." }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 67 "A:=matrix(3,3,[[11/25000,3/10^4,-1/10^3],[4,1
+,1],[3,-46/5,-1/2]]);\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'ma
+trixG6#7%7%#\"#6\"&+]##\"\"$\"&++\"#!\"\"\"%+57%\"\"%\"\"\"F57%F.#!#Y
+\"\"&#F1\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "b:=vector(
+[91/10^5,3/2,-41/5]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"bG-%'vect
+orG6#7%#\"#\"*\"'++5#\"\"$\"\"##!#T\"\"&" }}}{PARA 0 "" 0 "" {TEXT -1 
+37 "Las ecuaciones de nuestro sistema son" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 24 "E:=geneqns(A,[x,y,z],b);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"EG<%/,(%\"xG\"\"%%\"yG\"\"\"%\"zGF+#\"\"$\"\"#/,(F(
+F.F*#!#Y\"\"&F,#!\"\"F/#!#TF4/,(F(#\"#6\"&+]#F*#F.\"&++\"F,#F6\"%+5#\"
+#\"*\"'++5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "E1:=op(1,E);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E1G/,(%\"xG\"\"%%\"yG\"\"\"%\"z
+GF*#\"\"$\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "E2:=op(2,
+E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E2G/,(%\"xG\"\"$%\"yG#!#Y\"
+\"&%\"zG#!\"\"\"\"##!#TF," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+12 "E3:=op(3,E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E3G/,(%\"xG#\"#
+6\"&+]#%\"yG#\"\"$\"&++\"%\"zG#!\"\"\"%+5#\"#\"*\"'++5" }}}{PARA 0 "" 
+0 "" {TEXT -1 24 "y la soluci\363n exacta es " }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 17 "X:=linsolve(A,b);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%\"XG-%'vectorG6#7%#\"\"\"\"\"%F*#!\"\"\"\"#" }}}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 423 "El m\351todo de elimin
+aci\363n gaussiana con pivote es una variaci\363n del m\351todo de eli
+minaci\363n gaussiana usual y se usa para reducir la propagaci\363n de
+ una perturbaci\363n en los coeficientes de la matriz A: la idea b\341
+sica subyacente es que un mismo error produce un error relativo mayor \+
+en un coeficiente \"peque\361o\" que en uno \"grande\", luego los coef
+icientes de mayor valor absoluto son m\341s seguros que los de menor v
+alor absoluto. " }}{PARA 0 "" 0 "" {TEXT -1 201 "Durante el proceso de
+ reducci\363n de una matriz a su forma escalonada, se elige un element
+o no nulo (denominado \"pivote\")  para cada columna (a partir de la p
+rimera), que es el coeficiente de la columna " }{TEXT 363 58 "cuyo val
+or absoluto es el mayor de todos los de su columna" }{TEXT -1 2 ". " }
+}{PARA 0 "" 0 "" {TEXT -1 102 "Reordenando las filas de A de forma ade
+cuada, se utilizan los pivotes elegidos para reducir la matriz." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 80 "Si introd
+ucimos un error de redondeo modificando el valor de la variable Digits
+:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "Digits:=3;" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#>%'DigitsG\"\"$" }}}{PARA 0 "" 0 "" {TEXT -1 
+13 "obtenemos que" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 131 "A:=mat
+rix(3,3,[[evalf(11/25000),evalf(3/10^4),evalf(-1/10^3)],[evalf(4),eval
+f(1),evalf(1)],[evalf(3),evalf(-46/5),evalf(-1/2)]]);\n;" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7%7%$\"$S%!\"'$\"$+$F,$!$+\"!
+\"&7%$\"\"%\"\"!$\"\"\"F5F67%$\"\"$F5$!$?*!\"#$!$+&!\"$" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 52 "b:=vector([evalf(91/10^5),evalf(3/2
+),evalf(-41/5)]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"bG-%'vectorG6
+#7%$\"$5*!\"'$\"$]\"!\"#$!$?)F." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 17 "X:=linsolve(A,b);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"XG-%'
+vectorG6#7%$\"$\\#!\"$$\"$+\"!\"#$!$(\\F+" }}}{PARA 0 "" 0 "" {TEXT 
+-1 122 "Vamos a utilizar el m\351todo de eliminaci\363n gaussiana con \+
+pivoteo parcial utilizando la matriz ampliada asociada al sistema:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "Ab:=augment(A,b);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%#AbG-%'matrixG6#7%7&$\"$S%!\"'$\"$+$F,$!$+
+\"!\"&$\"$5*F,7&$\"\"%\"\"!$\"\"\"F7F8$\"$]\"!\"#7&$\"\"$F7$!$?*F<$!$+
+&!\"$$!$?)F<" }}}{PARA 0 "" 0 "" {TEXT -1 91 "El primer pivote es 4 y \+
+tenemos que intercambiar la primera y la segunda fila de la matriz," }
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "A1:=swaprow(Ab,1,2);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#A1G-%'matrixG6#7%7&$\"\"%\"\"!$\"\"
+\"F,F-$\"$]\"!\"#7&$\"$S%!\"'$\"$+$F5$!$+\"!\"&$\"$5*F57&$\"\"$F,$!$?*
+F1$!$+&!\"$$!$?)F1" }}}{PARA 0 "" 0 "" {TEXT -1 87 "ahora dividimos la
+ primera fila por 4 y reducimos la primera columna de la forma usual:
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "A2:=mulrow(A1,1,evalf(1/
+4));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#A2G-%'matrixG6#7%7&$\"$+\"!
+\"#$\"$]#!\"$F-$\"$v$F/7&$\"$S%!\"'$\"$+$F5$!$+\"!\"&$\"$5*F57&$\"\"$
+\"\"!$!$?*F,$!$+&F/$!$?)F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+28 "A3:=addrow(A2,1,2,-.000440);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+#A3G-%'matrixG6#7%7&$\"$+\"!\"#$\"$]#!\"$F-$\"$v$F/7&\"\"!$\"$!>!\"'$!
+$6\"!\"&$\"$X(F67&$\"\"$F3$!$?*F,$!$+&F/$!$?)F," }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 22 "A4:=addrow(A3,1,3,-3);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#A4G-%'matrixG6#7%7&$\"$+\"!\"#$\"$]#!\"$F-$\"$v$F/7&
+\"\"!$\"$!>!\"'$!$6\"!\"&$\"$X(F67&F3$!$&**F,$!$D\"F,$!$L*F," }}}
+{PARA 0 "" 0 "" {TEXT -1 75 "Las dos \372ltimas reducciones tambi\351n
+ se pueden obtener aplicando el comando " }{TEXT 364 5 "pivot" }{TEXT 
+-1 17 " a la matriz A2 :" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "
+pivot(A2,1,1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'matrixG6#7%7&$\"
+\"\"\"\"!$\"$]#!\"$F+$\"$v$F-7&F*$\"$!>!\"'$!$6\"!\"&$\"$X(F37&F*$!$&*
+*!\"#$!$D\"F<$!$L*F<" }}}{PARA 0 "" 0 "" {TEXT -1 196 "El pivote de la
+ segunda columna es -9.95, por lo que tenemos que intercambiar la segu
+nda y la tercera fila de la matriz A4 y seguir realizando la reducci
+\363n de la segunda columna de la forma usual:" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 20 "A5:=swaprow(A4,2,3);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#A5G-%'matrixG6#7%7&$\"$+\"!\"#$\"$]#!\"$F-$\"$v$F/7&
+\"\"!$!$&**F,$!$D\"F,$!$L*F,7&F3$\"$!>!\"'$!$6\"!\"&$\"$X(F=" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "A6:=mulrow(A5,2,evalf(-1/9.9
+5));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#A6G-%'matrixG6#7%7&$\"$+\"!
+\"#$\"$]#!\"$F-$\"$v$F/7&\"\"!F*$\"$E\"F/$\"$U*F/7&F3$\"$!>!\"'$!$6\"!
+\"&$\"$X(F;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "A7:=pivot(A6
+,2,2,3..3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#A7G-%'matrixG6#7%7&$
+\"\"\"\"\"!$\"$]#!\"$F-$\"$v$F/7&F,F*$\"$E\"F/$\"$U*F/7&F,F,$!$8\"!\"&
+$\"$m&!\"'" }}}{PARA 0 "" 0 "" {TEXT -1 37 "La forma escalonada de la \+
+matriz A es" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "Aesc:=mulrow(
+A7,3,evalf(-1/(.113e-2)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%AescG
+-%'matrixG6#7%7&$\"\"\"\"\"!$\"$]#!\"$F-$\"$v$F/7&F,F*$\"$E\"F/$\"$U*F
+/7&F,F,$\"$+\"!\"#$!$,&F/" }}}{PARA 0 "" 0 "" {TEXT -1 33 "y su forma \+
+escalonada reducida es" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "A8
+:=addrow(Aesc,2,1,evalf(-0.250));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%#A8G-%'matrixG6#7%7&$\"\"\"\"\"!F,$\"$>#!\"$$\"$R\"F/7&F,F*$\"$E\"F/$
+\"$U*F/7&F,F,$\"$+\"!\"#$!$,&F/" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 33 "A9:=addrow(A8,3,1,evalf(-0.219));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#A9G-%'matrixG6#7%7&$\"\"\"\"\"!F,F,$\"$\\#!\"$7&F,F*
+$\"$E\"F/$\"$U*F/7&F,F,$\"$+\"!\"#$!$,&F/" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 38 "Aescred:=addrow(A9,3,2,evalf(-0.126));" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#>%(AescredG-%'matrixG6#7%7&$\"\"\"\"\"!F,F,$\"$
+\\#!\"$7&F,F*F,$\"$,\"!\"#7&F,F,$\"$+\"F3$!$,&F/" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 21 "Xper:=col(Aescred,4);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%%XperG-%'vectorG6#7%$\"$\\#!\"$$\"$,\"!\"#$!$,&F+" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}}{SECT 0 {PARA 4 "" 0 "" {TEXT 316 19 "La facto
+rizaci\363n LU" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 135 "La fact
+orizaci\363n LU de una matriz proporciona un m\351todo efectivo para r
+esolver simult\341neamente un conjunto de sistemas lineales con la " }
+{TEXT 365 32 "misma matriz cuadrada invertible" }{TEXT -1 1 " " }
+{TEXT 374 1 "A" }{TEXT -1 53 " de coeficientes y t\351rminos independi
+entes distintos:" }}{PARA 265 "" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "A*
+X[1] = b[1],A*X[2] = b[2];" "6$/*&%\"AG\"\"\"&%\"XG6#\"\"\"F&&%\"bG6#
+\"\"\"/*&F%F&&F(6#\"\"#F&&F,6#\"\"#" }{TEXT -1 6 ",..., " }{XPPEDIT 
+18 0 "A*X[k] = b[k];" "6#/*&%\"AG\"\"\"&%\"XG6#%\"kGF&&%\"bG6#F*" }
+{TEXT -1 1 "," }{TEXT 373 0 "" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 61 "y resulta muy efectivo para un n\372mero alto de tales sistemas
+." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 50 "Para
+ centrarnos, supongamos que tenemos la matriz " }{TEXT 369 1 "A" }
+{TEXT -1 53 " que se puede escribir como producto de dos matrices " }
+{TEXT 370 1 "L" }{TEXT -1 3 " y " }{TEXT 371 1 "U" }{TEXT -1 13 ", la \+
+primera " }{TEXT 366 19 "triangular inferior" }{TEXT -1 33 " (lower tr
+iangular) y la segunda " }{TEXT 367 19 "triangular superior" }{TEXT 
+-1 21 " (upper triangular): " }}{PARA 264 "" 0 "" {TEXT -1 0 "" }
+{TEXT 368 5 "A=LU." }}{PARA 0 "" 0 "" {TEXT -1 25 "Para resolver un si
+stema " }{TEXT 372 2 "AX" }{TEXT -1 3 " = " }{XPPEDIT 18 0 "L*U*X = b;
+" "6#/*(%\"LG\"\"\"%\"UGF&%\"XGF&%\"bG" }{TEXT -1 46 ", podemos empeza
+r por definir una nueva matriz" }}{PARA 267 "" 0 "" {TEXT -1 0 "" }
+{XPPEDIT 18 0 "Y = U*X;" "6#/%\"YG*&%\"UG\"\"\"%\"XGF'" }{TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 27 "y resolver el nuevo sistema" }}{PARA 
+266 "" 0 "" {TEXT -1 0 "" }{TEXT 375 6 "LY = b" }}{PARA 0 "" 0 "" 
+{TEXT -1 151 "por sustituci\363n hacia adelante (o descenso), que es a
+n\341logo a la sustituci\363n hacia atr\341s, pero empezando desde la \+
+primera fila. As\355, una vez calculado " }{XPPEDIT 18 0 "Y;" "6#%\"YG
+" }{TEXT -1 29 ", podemos resolver el sistema" }}{PARA 268 "" 0 "" 
+{TEXT -1 0 "" }{XPPEDIT 18 0 "Y = U*X;" "6#/%\"YG*&%\"UG\"\"\"%\"XGF'
+" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 36 "por sustituci\363n hac
+ia atr\341s, siendo " }{XPPEDIT 18 0 "U;" "6#%\"UG" }{TEXT -1 22 "  tr
+iangular superior." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 256 8 "Ejemplo:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 112 "restart:with(linalg):\nL:=matrix(3,3,[2,0,0,4,-1,0,0
+,-2,1]);\nU:=matrix(3,3,[1,0,1,0,1,-3,0,0,1]);\nA:=evalm(L&*U);" }}
+{PARA 7 "" 1 "" {TEXT -1 32 "Warning, new definition for norm" }}
+{PARA 7 "" 1 "" {TEXT -1 33 "Warning, new definition for trace" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"LG-%'matrixG6#7%7%\"\"#\"\"!F+7%\"
+\"%!\"\"F+7%F+!\"#\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"UG-%'m
+atrixG6#7%7%\"\"\"\"\"!F*7%F+F*!\"$7%F+F+F*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"AG-%'matrixG6#7%7%\"\"#\"\"!F*7%\"\"%!\"\"\"\"(7%F+
+!\"#F/" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "b:=matrix(3,1,[2,
+0,1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"bG-%'matrixG6#7%7#\"\"#7
+#\"\"!7#\"\"\"" }}}{PARA 0 "" 0 "" {TEXT -1 28 "Vamos a resolver el si
+stema " }{TEXT 376 2 "AX" }{TEXT -1 3 " = " }{XPPEDIT 18 0 "L*U*X = b;
+" "6#/*(%\"LG\"\"\"%\"UGF&%\"XGF&%\"bG" }{TEXT -1 2 ". " }}{PARA 0 "" 
+0 "" {TEXT -1 27 "Como hemos dicho, llamando " }{XPPEDIT 18 0 "Y = U*X
+;" "6#/%\"YG*&%\"UG\"\"\"%\"XGF'" }{TEXT -1 18 " podemos calcular " }
+{XPPEDIT 18 0 "Y;" "6#%\"YG" }{TEXT -1 32 " por sustituci\363n hacia a
+delante:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "Y:=forwardsub(L,
+b);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"YG-%'matrixG6#7%7#\"\"\"7#
+\"\"%7#\"\"*" }}}{PARA 0 "" 0 "" {TEXT -1 19 "Ahora, a partir de " }
+{XPPEDIT 18 0 "Y;" "6#%\"YG" }{TEXT -1 43 "  y por sustituci\363n haci
+a atr\341s, obtenemos " }{XPPEDIT 18 0 "X;" "6#%\"XG" }{TEXT -1 1 ":" 
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "X:=backsub(U,Y);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%\"XG-%'matrixG6#7%7#!\")7#\"#J7#\"\"*" }}}
+{PARA 0 "" 0 "" {TEXT -1 28 "Por supuesto, este valor de " }{TEXT 448 
+1 "X" }{TEXT -1 53 " coincide con el valor que calculamos con el coman
+do " }{TEXT 318 8 "linsolve" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 24 "linsolve(evalm(L&*U),b);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#-%'matrixG6#7%7#!\")7#\"#J7#\"\"*" }}}{PARA 0 "" 0 "" 
+{TEXT -1 69 "El primer problema que nos encontramos en la factorizaci
+\363n LU es que " }{TEXT 377 137 "no toda matriz cuadrada invertible A
+ se puede escribir como producto de una matriz triangular inferior por
+ una matriz triangular superior" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" 
+{TEXT -1 16 "Por ejemplo sea " }{TEXT 378 1 "A" }{TEXT -1 11 " la matr
+iz:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "A:=matrix(3,3,[0,-2,7
+,4,-1,7,2,0,2]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#
+7%7%\"\"!!\"#\"\"(7%\"\"%!\"\"F,7%\"\"#F*F1" }}}{PARA 0 "" 0 "" {TEXT 
+-1 53 "que es invertible, ya que su determinante es no nulo:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(A);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#\"\"#" }}}{PARA 0 "" 0 "" {TEXT -1 23 "Si se pudiese es
+cribir " }{TEXT 379 1 "A" }{TEXT -1 100 " como producto de una matriz \+
+triangular inferior por una matriz triangular superior, se tendr\355a \+
+que:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 132 "L:=matrix(3,3,[l[1,
+1],0,0,l[2,1],l[2,2],0,l[3,1],l[3,2],l[3,3]]);\nU:=matrix(3,3,[u[1,1],
+u[1,2],u[1,3],0,u[2,2],u[2,3],0,0,u[3,3]]);\n" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"LG-%'matrixG6#7%7%&%\"lG6$\"\"\"F-\"\"!F.7%&F+6$\"
+\"#F-&F+6$F2F2F.7%&F+6$\"\"$F-&F+6$F8F2&F+6$F8F8" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"UG-%'matrixG6#7%7%&%\"uG6$\"\"\"F-&F+6$F-\"\"#&F+6$
+F-\"\"$7%\"\"!&F+6$F0F0&F+6$F0F37%F5F5&F+6$F3F3" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 16 "LU:=evalm(L&*U);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%#LUG-%'matrixG6#7%7%*&&%\"lG6$\"\"\"F.F.&%\"uGF-F.*&F+\"\"\"&F
+06$F.\"\"#F.*&F+F2&F06$F.\"\"$F.7%*&&F,6$F5F.F.F/F2,&*&F<F2F3F2F.*&&F,
+6$F5F5F.&F0FBF.F.,&*&F<F2F7F2F.*&FAF2&F06$F5F9F.F.7%*&&F,6$F9F.F.F/F2,
+&*&FKF2F3F2F.*&&F,6$F9F5F.FCF2F.,(*&FKF2F7F2F.*&FPF2FGF2F.*&&F,6$F9F9F
+.&F0FWF.F." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return
+" }}}{PARA 0 "" 0 "" {TEXT -1 5 "y que" }{TEXT 383 8 " A = LU." }
+{TEXT -1 57 "  Como necesariamente todos los terminos de las matrices \+
+" }{TEXT 380 1 "A" }{TEXT -1 3 " y " }{TEXT 381 2 "LU" }{TEXT -1 46 " \+
+deben coincidir, considerando el coeficiente " }{TEXT 382 7 "LU(1,1)" 
+}{TEXT -1 10 "  tenemos " }{XPPEDIT 18 0 "l[1,1]*u[1,1];" "6#*&&%\"lG6
+$\"\"\"\"\"\"\"\"\"&%\"uG6$\"\"\"\"\"\"F)" }{TEXT -1 2 "= " }{TEXT 
+384 6 "A(1,1)" }{TEXT -1 65 " =0, luego alguno de esos dos factores de
+be ser nulo, y entonces " }{TEXT 385 1 "L" }{TEXT -1 3 " \363 " }
+{TEXT 386 1 "U" }{TEXT -1 119 " son no invertibles (una de la dos matr
+ices tendr\355a determinante nulo) y llegamos a contradicci\363n con q
+ue su producto, " }{TEXT 387 1 "A" }{TEXT -1 14 ", s\355 lo sea.  " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 87 "Este hech
+o no lleva a considerar la naturaleza de la descomposici\363n LU: toda
+ matriz se " }{TEXT 388 1 "A" }{TEXT -1 46 " transforma en una matriz \+
+triangular superior " }{TEXT 396 1 "U" }{TEXT -1 107 "  mediante una s
+ucesi\363n de transformaci\363nes elementales por filas, o, si lo vemo
+s en el sentido contrario, " }{TEXT 389 1 "A" }{TEXT -1 46 " se obtien
+e de una matriz triangular superior " }{TEXT 449 1 "U" }{TEXT -1 61 " \+
+ por medio de una sucesi\363n de transformaciones elementales. " }}
+{PARA 0 "" 0 "" {TEXT -1 137 "En el lenguaje de matrices elementales, \+
+que hemos aprendido en las pr\341cticas anteriores, esto es equivalent
+e a decir que multiplicando a " }{TEXT 450 1 "U" }{TEXT -1 79 "  por l
+a izquierda por un producto de matrices elementales obtenemos la matri
+z " }{TEXT 390 1 "A" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{PARA 0 "" 0 "" {TEXT -1 238 "Es de notar que en el proceso de elimi
+naci\363n Gaussiana se pueden utilizar matrices elementales que son to
+das triangulares inferiores (correspondientes a multiplicar a una fila
+ por un escalar o a sumarle a una fila un m\372ltiplo de una fila " }
+{TEXT 455 8 "anterior" }{TEXT -1 33 ") o matrices de permutaci\363n (u
+na " }{TEXT 397 22 "matriz de permutaci\363n " }{TEXT -1 162 "es, por \+
+definici\363n, una matriz obtenida de la matriz identidad por medio de
+ una  permutaci\363n de sus filas, es decir, un producto de matrices e
+lementales del tipo " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }
+{TEXT -1 4 " ). " }}{PARA 0 "" 0 "" {TEXT -1 123 "Como el producto de \+
+matrices triangulares inferiores es triangular inferior (\241ejercicio
+!) llegamos a la conclusi\363n de que, " }}{PARA 0 "" 0 "" {TEXT -1 0 
+"" }}{PARA 0 "" 0 "" {TEXT 391 196 "si en el proceso de eliminaci\363n
+ Gaussiana de A no es necesario usar matrices de permutaci\363n, la in
+versa del producto de las matrices elementales usadas es una matriz tr
+iangular inferior L tal que " }{XPPEDIT 18 0 "L*U = A;" "6#/*&%\"LG\"
+\"\"%\"UGF&%\"AG" }{TEXT -1 2 ". " }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 230 "Por ejemplo, para la matriz A anterior, \+
+la primera tranformaci\363n elemental que deber\355amos hacer es una p
+ermutaci\363n de filas para tener un coeficiente no nulo en el lugar (
+1,1). \311sta es la raz\363n de que no se verifique una igualdad " }
+{TEXT 392 5 "A=LU." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 64 "El punto b\341sico es que realizando permutaciones de las
+ filas de " }{TEXT 393 1 "A" }{TEXT -1 25 ", s\355 es posible escribir
+ " }{TEXT 394 1 "A" }{TEXT -1 15 " como producto " }{TEXT 395 3 "PLU" 
+}{TEXT -1 12 ", es decir, " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 
+"" 0 "" {TEXT 319 166 "toda matriz invertible se puede escribir como p
+r\363ducto PLU donde P es una matriz de permutaci\363n, L una matriz t
+riangular inferior y U una matriz triangular superior. " }}{PARA 0 "" 
+0 "" {TEXT -1 2 "  " }}{PARA 0 "" 0 "" {TEXT -1 298 "Este punto de vis
+ta nos presenta la transformaci\363n LU como una forma de almacenamien
+to de todas las transformaciones que aparecen en el proceso de elimina
+ci\363n Gaussiana, de manera que las transformaciones correspondientes
+ sobre los terminos independientes se puedan hacer de forma m\341s rap
+ida. \311sto " }{TEXT 336 30 "disminuye el tiempo de c\341lculo" }
+{TEXT -1 91 ", lo c\372al es una ventaja en la resoluci\363n de muchos
+ sistemas con la misma matriz asociada. " }}{PARA 0 "" 0 "" {TEXT -1 
+106 "Adem\341s, la inversa de una matriz de permutaci\363n coincide co
+n su traspuesta (b\341sicamente porque la inversa " }{XPPEDIT 18 0 "P^
+\{-1\};" "6#)%\"PG<#,$\"\"\"!\"\"" }{TEXT -1 19 "de una permutaci\363n
+ " }{XPPEDIT 18 0 "P" "6#%\"PG" }{TEXT -1 10 "  tal que " }{XPPEDIT 
+18 0 "P" "6#%\"PG" }{TEXT -1 24 "(1) = 3, debe verificar " }{XPPEDIT 
+18 0 "P^\{-1\}" "6#)%\"PG<#,$\"\"\"!\"\"" }{TEXT -1 69 "(3)=1) , luego
+ su determinaci\363n no a\361ade tiempo de c\341lculo relevante." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 150 "Por ejem
+plo, en la matriz A anterior, permutando las filas 1 y 3 de A obtenemo
+s una matriz que s\355 se escribe como producto LU (en este caso la ma
+triz " }{XPPEDIT 18 0 "P" "6#%\"PG" }{TEXT -1 24 " es la matriz elemen
+tal " }{XPPEDIT 18 0 "E[13];" "6#&%\"EG6#\"#8" }{TEXT -1 2 "):" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "A:=matrix(3,3,[0,-2,7,4,-1,7
+,2,0,7]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7%7%\"
+\"!!\"#\"\"(7%\"\"%!\"\"F,7%\"\"#F*F," }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "PA:=swaprow(A,1,3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%#PAG-%'matrixG6#7%7%\"\"#\"\"!\"\"(7%\"\"%!\"\"F,7%F+!\"#F," }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "L:=matrix(3,3,[1,0,0,2,1,0,0
+,2,1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"LG-%'matrixG6#7%7%\"\"
+\"\"\"!F+7%\"\"#F*F+7%F+F-F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 36 "U:=matrix(3,3,[2,0,1,0,-1,3,0,0,1]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"UG-%'matrixG6#7%7%\"\"#\"\"!\"\"\"7%F+!\"\"\"\"$7%F
++F+F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "evalm(PA) = evalm(
+L&*U);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%'matrixG6#7%7%\"\"#\"\"!
+\"\"(7%\"\"%!\"\"F+7%F*!\"#F+-F%6#7%7%F)F*\"\"\"7%F-F.\"\"&F/" }}}
+{PARA 0 "" 0 "" {TEXT -1 8 "Tambi\351n:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 34 "evalm(A)=swaprow(evalm(L&*U),3,1);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#/-%'matrixG6#7%7%\"\"!!\"#\"\"(7%\"\"%!\"\"F+7%\"\"#F
+)F+-F%6#7%F(7%F-F.\"\"&7%F0F)\"\"\"" }}}{PARA 0 "" 0 "" {TEXT -1 37 "d
+onde, recordemos, el \372ltimo comando " }{TEXT 320 7 "swaprow" }
+{TEXT -1 62 " corresponde a la multiplicaci\363n por la matriz de perm
+utaci\363n " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 2 "..
+" }}{PARA 0 "" 0 "" {TEXT -1 24 "Entonces se obtiene que " }{TEXT 399 
+2 "PA" }{TEXT -1 3 " = " }{TEXT 400 2 "LU" }{TEXT -1 30 "  y, utilizan
+do la inversa de " }{TEXT 401 1 "P" }{TEXT -1 6 ", que " }{TEXT 402 1 
+"A" }{TEXT -1 3 " = " }{XPPEDIT 18 0 "P^\{-1\};" "6#)%\"PG<#,$\"\"\"!
+\"\"" }{TEXT -1 0 "" }{TEXT 403 3 "LU." }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 74 "Por \372ltimo, podemos tomar como con
+venio que la matriz triangular inferior " }{TEXT 398 1 "L" }{TEXT -1 
+278 " aparezca siempre con todos los t\351rminos de la diagonal iguale
+s a 1 (lo c\372al es equivalente a pedir que en la eliminaci\363n Gaus
+siana no realicemos transformaciones del tipo \"multiplicar a una fila
+ por un escalar\"), y de \351ste modo la descomposici\363n LU es \372n
+ica, salvo permutaci\363n." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 
+"" 0 "" {TEXT -1 75 "Veamos entonces como funciona el comando de Maple
+ para la factorizaci\363n LU:" }}{PARA 0 "" 0 "" {TEXT -1 11 "el coman
+do " }{TEXT 321 11 "LUdecomp(A)" }{TEXT -1 34 " genera una matriz de p
+ermutaci\363n " }{TEXT 404 1 "P" }{TEXT -1 33 ", una matriz triangular
+ inferior " }{TEXT 405 1 "L" }{TEXT -1 34 " y una matriz triangular su
+perior " }{TEXT 406 1 "U" }{TEXT -1 12 "  tales que " }{TEXT 407 5 "A=
+PLU" }{TEXT -1 48 ". Este comando devuelve, por defecto, la matriz " }
+{TEXT 408 1 "U" }{TEXT -1 84 ", pero podemos a\361adir algunas entrada
+s, para nombrar las salidas del procedimiento: " }}{PARA 0 "" 0 "" 
+{TEXT -1 45 "L='l': almacena L como la matriz de nombre l." }}{PARA 0 
+"" 0 "" {TEXT -1 45 "U='u': almacena U como la matriz de nombre u." }}
+{PARA 0 "" 0 "" {TEXT -1 45 "P='p': almacena P como la matriz de nombr
+e p." }}{PARA 0 "" 0 "" {TEXT -1 59 "Estos comandos son opcionales y l
+a sintaxis del comando es " }{TEXT 322 29 "LUdecomp(A,L='l',U='u',P='p
+')" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 12 "Por ejemplo:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "restart:with(linalg):" }}
+{PARA 7 "" 1 "" {TEXT -1 32 "Warning, new definition for norm" }}
+{PARA 7 "" 1 "" {TEXT -1 33 "Warning, new definition for trace" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "A:=matrix(3,3,[0,-2,7,4,-1,7
+,2,0,2]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7%7%\"
+\"!!\"#\"\"(7%\"\"%!\"\"F,7%\"\"#F*F1" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 30 "LUdecomp(A,L='L',U='U',P='P');" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#-%'matrixG6#7%7%\"\"%!\"\"\"\"(7%\"\"!!\"#F*7%F,F,#\"\"
+\"F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "evalm(P);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#-%'matrixG6#7%7%\"\"!\"\"\"F(7%F)F(F(7%F(F(F
+)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "evalm(L);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#-%'matrixG6#7%7%\"\"\"\"\"!F)7%F)F(F)7%#F(\"\"##
+!\"\"\"\"%F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "evalm(U);" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'matrixG6#7%7%\"\"%!\"\"\"\"(7%\"\"
+!!\"#F*7%F,F,#\"\"\"F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "e
+valm(A)=evalm(P&*L&*U);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%'matrixG
+6#7%7%\"\"!!\"#\"\"(7%\"\"%!\"\"F+7%\"\"#F)F0F$" }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 78 "Veamos ahora un ejemplo d
+e como usar la descomposici\363n LU si una matrix n x n " }{TEXT 409 
+1 "A" }{TEXT -1 154 " aparece en n sistemas de ecuaciones lineales. Pa
+ra n grande, el tiempo de c\341lculo disminuye notablemente con respec
+to al m\351todo de eliminaci\363n Gaussiana." }}{PARA 0 "" 0 "" {TEXT 
+-1 109 "Por ejemplo, el c\341lculo de la inversa de una matriz cuadrad
+a requiere la resoluci\363n de la ecuaci\363n matricial " }{XPPEDIT 
+18 0 "A*X = I[n];" "6#/*&%\"AG\"\"\"%\"XGF&&%\"IG6#%\"nG" }{TEXT -1 
+60 ", es decir, de n sistemas de n ecuaciones con n inc\363gnitas. " }
+}{PARA 0 "" 0 "" {TEXT -1 31 "Vamos a tomar una matriz 4 x 4:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "A:=randmatrix(4,4);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7&7&!#&)!#b!#P!#N7&
+\"#(*\"#]\"#z\"#c7&\"#\\\"#j\"#d!#f7&\"#X!\")!#$*\"##*" }}}{PARA 0 "" 
+0 "" {TEXT -1 49 "y calculamos y almacenamos su descomposici\363n LU :
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "LUdecomp(A,L='L',U='U',P
+='P');" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'matrixG6#7&7&!#&)!#b!#P!#
+N7&\"\"!#!$<#\"#<#\"%EJ\"#&)#\"$t#F07&F-F-#\"&/&>\"$b\"#!%M7\"#J7&F-F-
+F-#!&j;$\"$U(" }}}{PARA 0 "" 0 "" {TEXT -1 23 "La matriz identidad es:
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "I4:=matrix([[1,0,0,0], [
+0,1,0,0], [0,0,1,0], [0,0,0,1]]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%#I4G-%'matrixG6#7&7&\"\"\"\"\"!F+F+7&F+F*F+F+7&F+F+F*F+7&F+F+F+F*" }}
+}{PARA 0 "" 0 "" {TEXT -1 2 "y " }{TEXT 410 1 "P" }{TEXT -1 3 " es" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "evalm(P);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#-%'matrixG6#7&7&\"\"\"\"\"!F)F)7&F)F(F)F)7&F)F)F(F)7&
+F)F)F)F(" }}}{PARA 0 "" 0 "" {TEXT -1 48 "Luego, en este caso, tenemos
+ una descomposici\363n " }{TEXT 412 5 "LU=A." }{TEXT -1 1 " " }}{PARA 
+0 "" 0 "" {TEXT 451 5 "Nota:" }{TEXT -1 14 " Si la matriz " }{TEXT 
+411 1 "P" }{TEXT -1 108 "  hallada por Maple no es la identidad hay qu
+e considerar su matriz traspuesta (inversa) para obtener que   " }
+{XPPEDIT 18 0 "P^\{-1\};" "6#)%\"PG<#,$\"\"\"!\"\"" }{TEXT -1 0 "" }
+{TEXT 413 2 "A " }{TEXT -1 1 "=" }{TEXT 414 4 " LU." }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 40 "Resolvemos ahora por de
+scenso y remonte:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "Y:=forw
+ardsub(L,I4);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"YG-%'matrixG6#7&7
+&\"\"\"\"\"!F+F+7&#\"#(*\"#&)F*F+F+7&#\"$B&\"$b\"#\"#w\"#JF*F+7&#\"%(f
+%\"%%[\"#\"$3&\"$r$#\"%*e#F:F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 16 "X:=backsub(U,Y);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"XG-%'m
+atrixG6#7&7&#\"'dwO\"('*H\"H#\"'H(*>F,#\"'(Qz\"F,#\"'PL8F,7&#!'NN7\"'
+\\#G(#!'RP8\"()\\c9#!&>z%F6#!&\\S(F97&#\"&<7\"F,#\"&&=FF,#!&DX\"F,#!&&
+f@F,7&#!%(f%\"&EL'#!%;5\"&j;$#!%*e#FJ#!$U(FM" }}}{PARA 0 "" 0 "" 
+{TEXT -1 19 "\311sta \372ltima matriz " }{TEXT 415 1 "X" }{TEXT 416 1 
+" " }{TEXT -1 24 "es la matriz inversa de " }{TEXT 417 1 "A" }{TEXT 
+-1 1 ":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "evalm(A&*X);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'matrixG6#7&7&\"\"\"\"\"!F)F)7&F)F(F
+)F)7&F)F)F(F)7&F)F)F)F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "
+#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 0 {PARA 4 "" 
+0 "" {TEXT -1 41 "M\351todos Iterativos: Gauss-Seidel y Jacobi" }}
+{PARA 0 "" 0 "" {TEXT -1 323 "En general, los m\351todos de eliminaci
+\363n gaussiana y de Gauss-Jordan son las mejores t\351cnicas para res
+olver un sistema de ecuaciones lineales. Sin embargo, cuando el n\372m
+ero de ecuaciones es grande (por ejemplo 100 o m\341s) y cuando la mat
+riz tiene muchos ceros, otros m\351todos pueden resultar m\341s efecti
+vos. Nos referimos a los " }{TEXT 418 18 "m\351todos iterativos" }
+{TEXT -1 81 ", de los que en esta secci\363n estudiaremos dos: el de G
+auss-Seidel y el de Jacobi." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 12 "Consid\351rese " }{TEXT 276 13 "un sistema de" 
+}{TEXT 269 3 " n " }{TEXT 277 24 "ecuaciones lineales con " }{TEXT 
+270 1 "n" }{TEXT 278 20 " inc\363gnitas gen\351rico" }{TEXT 419 1 "," 
+}{TEXT -1 144 " aunque, para poder representarlo y ver en qu\351 consi
+ste el m\351todo de una manera c\363moda, vamos a suponer que es de 3 \+
+ecuaciones con 3 inc\363gnitas:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 22 "restart: with(linalg):" }}{PARA 7 "" 1 "" {TEXT -1 32 "Warning
+, new definition for norm" }}{PARA 7 "" 1 "" {TEXT -1 33 "Warning, new
+ definition for trace" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "A:
+=matrix(3,3,[a11,a12,a13,a21,a22,a23,a31,a32,a33]);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7%7%%$a11G%$a12G%$a13G7%%$a21G%$a22
+G%$a23G7%%$a31G%$a32G%$a33G" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+22 "b:=vector([b1,b2,b3]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"bG-%
+'vectorG6#7%%#b1G%#b2G%#b3G" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+24 "E:=geneqns(A,[x,y,z],b);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"EG
+<%/,(*&%$a11G\"\"\"%\"xGF*F**&%$a12GF*%\"yGF*F**&%$a13GF*%\"zGF*F*%#b1
+G/,(*&%$a21GF*F+\"\"\"F**&%$a22GF*F.F7F**&%$a23GF*F1F7F*%#b2G/,(*&%$a3
+1GF*F+F7F**&%$a32GF*F.F7F**&%$a33GF*F1F7F*%#b3G" }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 25 "Supondremos, adem\341s, q
+ue " }{TEXT 420 29 "los elementos de la diagonal " }{TEXT 271 8 "a11, \+
+a22" }{TEXT 280 3 " y " }{TEXT 272 4 "a33 " }{TEXT 281 21 "son distint
+os de cero" }{TEXT -1 7 " y que " }{TEXT 421 41 "el sistema tiene exac
+tamente una soluci\363n" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" {TEXT -1 
+44 "El primer m\351todo que vamos a analizar es el " }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 269 "" 0 "" {TEXT 294 9 "M\351todo de" }{TEXT 
+-1 1 " " }{TEXT 283 19 "iteraci\363n de Jacobi" }{TEXT 424 1 ":" }}
+{PARA 0 "" 0 "" {TEXT -1 28 "Para comenzar despejamos la " }{TEXT 273 
+1 "x" }{TEXT -1 27 " en la primera ecuaci\363n, la" }{TEXT 274 2 " y" 
+}{TEXT -1 20 " en la segunda y la " }{TEXT 275 1 "z" }{TEXT -1 16 " en
+ la tercera. " }}{PARA 0 "" 0 "" {TEXT -1 28 "Para ello usamos el coma
+ndo " }{TEXT 337 7 "isolate" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 12 "E1:=op(1,E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#
+E1G/,(*&%$a11G\"\"\"%\"xGF)F)*&%$a12GF)%\"yGF)F)*&%$a13GF)%\"zGF)F)%#b
+1G" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "E2:=op(2,E);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E2G/,(*&%$a21G\"\"\"%\"xGF)F)*&%$a2
+2GF)%\"yGF)F)*&%$a23GF)%\"zGF)F)%#b2G" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "E3:=op(3,E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E3
+G/,(*&%$a31G\"\"\"%\"xGF)F)*&%$a32GF)%\"yGF)F)*&%$a33GF)%\"zGF)F)%#b3G
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "readlib(isolate);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#R6%%%exprG%\"xG%\"nG6+%&expr1G%&expr2G
+%$itoG%#t1G%#xxG%&linopG%)new_argsG%*subs_argsG%&funcsG6#%aoCopyright~
+(c)~1992~by~the~University~of~Waterloo.~All~rights~reserved.G6\"C3@$55
+5529#\"\"#2\"\"$F<3/F<F?4-%%typeG6$9&%(integerG4-FD6$9%%*algebraicG4-F
+D6$9$<&%\"=G%\"<G%#<=GFL-%&ERRORG6#%>invalid~arguments~for~isolateG@$4
+-%$hasG6$FPFKC$@$33-FD6$FK%\"^G-FD6$-%#opG6$F=FK.%)rationalG2\"\"!Fao-
+%'RETURNG6#/FK*&\"\"\"F]p-Fbo6$F=-9!6%FP*&F]pF]pFK!\"\"&9\"6#;F?F<Fdp-
+FV6%FP%1does~not~containGFK@%-FD6$FP%)relationG>8$FP>Faq/FPFgo@$-FD6$F
+K%%nameGC$>8,-%'indetsG6$FP-%)specfuncG6$%)anythingGFK@$0Fjq<\"@$2\"\"
+\"-%%nopsG6#Fjq-FV6#%aocannot~isolate~for~a~function~when~it~appears~w
+ith~different~argumentsG-%(readlibG6#%'freezeG>8+-%$mapG6%R6$F&%\"yGF4
+6$%)operatorG%&arrowGF4/FP-%#ifG6%Fen&-Fas6#FP6#FKFbtF4F4F4-F\\r6$7$Fa
+qFK-F_r6$Far<%%$intG%%diffG%%DiffGFK>8*-%%subsG6$/FK%$_XXG-Fau6$FcsFgt
+>Faq&F_u6#Fgr>8(&F_u6#F=>Faq-Fau6$/F[vFduFaq@$4Feq?&8)-%'selectG6%Ffn-
+F\\r6$Faq%)functionGFK%%trueG@$3331F=-Fir6#Fev-Ffn6$-Fbo6$FgrFevFK53-F
+D6$-Fbo6$F=FevFgq-Ffn6$FKF\\x3-FD6$F\\x/FgqFar-Ffn6$FK-Fbo6$7$F=FgrFev
+-%#isG6$-Fbo6$FgoFev%*LinearMapG-FV6$%2unable~to~isolateGFK>FaqF_v@%FA
+>8&FF>Fey\"'++5?(F4FgrFgrFey0Faq8%C&>FjyFaq>Faq-%*traperrorG6#-%1isola
+te/isolate1G6#Faq@$/Faq%*lasterrorGF_y@$2Fgr-Fir6#7#FaqC$-%)userinfoG6
+%Fgr%(isolateG%8Warning:~solutions~lostG>Faq&FaqFiu>Fcs-Fes6$R6#FisF4F
+jsF4/-F_t6%'-Fbo6$F=FP%(indexedG&-Fbo6$7$F=FgoFP6#FduF]\\l-Fbo6$FgrFPF
+4F4F4Fcs>8'-Fau6$/FduFK-%%thawG6#-Fau6$FcsFaq-Fio6#-%%evalG6#Fh\\lF4F4
+F4" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "isolate(E1,x);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#/%\"xG*&,(%#b1G\"\"\"*&%$a12GF(%\"yGF(
+!\"\"*&%$a13GF(%\"zGF(F,\"\"\"%$a11G!\"\"" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 14 "isolate(E2,y);" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#/%\"yG*&,(%#b2G\"\"\"*&%$a21GF(%\"xGF(
+!\"\"*&%$a23GF(%\"zGF(F,\"\"\"%$a22G!\"\"" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 14 "isolate(E3,z);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/
+%\"zG*&,(%#b3G\"\"\"*&%$a31GF(%\"xGF(!\"\"*&%$a32GF(%\"yGF(F,\"\"\"%$a
+33G!\"\"" }}}{PARA 0 "" 0 "" {TEXT -1 39 "Si consideramos por ejemplo \+
+el sistema " }}{PARA 0 "" 0 "" {TEXT -1 2 "  " }{XPPEDIT 18 0 "20*x+y-
+z=17" "6#/,(*&\"#?\"\"\"%\"xGF'F'%\"yGF'%\"zG!\"\"\"#<" }}{PARA 0 "" 
+0 "" {TEXT -1 2 "  " }{XPPEDIT 18 0 "x-10y+z=13" "6#/,(%\"xG\"\"\"*&\"
+#5F&%\"yGF&!\"\"%\"zGF&\"#8" }}{PARA 0 "" 0 "" {TEXT -1 2 "  " }
+{XPPEDIT 18 0 "-x+y+10z  =18" "6#/,(%\"xG!\"\"%\"yG\"\"\"*&\"#5F(%\"zG
+F(F(\"#=" }{TEXT -1 1 "," }}{PARA 0 "" 0 "" {TEXT -1 9 "es decir:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A:=matrix(3,3,[20,1,-1,1,-10
+,1,-1,1,10]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7%7
+%\"#?\"\"\"!\"\"7%F+!#5F+7%F,F+\"#5" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 22 "b:=vector([17,13,18]);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%\"bG-%'vectorG6#7%\"#<\"#8\"#=" }}}{PARA 0 "" 0 "" {TEXT -1 
+42 "Las operaciones anteriores nos llevar\355an a" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 24 "E:=geneqns(A,[x,y,z],b);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"EG<%/,(%\"xG\"#?%\"yG\"\"\"%\"zG!\"\"\"#</,(F(F+F*!
+#5F,F+\"#8/,(F(F-F*F+F,\"#5\"#=" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 12 "E1:=op(1,E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E1G/,(%\"xG
+\"#?%\"yG\"\"\"%\"zG!\"\"\"#<" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 12 "E2:=op(2,E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E2G/,(%\"xG\"
+\"\"%\"yG!#5%\"zGF(\"#8" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "
+E3:=op(3,E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E3G/,(%\"xG!\"\"%\"
+yG\"\"\"%\"zG\"#5\"#=" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "re
+adlib(isolate);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#R6%%%exprG%\"xG%\"n
+G6+%&expr1G%&expr2G%$itoG%#t1G%#xxG%&linopG%)new_argsG%*subs_argsG%&fu
+ncsG6#%aoCopyright~(c)~1992~by~the~University~of~Waterloo.~All~rights~
+reserved.G6\"C3@$555529#\"\"#2\"\"$F<3/F<F?4-%%typeG6$9&%(integerG4-FD
+6$9%%*algebraicG4-FD6$9$<&%\"=G%\"<G%#<=GFL-%&ERRORG6#%>invalid~argume
+nts~for~isolateG@$4-%$hasG6$FPFKC$@$33-FD6$FK%\"^G-FD6$-%#opG6$F=FK.%)
+rationalG2\"\"!Fao-%'RETURNG6#/FK*&\"\"\"F]p-Fbo6$F=-9!6%FP*&F]pF]pFK!
+\"\"&9\"6#;F?F<Fdp-FV6%FP%1does~not~containGFK@%-FD6$FP%)relationG>8$F
+P>Faq/FPFgo@$-FD6$FK%%nameGC$>8,-%'indetsG6$FP-%)specfuncG6$%)anything
+GFK@$0Fjq<\"@$2\"\"\"-%%nopsG6#Fjq-FV6#%aocannot~isolate~for~a~functio
+n~when~it~appears~with~different~argumentsG-%(readlibG6#%'freezeG>8+-%
+$mapG6%R6$F&%\"yGF46$%)operatorG%&arrowGF4/FP-%#ifG6%Fen&-Fas6#FP6#FKF
+btF4F4F4-F\\r6$7$FaqFK-F_r6$Far<%%$intG%%diffG%%DiffGFK>8*-%%subsG6$/F
+K%$_XXG-Fau6$FcsFgt>Faq&F_u6#Fgr>8(&F_u6#F=>Faq-Fau6$/F[vFduFaq@$4Feq?
+&8)-%'selectG6%Ffn-F\\r6$Faq%)functionGFK%%trueG@$3331F=-Fir6#Fev-Ffn6
+$-Fbo6$FgrFevFK53-FD6$-Fbo6$F=FevFgq-Ffn6$FKF\\x3-FD6$F\\x/FgqFar-Ffn6
+$FK-Fbo6$7$F=FgrFev-%#isG6$-Fbo6$FgoFev%*LinearMapG-FV6$%2unable~to~is
+olateGFK>FaqF_v@%FA>8&FF>Fey\"'++5?(F4FgrFgrFey0Faq8%C&>FjyFaq>Faq-%*t
+raperrorG6#-%1isolate/isolate1G6#Faq@$/Faq%*lasterrorGF_y@$2Fgr-Fir6#7
+#FaqC$-%)userinfoG6%Fgr%(isolateG%8Warning:~solutions~lostG>Faq&FaqFiu
+>Fcs-Fes6$R6#FisF4FjsF4/-F_t6%'-Fbo6$F=FP%(indexedG&-Fbo6$7$F=FgoFP6#F
+duF]\\l-Fbo6$FgrFPF4F4F4Fcs>8'-Fau6$/FduFK-%%thawG6#-Fau6$FcsFaq-Fio6#
+-%%evalG6#Fh\\lF4F4F4" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "is
+olate(E1,x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%\"xG,(#\"#<\"#?\"\"
+\"%\"yG#!\"\"F(%\"zG#F)F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+14 "isolate(E2,y);" }{TEXT -1 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/
+%\"yG,(#!#8\"#5\"\"\"%\"xG#F)F(%\"zGF+" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "isolate(E3,z);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%
+\"zG,(#\"\"*\"\"&\"\"\"%\"xG#F)\"#5%\"yG#!\"\"F," }}}{PARA 0 "" 0 "" 
+{TEXT -1 31 "o, equivalentemente, al sistema" }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 50 "A:=matrix(3,3,[20.,1.,-1.,1.,-10.,1.,-1.,1.,10.]);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG-%'matrixG6#7%7%$\"#?\"\"!$
+\"\"\"F,$!\"\"F,7%F-$!#5F,F-7%F/F-$\"#5F," }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 25 "b:=vector([17.,13.,18.]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"bG-%'vectorG6#7%$\"#<\"\"!$\"#8F+$\"#=F+" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "E:=geneqns(A,[x,y,z],b);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"EG<%/,(%\"xG$\"#?\"\"!%\"yG$\"\"\"
+F+%\"zG$!\"\"F+$\"#<F+/,(F(F-F,$!#5F+F/F-$\"#8F+/,(F(F0F,F-F/$\"#5F+$
+\"#=F+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "E1:=op(1,E);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E1G/,(%\"xG$\"#?\"\"!%\"yG$\"\"\"F*
+%\"zG$!\"\"F*$\"#<F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "E2:
+=op(2,E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E2G/,(%\"xG$\"\"\"\"\"
+!%\"yG$!#5F*%\"zGF($\"#8F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+12 "E3:=op(3,E);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#E3G/,(%\"xG$!\"
+\"\"\"!%\"yG$\"\"\"F*%\"zG$\"#5F*$\"#=F*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "isolate(E1,x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%
+\"xG,($\"+++++&)!#5\"\"\"%\"yG$!+++++]!#6%\"zG$\"+++++]F-" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "isolate(E2,y);" }{TEXT -1 0 "" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#/%\"yG,($!+++++8!\"*\"\"\"%\"xG$\"++++
++5!#5%\"zGF+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "isolate(E3,
+z);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%\"zG,($\"+++++=!\"*\"\"\"%\"x
+G$\"+++++5!#5%\"yG$!+++++5F-" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 230 "Si se conoce una aproximaci\363n de la s
+oluci\363n del sistema de ecuaciones lineales anterior y se sustituyen
+ estos valores aproximados en el segundo miembro de cada una de dichas
+ ecuaciones, muy a menudo se observa que los valores de " }{XPPEDIT 
+18 0 "x" "6#%\"xG" }{TEXT -1 2 ", " }{XPPEDIT 18 0 "y" "6#%\"yG" }
+{TEXT -1 3 " y " }{XPPEDIT 18 0 "z" "6#%\"zG" }{TEXT -1 38 " que se ob
+tienen en el primer miembro " }{TEXT 279 54 "forman incluso una mejor \+
+aproximaci\363n para la soluci\363n" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "
+" {TEXT -1 54 "Esta observaci\363n es la clave para el m\351todo de Ja
+cobi." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 84 "
+Para resolver el sistema del ejemplo anterior por el m\351todo de iter
+aci\363n de Jacobi: " }}{PARA 0 "" 0 "" {TEXT -1 109 "- se hace una ap
+roximaci\363n inicial para la soluci\363n. Cuando no se disponga de un
+a mejor elecci\363n, se utiliza " }{XPPEDIT 18 0 "x=0" "6#/%\"xG\"\"!
+" }{TEXT -1 3 " , " }{XPPEDIT 18 0 "y=0" "6#/%\"yG\"\"!" }{TEXT -1 4 "
+ y  " }{XPPEDIT 18 0 "z=0" "6#/%\"zG\"\"!" }{TEXT -1 3 " . " }}{PARA 
+0 "" 0 "" {TEXT -1 94 "- Se sustituye esta aproximaci\363n inicial en \+
+el segundo miembro de cada una de las ecuaciones. " }}{PARA 0 "" 0 "" 
+{TEXT -1 24 "- Los nuevos valores de " }{XPPEDIT 18 0 "x,y " "6$%\"xG%
+\"yG" }{TEXT -1 4 "  y " }{XPPEDIT 18 0 "z" "6#%\"zG" }{TEXT -1 68 " o
+btenidos se utilizan como una nueva aproximaci\363n para la soluci\363
+n." }}{PARA 0 "" 0 "" {TEXT -1 6 "      " }}{PARA 0 "" 0 "" {TEXT -1 
+101 "Vamos a trabajar con 5 cifras decimales para estudiar tambi\351n \+
+qu\351 sucede con los errores de redondeo:" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 29 "Digits:=5;x0:=0;y0:=0;z0:=0; " }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'DigitsG\"\"&" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#x
+0G\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#y0G\"\"!" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%#z0G\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 34 "x1:=subs(y=y0,z=z0,isolate(E1,x));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#x1G/%\"xG$\"&+])!\"&" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 34 "y1:=subs(x=x0,z=z0,isolate(E2,y));" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%#y1G/%\"yG$!&+I\"!\"%" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 34 "z1:=subs(x=x0,y=y0,isolate(E3,z));" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%#z1G/%\"zG$\"&+!=!\"%" }}}{PARA 0 "" 0 "" {TEXT -1 
+157 "Tenemos, pues una primera aproximaci\363n de la soluci\363n. Ahor
+a utilizamos esta aproximaci\363n para introducirla como aproximaci
+\363n inicial en la f\363rmula anterior:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 30 "x2:=subs(y1,z1,isolate(E1,x));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#x2G/%\"xG$\"&]+\"!\"%" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 30 "y2:=subs(x1,z1,isolate(E2,y));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#y2G/%\"yG$!&].\"!\"%" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 30 "z2:=subs(x1,y1,isolate(E3,z));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#z2G/%\"zG$\"&],#!\"%" }}}{PARA 0 "" 0 "" {TEXT -1 
+114 "De nuevo utilizamos la aproximaci\363n obtenida como aproximaci
+\363n inicial en la f\363rmula anterior y as\355 sucesivamente:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "x3:=subs(y2,z2,isolate(E1,x)
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#x3G/%\"xG$\"&D+\"!\"%" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "y3:=subs(x2,z2,isolate(E2,y)
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#y3G/%\"yG$!&+)**!\"&" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "z3:=subs(x2,y2,isolate(E3,z)
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#z3G/%\"zG$\"&S+#!\"%" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "x4:=subs(y3,z3,isolate(E1,x)
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#x4G/%\"xG$\"&,+\"!\"%" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "y4:=subs(x3,z3,isolate(E2,y)
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#y4G/%\"yG$!&S***!\"&" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "z4:=subs(x3,y3,isolate(E3,z)
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#z4G/%\"zG$\"&,+#!\"%" }}}
+{PARA 0 "" 0 "" {TEXT -1 95 "La soluci\363n cada vez se parece m\341s \+
+a la soluci\363n del sistema que, como se puede comprobar, es  " }
+{XPPEDIT 18 0 "x=1" "6#/%\"xG\"\"\"" }{TEXT -1 3 " , " }{XPPEDIT 18 0 
+"y=-1" "6#/%\"yG,$\"\"\"!\"\"" }{TEXT -1 3 " , " }{XPPEDIT 18 0 "z=2" 
+"6#/%\"zG\"\"#" }{TEXT -1 87 ".  Pero, si no tuvi\351semos los coefici
+entes exactos, \277c\363mo sabr\355amos cu\341ndo detenernos? " }}
+{PARA 0 "" 0 "" {TEXT -1 69 "Antes de responder a esta pregunta vamos \+
+a hacer dos iteraciones m\341s:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 30 "x5:=subs(y4,z4,isolate(E1,x));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%#x5G/%\"xG$\"&)****!\"&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 30 "y5:=subs(x4,z4,isolate(E2,y));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%#y5G/%\"yG$!&*****!\"&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 30 "z5:=subs(x4,y4,isolate(E3,z));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%#z5G/%\"zG$\"&***>!\"%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 30 "x6:=subs(y5,z5,isolate(E1,x));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%#x6G/%\"xG$\"&++\"!\"%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 30 "y6:=subs(x5,z5,isolate(E2,y));" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%#y6G/%\"yG$!&++\"!\"%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 30 "z6:=subs(x5,y5,isolate(E3,z));" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%#z6G/%\"zG$\"&++#!\"%" }}}{PARA 0 "" 0 "" {TEXT -1 449 "Al resolve
+r problemas en los que se emplean m\351todos iterativos, siempre se pl
+antea la pregunta acerca de en qu\351 momento detenerse. Hay dos crite
+rios para tomar esta decisi\363n. El primero consiste en detenerse des
+pu\351s de un n\372mero predeterminado de pasos, por ejemplo 10 \363 2
+0. Sin embargo, como no se sabe de antemano cuantas iteraciones ser
+\341n necesarias para obtener una respuesta razonable, este mejor usar
+ otro criterio que refleje la convergencia." }}{PARA 0 "" 0 "" {TEXT 
+-1 28 "Recordemos la definici\363n de " }{TEXT 338 14 "error relativo
+" }{TEXT -1 255 ": si x es el valor real de un n\372mero y x' es una a
+proximaci\363n (el n\372mero que aparece en el ordenador) el error abs
+oluto cometido al aproximar x por x' es el valor absoluto de x-x', mie
+ntras que el error relativo cometido al aproximar x por x' es |x-x'|/x
+." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "abs(2-2.1);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"\"\"!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "abs(2-2.1)/2;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"&
+++&!\"'" }}}{PARA 0 "" 0 "" {TEXT -1 106 "Aqu\355 el error relativo no
+ parece ser m\341s significativo que el absoluto, sin embargo, si ahor
+a consideramos" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "abs(2000.1
+-2000);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"\"\"!\"\"" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "abs(2000.1-2000)/2000;" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"&++&!\"*" }}}{PARA 0 "" 0 "" {TEXT -1 140 "C
+omo hemos visto, el error relativo es mucho m\341s significativo que e
+l absoluto, pues tiene en cuenta la magnitud de las cifras considerada
+s." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 463 "Vo
+lviendo al criterio de parada, el segundo criterio (mucho mejor) consi
+ste en detenerse cuando el error relativo es suficientemente peque\361
+o, i.e., cuando |x-x'|/x es muy peque\361o. Sin embargo, el error rela
+tivo no se puede determinar exactamente, puesto que no conocemos la so
+luci\363n exacta, por lo que lo que se hace es estimar dicho error med
+iante el cociente |x(n)-x(n-1)|/x(n) (error relativo estimado) donde x
+(n) es el valor obtenido en la iteraci\363n n-\351sima. " }}{PARA 0 "
+" 0 "" {TEXT -1 224 "Si el m\351todo converge, es decir, si al iterar \+
+el proceso repetidamente nos acercamos cada vez m\341s a la soluci\363
+n, entonces x(n) se puede tomar como aproximaci\363n de x y la f\363rm
+ula anterior como aproximaci\363n del error relativo." }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT 422 22 "M\351todo de Gauss-Seidel" }
+{TEXT 423 1 ":" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 3 "El " }
+{TEXT 293 22 "m\351todo de Gauss-Seidel" }{TEXT -1 285 " es una peque
+\361a modificaci\363n del de Jacobi. Consiste en utilizar en cada iter
+aci\363n el \372ltimo valor obtenido de la variable correspondiente. E
+s decir, si acabamos de hallar x2, al ir a calcular y2, en vez de empl
+ear el valor de x1, emplearemos el nuevo valor x2 que acabamos de obte
+ner." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 282 9 "E
+jercicio" }{TEXT 425 1 ":" }{TEXT -1 218 " aplicar el m\351todo de Gau
+ss-Seidel al sistema de ecuaciones anterior y comprobar que en este ca
+so con 4 iteraciones obtenemos el mismo resultado que hemos obtenido a
+ntes empleando 6 iteraciones con el m\351todo de Jacobi." }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "Digits:=5;x0:=0;y0:=0;z0:=0; " }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'DigitsG\"\"&" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#x0G\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#y0G\"
+\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#z0G\"\"!" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 34 "x1:=subs(y=y0,z=z0,isolate(E1,x));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#x1G/%\"xG$\"&+])!\"&" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "y1:=subs(x1,z=z0,isolate(E2,y));" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#y1G/%\"yG$!&]@\"!\"%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "z1:=subs(x1,y1,isolate(E3,z));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#z1G/%\"zG$\"&l+#!\"%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "x2:=subs(y1,z1,isolate(E1,x));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#x2G/%\"xG$\"&6,\"!\"%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "y2:=subs(x2,z1,isolate(E2,y));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#y2G/%\"yG$!&D)**!\"&" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "z2:=subs(x2,y2,isolate(E3,z));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#z2G/%\"zG$\"&4+#!\"%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "x3:=subs(y2,z2,isolate(E1,x));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#x3G/%\"xG$\"&'****!\"&" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "y3:=subs(x3,z2,isolate(E2,y));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#y3G/%\"yG$!&\"****!\"&" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "z3:=subs(x3,y3,isolate(E3,z));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#z3G/%\"zG$\"&++#!\"%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "x4:=subs(y3,z3,isolate(E1,x));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#x4G/%\"xG$\"&++\"!\"%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "y4:=subs(x4,z3,isolate(E2,y));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#y4G/%\"yG$!&++\"!\"%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "z4:=subs(x4,y4,isolate(E3,z));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#z4G/%\"zG$\"&++#!\"%" }}}{PARA 0 "
+" 0 "" {TEXT -1 396 "En casi todos los casos  es cierto que el m\351to
+do de Gauss-Seidel es m\341s eficiente (en el sentido de que converge \+
+m\341s rapidamente) que el de Jacobi. Sin embargo, hay sistemas en los
+ que las iteraciones de Jacobi convergen (con lentitud) pero las itera
+ciones de Gauss-Seidel divergen. Tambi\351n hay sistemas para los que \+
+las iteraciones de Gauss-Seidel convergen y las iteraciones de Jacobi \+
+divergen." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" 
+}}}{PARA 270 "" 0 "" {TEXT -1 42 "Se dice que una matriz cuadrada tien
+e una " }{TEXT 452 32 "diagonal estrictamente dominante" }{TEXT -1 93 
+" si, para cada fila, el valor absoluto del elemento de la diagonal pr
+incipal es mayor que la " }{TEXT 453 4 "suma" }{TEXT -1 67 " de los va
+lores absolutos del resto de los elementos de dicha fila." }}{PARA 0 "
+" 0 "" {TEXT -1 37 "Se puede demostrar que si una matriz " }{TEXT 426 
+1 "A" }{TEXT -1 99 " tiene una diagonal estrictamente dominante y busc
+amos obtener las soluciones  sistema del sistema " }{TEXT 303 5 "AX=b,
+" }{TEXT -1 61 "  ambos m\351todos (el Gauss-Seidel y el de Jacobi)  c
+onvergen. " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "#fin" }}}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}}{MARK "13 7 1 0" 60 }{VIEWOPTS 1 1 
+0 1 1 1803 }

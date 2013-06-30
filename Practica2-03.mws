@@ -1,0 +1,1866 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 
+0 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "Help Heading" -1 26 "" 1 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 256 "" 0 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 258 "" 0 1 0 0 0 
+0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 2 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+261 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 262 "" 0 1 0 0 0 
+0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 263 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+265 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 266 "" 0 1 0 0 0 
+0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 267 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 268 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+269 "" 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 0 0 0 
+0 0 1 1 0 0 0 0 0 0 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 272 "" 0 18 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 
+273 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 0 0 0 
+0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 276 "" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 
+277 "" 1 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 278 "" 1 18 0 0 
+0 0 0 1 2 0 0 0 0 0 0 }{CSTYLE "" 26 279 "" 1 24 0 0 0 0 0 0 0 0 0 0 
+0 0 0 }{CSTYLE "" 26 280 "" 1 24 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 281 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 282 "" 0 1 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 283 "" 1 14 0 0 0 0 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 284 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE 
+"" -1 285 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 286 "" 0 1 
+0 0 0 0 2 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 287 "MS Serif" 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 288 "cmbsy10" 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 289 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 290 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 291 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 292 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 293 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 294 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 295 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 296 "" 0 1 0 0 0 0 2 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 297 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 298 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 299 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 300 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 301 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 302 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 303 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 304 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 305 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 306 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 307 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 308 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 309 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 310 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 311 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 312 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 313 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 314 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 315 "" 0 18 0 
+0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 316 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 317 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 318 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 319 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 320 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 321 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 322 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 323 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 324 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 325 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 326 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 327 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 328 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 329 "" 0 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 330 "" 1 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 331 "" 0 1 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 332 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 333 "" 1 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 334 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 335 "" 0 1 0 
+0 0 0 0 1 1 0 0 0 0 0 0 }{CSTYLE "" -1 336 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 337 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 338 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 339 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 340 "" 0 1 0 0 0 0 0 1 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 341 "" 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 342 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 343 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 344 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 345 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 346 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 347 "" 0 1 0 0 
+0 0 0 1 1 0 0 0 0 0 0 }{CSTYLE "" -1 348 "" 0 1 0 0 0 0 1 1 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 349 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 350 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 351 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 352 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 353 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 354 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 355 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 356 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 357 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 358 "" 1 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 359 "" 0 1 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 360 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 361 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 362 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 363 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 364 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 365 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 366 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 367 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 368 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 369 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 370 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 371 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 372 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 373 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 374 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 375 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 376 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 377 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 378 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 379 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 380 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 381 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 382 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 383 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 384 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 385 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 386 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 387 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 388 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 389 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 390 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 391 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 392 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 393 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 394 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 395 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 396 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 397 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 398 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 399 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 400 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 401 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 402 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 403 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 404 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 405 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 406 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 407 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 408 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 409 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 410 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 411 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 412 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 413 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 414 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 415 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 416 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 417 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 418 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 419 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 420 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 421 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 422 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 423 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 424 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 425 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 426 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 427 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 428 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 429 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 430 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 431 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 432 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 433 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 434 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 435 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 436 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 437 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 438 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 439 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 440 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 441 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 442 "" 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 443 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 444 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 445 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 446 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 447 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 448 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 449 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 450 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 451 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 452 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 453 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 454 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 455 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 456 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 457 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 458 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 459 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 460 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 461 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 462 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 463 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 464 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 465 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 466 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 467 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 468 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 469 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 470 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 471 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 472 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 473 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 474 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 475 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 476 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 477 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 478 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 479 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 480 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 481 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 482 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 483 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 484 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 485 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 486 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 487 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 488 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 489 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 490 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 491 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 492 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 493 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 494 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 495 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 496 "" 0 1 0 0 0 0 2 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 497 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 498 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 499 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 500 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 501 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 502 "" 0 1 0 0 0 0 1 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 503 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 504 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 505 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 506 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 507 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 508 "" 0 1 0 0 0 0 0 1 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 509 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 510 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 511 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 512 "" 0 18 0 0 0 0 0 0 2 0 0 0 
+0 0 0 }{CSTYLE "" -1 513 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 514 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 515 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 516 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 517 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 518 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 519 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 520 "" 0 1 0 0 0 0 0 1 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 521 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 522 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 523 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 524 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 525 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 526 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 527 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 528 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 529 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 530 "" 0 14 0 0 0 0 0 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 531 "" 0 14 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 532 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 533 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" 
+-1 534 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 535 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 536 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 537 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 538 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 539 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 540 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 541 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 542 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 543 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 544 "" 1 18 0 0 0 0 0 1 1 0 0 0 
+0 0 0 }{CSTYLE "" -1 545 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 546 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 547 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 548 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 549 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 550 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 551 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 552 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 
+0 0 }{CSTYLE "" -1 553 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 554 "" 0 1 0 0 0 0 2 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 555 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 556 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 557 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 558 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 559 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 560 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 561 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 562 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 563 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 564 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 565 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 566 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 567 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 568 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 569 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{PSTYLE "Norm
+al" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 238 191 92 0 0 0 0 0 0 0 0 0 0 }0 
+0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 255 1 0 0 0 0 0 1 3 0 0 }1 0 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 18 
+193 175 61 0 0 1 0 0 0 0 0 0 0 }1 0 0 0 6 6 0 0 0 0 0 0 -1 0 }{PSTYLE 
+"Heading 2" 3 4 1 {CSTYLE "" -1 -1 "" 1 14 0 2 88 0 0 0 0 0 0 0 0 0 0 
+}0 0 0 -1 4 4 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 3" 4 5 1 {CSTYLE "" 
+-1 -1 "" 1 12 0 0 0 0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 0 0 0 0 0 0 0 0 -1 
+0 }{PSTYLE "Warning" 2 7 1 {CSTYLE "" -1 -1 "" 0 1 0 0 255 1 0 0 0 0 
+0 0 1 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 
+11 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 3 0 -1 -1 
+-1 0 0 0 0 0 0 -1 0 }{PSTYLE "Bullet Item" 0 15 1 {CSTYLE "" -1 -1 "" 
+0 1 160 85 85 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 3 3 0 0 0 0 0 0 15 2 }
+{PSTYLE "Title" 0 18 1 {CSTYLE "" -1 -1 "" 1 18 19 85 85 0 0 1 1 0 0 
+0 0 0 0 }3 0 0 -1 12 12 0 0 0 0 0 0 19 0 }{PSTYLE "" 18 256 1 {CSTYLE 
+"" -1 -1 "" 1 14 0 0 0 0 0 2 2 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 
+0 -1 0 }{PSTYLE "" 3 257 1 {CSTYLE "" -1 -1 "" 0 14 0 0 0 0 0 2 0 0 0 
+0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 258 1 {CSTYLE "
+" -1 -1 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 0 259 1 {CSTYLE "" -1 -1 "" 1 14 0 0 0 0 0 0 0 0 0 0 
+0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 260 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "" 0 261 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 262 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 263 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 264 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 265 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 266 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 267 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 268 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 269 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 270 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 271 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 272 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 273 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 274 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 275 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 276 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 277 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 278 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 279 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {PARA 18 "" 0 "" {TEXT 276 0 "" }{OLE 1 21076 1 "[xm]Br=WfoRrB
+:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::fyyyyya<nYnyyyYE:G:I:K:M:O:Q
+:S:UJ:n;v;;JBB:]:_:a:wAwAg:i:k:m:o:q:s:u:w:y:;[:F>N>V>^>f>n>v>nYvY::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_
+mvJ::::::::gj<vyyuyJ;B:;THcV>whGYX>efI<VN=nN`H<::pocHTNIY[Aj;J:@:<:=j[
+vGUMrvC?MoJ::::::::JCNZ;^:vYxI>:<::::::juB:;:AlanCcl\\nCVD>::::::::N<F
+:V:;jysy;Z::::::J<>:cfAB:VB:E<VDglS>`:B:::::::JFNZ;f:vYxI>:<::::::?:c:
+;:=J:nYnY:yA::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::=Jyyy;d:yayAbs^L::E;MTU=uSEeU;CSEEBUTTAeVYuVYe
+ScEB[DTYEWYEBEDSMEWYeV;sFWCFt:pnc<Onx@EDSM=;B=>::n_mBwmcf]]:>:::jy=:;:
+:::::::::F:D:<::::::::::yyyxy;>:C:=Z:vYxY;J:JnT:Ww<>x^Z:::::::::::::::
+::::::::::::::::::::::?JYFH>:Ch=<Jj>Z:^Z>^Z^^ZI^^Iv[i^ZIv_Iv[iv[^v_^^^
+i^^i^bI^^>_^^^biv_>_biNeiv_Tw_>Oe>w_T_b>OeT_bTOeT_fT_b^OeT_f^Oe^_f^Oi^
+_ftOi^OitOit_jt_jtOi>`jt_j>`j>Pm>`jTPmTPm>PmTd`Yg`oveYweof`Nmixoixotxo
+tPqiPQoghYhhowmYhhoxmYxmYPgyvayXgewqeWgwwTQyiywI^Ziy[>ww^v[ia^^vwi^^ia
+bIvw>_^iabivw>_biQeivwTOeiQe^ww^Oeiaf^wwt_biQitww>Piiaj>xw>PmiQm>xwTPm
+iyoTxwixoiQqixwtPqiystxwIysiywTywiywiQyiywtQytaZ>Ny^^^ta^iNyiv[ty_^Nyi
+v_tabINy>_^tab>OyT_^tQeiNyT_btQeTOy^w_taftOyt_btQiTOytOitaj>Oy>Petaj^O
+y>Pitaj>PyTPitQmTPyiPityo>PyiPmtyoiPytPitQq>PytPmtQqiPyIyotystPyIystQu
+iPyTQqtQuIQyTQutywIQyiQutQytA:;B::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::Zy=>:::::>GWw<yyyyyy:::::::::::::::::::::::
+::::::::::::::::::::::Zigf_wyyyyy=::::::::Dmb@ob@_lvyyyyy=:::::::Jv@ob
+@obJixyywY::::::::KUN]lbZyyyyyY::::::::mTN]TN]<_sWyyyyyy::::::::MUN]lb
+Zymy;:::::::RN]TN]<Euyyqy;:::::::RNFDDmysy::::::::rS_SN]lV\\qyyyyyI:::
+:::::::::::::::::::::::::::::::::::::::::::FiqFdKGdKkgxyywYjs@ob@obbF[
+uyyqy;kdF]TN@OSLoyyyyyI::cSN]TN]<Lmyyiy=_;]<_CTyyyxITqb@ob@?vYxI:ZnZK;
+^dyyYyqrDmb@_K;vYxIEUN]TN]<N`ymy;:@?]<Zymy_@FD:iuyyqyO@FDZZwyyuy:Jnjb:
+rVyyyyYH]TN@?:xIyIGRN:^DvY:n`KGD]<Z[wyyeFRN:rW>GFD:ryvY:^@FD:loyyyyE=@
+?:HAuTN]TN]<:xIyA:c;]<ZV[lZK;ZmKh@ob@ob:JSjy;j[@obFD:HAyYO]TN@?:xIOTN]
+TN]<:xIyA:STN]lb:ryvy`GdKSN:N@vynZK;JfxyywY:RNFD:xIyqbRN:^gyyYyYU]TN@?
+:i]yyY:bFRN:c;yQX@obFD:yayMSjb:Dpyyiy=:NcnFdKSN>aqwyyuyjhjbJhjy[r[K;ya
+y=::keF_cFesyyqy;bReTN]Lk\\qyyiy=^hMGdKSN?=xI:::::Jt\\qyyiy=:keLcuyyqy
+;:::::::::::::::::::::::::::::::::ZZoeZ?f[_f[Gf_gf_gF:KUSKETKeTOuTYuUY
+uU[EV[eVyay=:::@?]<:DMS@obFDN`KkbZlN`lvyyuy:::ZKkb:::::vYxI:::RNFD::::
+ZlvYxI:::RNFD:::::yay=:::@?]<::::jysy:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::<:;::ryvY::Z:J:::Ssyyqy[:J:::xIyA::B:>::jPxyywY
+B:>:DZ;F:=:;ryvY::Z:j:@j:@:J:<jPjy[:J:::xIyA::B:F:@J:FZ:FZ;>:U;yA<:;::
+ryvY::Z:j:@j:@J:>Z:FZ:>:U;yA<:;::ryvY::Z:j:@J:@J:B:=Z:f?vYB:>:@J:>Z::x
+IyA::B:F::jPjy[:j:@Z;Z::xIyA::B:FZ:R:>:=R:<jPjy[:J:@J:>Z::ryvY::Z:J::@
+j:jQxiy=<:;Z;>:;B:Zymy;::<:;:F:=J:v?xIB:>::Zymy;::<:;:F:=J:v?xIB:>::Zy
+my;::<:=R:@J:F:@J:v?xIB:>::Zymy;::<:;R:;R:<j:B:;jQryZ:J:::xIyA::B:FZ;>
+:=B:=R:>Z:v?xIB:>::Zymy;::<:=J:>:=R:=R:;jysyZ:J::R:;J:xIyA::B:>Z;Z:FZ;
+R:;jysyZ:J:::xIyA::B:FZ:R:>Z:FZ;>:yay=<:;Z;>:;B:Zymy;::<:;:F:>:yay=<:;
+::ryvY::Z:J::F:vYxIB:>::Zymy;::<:;R:=R:=B:@:vYxIB:>:@J:>Z::xIyA::B:>:F
+:>:vYxIB:>:@:<:ryvY::Z:j::@Z;>Z:vYxIB:>::DZ:ryvY::Z:J:R:=Z;FZ:>Z:vYxIB
+:>::Zymy;::<:=B:@j:@Z;B:;B:yay=<:;:Z;>:xIyA::B:FZ;:;j:@:yay=<:<Z:>::xI
+yA::B:FZ;FZ;>:<:vYxIB:>:Z;>:<Zymy;::<:;::vYxIB:>:Z;Z:ryvY::Z:J:::yay=<
+:;::ryvY::Z:J:::yay=<:;::ryvY::Z:J:::yay=<:;::ryvY::Z:J:::yay=<:;Z;Z::
+xIyA::B:>::jysyZ:J:@:<:Zymy;::Y:;::vYxIB:>::Zymy;::OB:>::jysyZ:J:::xIy
+A::f:;J:::yay=<:;::ryvY::J:B:::yay=<:;:@:<:xIyA::>:<::jysyZ:J:::xIyA::
+>:<::jysyZ;B:<:F:@:;ryvY::J:B:::yay=<:;:@:<:=ryyqy;:ZbB:<::jysyZ;Z:Z;>
+:<j:FZDvyyyyy=:Z:J:::vYxIB<=Z;B:;R:=B:>:?b:gryyyyyA:J@J:::vYxIb<B::Z;f
+ZyyYyA:b?B:::vYxIBA=:;R:;Z::NZDn_yyYyA:oR:B:::vYxIrEA:;::ZIf_yyYyA\\lA
+D:<:::vYxIjAJ:::R:Cr=;cDOCEMCBOR:=:;:::vYxIZ:F:>::FZ:R:=R:=B:=R:B:=J:<
+J:@J:B:::yay=R:B::j:F:@J:<Z:F:;J:j:@:<::jysy:PL<@:<::j:<:;j:J::M:;::vY
+xI:eR:<Z::::j:J:jy=:;::vyyuy:v_<R:;Z:R:B::::vy:J:::yyyxI:D:B:::j:FZ:>:
+;j:Tly=:;::vYxI:VZ;FZ:R:=Z:>:@J:B::FZ;FZ[vyyE:;J:::yay=:Lj:<Z;>:;B:::j
+:@JDxyywy:J:::yay=:f<=B:>Z;>:j:B:;j:j;`jyyyyyi:J:::yay=:B;J:::=j:@j:HJ
+GxyywY<:;::vYxI::f_>r:=R:B:=R:;R:@J=pkyyiy=pL:B::jysy:::xlJdJ?TJ<LJ<TJ
+?@lOxyywY::::::::v_iv_yuy:::::::::::::::J:B:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::=B:YD:Sml>:;:::::::::N;?jyyiy=J:B:::
+:::VZ:JD<:;:?B:YD:JbNHEms>@[;;B:::::::JFNZ:vYxI:;Z::::::jD<Z:>]_Z:::::
+::::::::yay=J:B:::::::::::::::::::jysy:>:<::::::::yayYZ:J<<:=J:vYxY;>:
+;:KM:nO<:;j:F;HJvD;=J[<K:>:MZ:n^@v[:>;ydKUdNMDOytBA:wj<>:Qb:>Z:f:^[<>H
+uk<D:ia=>Z;^Z>^Z:^^>v[:^^Iv[:v_>v[:v_Iv[:JL<jQ^^:v?YC:Ct=CC:CDCCC:CtEY
+C:CDKYC:otEYC:oL\\<JgLnQ<Z>_b:NeT_b:NEoD:CePCD:CePoD:LPg^FCE:oESCE:dQl
+<JwNi:Ni>Pi:^jtOi:^j>Pi:J<=J<eS<=J<Om:NmT`j:NmTPm:reoF:onQ=jQeSG=jQyTG
+=jQwo:bhYG:oghYG:Nq:NqIQq:NQYH:ogpYpayva=jaewa=ZiQu:NuiQu:jq=Jgeyq=jqy
+J<<jqyJ\\<jqMlAvw^^>YyECC:YIKYB:LNL<:YC:YQ\\<jqeoQ<jqeOg<jqeOl<jqMPg<j
+qMPl<jqeQ\\<jqOi:vw>Pi:vWCF:YI[oF:Yi`CF:Yi`onqyTGwWYoqeuQKW=jqyVW=jqwS
+Yyuopqyxq=jqeyq=:oI:oI;CB:oICCC:oqQ<JwylA<Jw_^:Nyiv?oIKYB:oQL<Z>_BoiPC
+C:oqQ<JweO\\<JwOe:Ny^w_:BSoE:oiXCD:dQg<:oMwMR\\<Z>Pe:Jl<JwOI^j:b`oE:dS
+GOyiPi:NYCF:oyeoNwwOoihoE:dU<=JweUG=:Y_Iyo:JWOyIySoipYG:Nq:NyTySNu:Nyi
+ys:ruoPweYw=J:>:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::jyC:CB:;B:cc:V:;jT^:vZ;V:?D>VbI>>S@]E:
+wK:<J:FHJ:>?;JYjr>Z:F:KJ:>:;DA^R^R>Z;B:<:CB;<jALJL<jAxJLv[>v_:v[Iv_:^>
+YC:LlQv_^JLxJ\\^^^^b:v_i^b:v_>_BxLg<J\\xLg<jQLNg<J\\LNg<ZTOEodP<J\\^f:
+NECE:LPl^f^;oE:CeXoMwdALBoeXCF:oE[CN<MBdS<OmT`j:^JoNGeSGseonQOMof`YG:o
+veYoQytQchvOoOWeExVWwsIQQdWWwsIySYhpYPgyxaOUopqOUdYg=J<xjq=J\\xjqw[^vw
+:^^^vw:rEYI:Lnq=Z>ww:v_>wWCDKYqQdoqOeTww:^fTwWoDSYI:CESYI:CdXYI:oeXYI:
+Lrq=J<Mrq=JGMrq_jTxw:NmTxw:reYqQytq=Ztxw:Nqtxw:rmYqayvq=JgwWYyuYatyWoi
+xYQ<LJw=JLLLw=jQLLw=jAxLw=JLxLw=jQxLww[>OYCCKoQ\\LNw_^TOy:v_TOYCdPoQgN
+y:v_^OYoESoQ\\dQw=JgdQw=JwdQw_b>Py:Ne>Py:^f>PYoE[oQ<OYoe`oI:of`oQwxTw=
+J<yTw=JGyTwwOoI:oehoI:CfhoQGeUwwotPy:rmoI:oOwwSoqQeWw=JWeWwwsTQYohpoqa
+yXw=JgyXwOYoI:;J::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::yyy<jyyiy=:::::::::;B:yay=::jQxlQxiy
+=::::J:Zy=:ZiF>B;T:jy;:::J:Zy=:f_>:<Z:FZ;>Z;R:Zy=pL:B::jysy;:xI:L:>::j
+:<j:r:vyyyY<Z:>::jysy;jysy:f<>:;R:<:F:<J:F:VZCryxi:B:;::vYxY:vYxIZ>Z;J
+:<:::FZ;^<xyy=Z:>::jysy;jysy:AR:R:<Z:>:@J:B::FZ;FZ[ry<Z:>::jysy;jysyZ<
+R:B:::j:<j:<J:>:=bCB:;::vYxY:vYxIv_<:<Z;>:<::::yI:;B:;::vyyuy;jysyjD>:
+<::::=:;:yI:<J:::yyyxY:vYxIP<B:::=:;j:J::MZ:>::jysy;:xI@:<::F:=Z;>:<j:
+>:;:=R:B:::yayA:ryB:=:;::=B:@j:@j:<j:Z:F:;B:;R:;Z:::vYxY:<:xIYB:<J:::R
+:Cr=;cDJ?J:>:::jysy;jysyxl;J:::r=jy[bZ:>Z::::yayA:ryl;>Z;>:<:J;d:yqy;J
+G>:<:::yayA:rydZ:B::Z;fZyyYyA:b?>Z:::jysy;:xiBZ;>:;R:=B:>:?b:vYyA:J@B:
+;::jysy;:xi;Z:Z;>:<j:FZDvYxI::<Z:>:::yayA:yayE:<J:Z;B:<:=ryvY::BD;B:<:
+:jysy;jysy@:<:FZ:R:>Zymy;::;J:<::jysy;jysy<Z:>::Zymy;::;Z:::vYxY:vYxi:
+B:;:@:<:xIyA::>:<::jysy;jysy<Z:>::Zymy;::;Z:::vYxY:vYxi:B:;::ryvY::j<J
+:::yayA:yayE:<J:::xIyA::N;>::jysy;jysy<Z:>Z;Z::ryvY::jAJ:::yayA:yayE:<
+J:R:B:Zymy;::<:;::vYxY:vYxi:B:;::ryvY::Z:J:::yayA:yayE:<J:::xIyA::B:>:
+:jysy;jysy<Z:>::Zymy;::<:;::vYxY:vYxi:B:;:R:B:xIyA::B:>::jysy;jysy<Z:>
+:Z;Z:ryvY::Z:J:::yayA:yayE:<j:J::ryvY::Z:j:@j:@J:B:jysy;jysy<Z:>::@J:r
+yvY::Z:j:@J:J:FZ;jysy;jysy<Z:>::Zymy;::<:=B:@j:@Z;FZ:>Z:vYxY:vYxi:B:;:
+Z<>Z:ryvY::Z:J:R:@Z;B:;jysy;jysy<Z:>:@J:B:Zymy;::<:=:R:@J:<jysy;jysy<Z
+:>:@:;B:Zymy;::<:;:=:;:yayA:yayE:<J:::xIyA::B:>Z;FZ;FZ:R:jysy;jysy<Z:>
+::Zymy;::<:;:j:<Z:vYxY:vYxi:B:;Z;Z::xIyA::B:>:j:J:vYxY:vYxi:B:;::ryvY:
+:Z:j:R:>Z:FZ;>:yayA:yayE:<J::R:;J:xIyA::B:>Z;Z:FZ;FZ;>:yayA:yayE:<J:::
+xIyA::B:FZ:B:;j:@Z;>:yayA:yayE:<J:::xIyA::B:F:;j:<j:@:;B:Y[yA:yayE:<J:
+::xIyA::B:>Z;J:<j:B:;jQry;jysy<Z:>::Zymy;::<:=R:=R:;j:R:;jQry;jysy<Z:>
+::Zymy;::<:;:FZ:F:;B:Y[yA:yayE:<J:R:B:Zymy;::<:;:F:=J:v?xY:vYxi:B:;R:B
+::xIyA::B:>:Z;F:v?xY:vYxi:B:>Z;J:<:ryvY::Z:j:<Z;J:FZ;B:U;vYxi:B:;Z;>:;
+B:Zymy;::<:=::f?jysy<Z:>::Zymy;::<:=R:;R:B:=Z:f?jysy<Z:>::Zymy;::<:=j:
+@J:>Z:FZ:jP:yayE:<J:::xIyA::B:FZ;R:;j:<j:@J:f?jysy<Z:>:DZ;F:=B:;B:;ryv
+Y::Z:j:@j:@:J:<jP:yayE:<J:::xIyA::B:>::jP:yayE:<J:::xIyA::B:>::JP:yay=
+:::::::::;:xI:::::::::>:ry:::::::::J:Zy=:::::::::;:xI:::::::::>:ry::::
+:::::J:Zy=:::::::::;:xI:::::::::>:ry:::::::::J:Zy=:::::::::;:xI:::::::
+::>:ry:::::::::J:Zy=:@obFD:::::yay=J:Zy=:@?]<::::jysy:>:ry:ZKkb:::::D]
+yuy:>:ry:ZKkb:::::vYxI:;:xI:RNFD:bF_SNFDN`KkbZlN`lZy=J:Zy=:<Pi>FC=fF:K
+=NgesUxPr:xI:;:xI:::::::::>:ry:::::::::J:Zy=:::::::::;:xI::::^hrkyyI:>
+IxIyAJ:Zy=JvD=ekywY:D@]LkZy=^hM[KOFryJ:Zy=NCRN>Axiy=u<]<slywYBX]\\K;ya
+y=;:xIbFRN:csyvYskbFD:yayMSjb:Dpysy>:ryZKkb:ryvY]\\K;Jpjyq@@?:i=yQ:Zy=
+S<]<ZymyU@@?:_syvynFD@?:k<yQ:Zy=A<]<ZmsyP?@?:xIOTNFD:ryvY;:xI^@FD:l?D=
+@?:HAslbFD:N@vY;:xI^@FD:l?D=@?:HAu<]<:xIyQ:Zy=g;]<Z[[lZK;ZqKnjb:Zymy?:
+ryJnjb:rVvysZK;ZymyM=@?:ctyvY;:xIRNFD:xIyQTjb:vHxyyO@FDZZwYxI;:xIBGRN:
+c<yqrDmbRN:yaymljb:_syvY>:ry:c;]<L=xIN@FDN`b[y]p[K;yay=;:xIjvZKkgjy;a=
+]\\l>HvYJfZKO`N[y=;:xI:::::::::>:ry:::::::::J:Zy=:::::::::;:xI::::::::
+:>:ry::::X@]lVZy=:::;:xI:::ZKkbbFyay=:::;:xI:::ZKkbjlvYyA:::;:xI:::jnj
+bZymy;::J:Zy=:::FEFDN`q[y=::J:Zy=:::>GFDryvY:::>:ry::::k=]<wlywY:::>:r
+y::::D=@_lvYxI:::>:ry::::rUZy=:::>:ry:::::::::J:Zy=:::::::::;:xI::::::
+:::>:ry:::::::::J:^:;jM@jyWZ:J::::::::::::::::::::::::::::::::::::::::
+::::::::::::::1:" }{TEXT -1 0 "" }}{PARA 257 "" 0 "" {TEXT -1 0 "" }
+{TEXT 278 17 "\301lgebra 2002/2003" }}{PARA 256 "" 0 "" {TEXT 545 0 "
+" }{TEXT 544 10 "Pr\341ctica 2" }}{PARA 258 "" 0 "" {TEXT 279 24 "M
+\351todo de Gauss y rango." }}{PARA 259 "" 0 "" {TEXT 280 13 "Determin
+antes" }}{PARA 11 "" 0 "" {TEXT -1 30 "Por: Regino Criado, E.S.C.E.T.
+" }{TEXT 272 12 ", URJC, 1999" }}{PARA 265 "" 0 "" {TEXT -1 46 "\332lt
+ima actualizaci\363n: A. Gallinari, E.S.C.E.T." }{TEXT 315 12 ", URJC,
+ 2003" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{SECT 1 {PARA 4 "" 0 "" 
+{TEXT 283 22 "Objetivos de la sesi\363n" }}{PARA 15 "" 0 "" {TEXT -1 
+49 "Recordar algunas de las funciones de la librer\355a " }{TEXT 281 
+6 "linalg" }{TEXT -1 111 " que se introdujeron en la pr\341ctica 1 e i
+ntroducir otras nuevas necesarias para el desarrollo de esta pr\341cti
+ca." }}{PARA 15 "" 0 "" {TEXT -1 183 "Afianzar en el alumno la compren
+si\363n de la base te\363rica del m\351todo de Gauss-Jordan, las trans
+formaciones y matrices elementales y sus diferentes aplicaciones media
+nte el uso de Maple." }}{PARA 15 "" 0 "" {TEXT -1 200 "Utilizar las tr
+ansformaciones elementales para desarrollar el concepto de determinant
+e, sus propiedades  y sus aplicaciones al estudio de la dependencia e \+
+independencia lineal de sistemas de vectores." }}{PARA 15 "" 0 "" 
+{TEXT -1 63 "Relacionar el concepto de determinante con la idea de vol
+umen. " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}
+}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 0 "" }{TEXT 284 7 "Tiempos" }{TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 435 "La duraci\363n de la pr\341cti
+ca (incluida la evaluaci\363n) es de  dos horas. La primera hora (apro
+ximadamente) se dedicar\341 al desarrollo-estudio de los contenidos de
+ los apartados \"Comandos de Maple necesarios para la realizaci\363n d
+e esta pr\341ctica\" y \"Lecci\363n\", donde se introducen y repasan l
+os conceptos y se muestran los comandos de Maple precisos para el desa
+rrollo de la pr\341ctica. La segunda hora a la realizaci\363n del test
+ de evaluaci\363n. " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Puls
+a return" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 0 "" }{TEXT 285 43 "Com
+o se debe realizar la siguiente pr\341ctica" }}{PARA 0 "" 0 "" {TEXT 
+-1 210 "El presente gui\363n seguido con las indicaciones y observacio
+nes del profesor contiene las instrucciones precisas para realizar con
+ el ordenador ejercicios sobre los contenidos presentados en las clase
+s te\363ricas." }}{PARA 0 "" 0 "" {TEXT -1 186 "Lo deseable, para que \+
+queden afianzadas las ideas y las nociones b\341sicas sobre la sintaxi
+s de Maple, es que se realicen prueba y nuevos ejemplos sobre la base \+
+de los ejemplos planteados." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+13 "#Pulsa return" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 65 "Comandos d
+e Maple necesarios para la realizaci\363n de esta pr\341ctica" }}
+{PARA 0 "" 0 "" {TEXT -1 102 "En esta primera parte de la pr\341ctica \+
+se describen, a trav\351s de ejemplos, algunos comandos del paquete " 
+}{TEXT 282 6 "linalg" }{TEXT -1 252 " \372tiles para la aplicaci\363n \+
+del m\351todo de Gauss que vamos a exponer y se repasar\341n los coman
+dos utilizados en la pr\341ctica 1. As\355 pues el alumno deber\341 ej
+ecutar dichos ejemplos y teclear\341 otros que le permitan comprender \+
+la aplicaci\363n de dichos comandos." }}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{PARA 0 "" 0 "" {TEXT -1 213 "Los siguientes son algunos comandos in
+corporados por Maple que pueden ser necesarios para la realizaci\363n \+
+de esta pr\341ctica (referida fundamentalmente al m\351todo de Gauss) \+
+que est\341n disponibles en la librer\355a linalg:" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 147 "    stackmatrix         \+
+augment      addcol         addrow        mulcol           mulrow     \+
+     delcols         delrows                         " }}{PARA 0 "" 0 
+"" {TEXT -1 152 "    swapcol              swaprow     row            c
+ol                pivot             linsolve          gausselim       \+
+gaussjord                    " }}{PARA 0 "" 0 "" {TEXT -1 111 "    equ
+al                   rank           transpose     inverse         inne
+rprod      crossprod       %      " }}{PARA 0 "" 0 "" {TEXT -1 38 "   \+
+ with(combinat)    permute      det" }}{PARA 0 "" 0 "" {TEXT -1 68 "  \+
+                                                                  " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 40 "Descripci
+\363n de los comandos mencionados:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 21 "restart:with(linalg):" }}}{PARA 0 "" 0 "" {TEXT -1 0 
+"" }}{PARA 0 "" 0 "" {TEXT -1 233 "OBSERVACI\323N: En la l\355nea de i
+nput de comandos anterior hemos introducido el s\355mbolo \":\" cuya a
+cci\363n, recordemos, es la misma del \";\" pero no hace eco (es decir
+, no se imprime nada como output aunque realiza la acci\363n que le pr
+ecede)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 42 "A1:=matrix(3,3,[1,-2,5,0,0,Pi/4,7,8,9/5]);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "B1:=matrix(3,3,[0,0,3,-5,2,1
+,8,0,0]);" }}}{PARA 0 "" 0 "" {TEXT -1 16 "Para acceder al " }{TEXT 
+454 31 "elemento (i,j) de una matriz C " }{TEXT -1 39 " hay que escrib
+ir C [i,j]. Por ejemplo:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "B
+1[2,1];" }}}{PARA 0 "" 0 "" {TEXT -1 14 "Las funciones " }{TEXT 453 9 
+"row(A,r1)" }{TEXT -1 1 "," }{TEXT 547 11 " col(A,c1) " }{TEXT -1 130 
+"devuelven la fila r1 y la columna c1 de A respectivamente (n\363tese \+
+que col(A,c1) devuelve una  matriz fila, no una matriz columna):" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "r2:=row(A1,2); c3:=col(B1,3)
+;" }}}{PARA 0 "" 0 "" {TEXT -1 11 "El comando " }{TEXT 455 11 "stackma
+trix" }{TEXT -1 32 " une dos matrices verticalmente:" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 19 "stackmatrix(A1,B1);" }}}{PARA 0 "" 0 "" 
+{TEXT -1 11 "La funci\363n " }{TEXT 456 7 "augment" }{TEXT -1 18 " (co
+mo la funci\363n " }{TEXT 457 6 "concat" }{TEXT -1 35 ") une dos matri
+ces horizontalmente:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "augm
+ent(A1,B1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "concat(A1,B1
+);" }}}{PARA 0 "" 0 "" {TEXT -1 11 "La funci\363n " }{TEXT 458 34 "del
+cols(A,r..s) (delrows(A,r..s)) " }{TEXT -1 72 "elimina las columnas (r
+espectivamente filas) r,r+1,...,s de la matriz A:" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 29 "delcols(augment(A1,B1),2..4);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "delrows(stackmatrix(A1,B1),3..3);" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 25 "Recordemos las \+
+funciones " }{TEXT 459 6 "addrow" }{TEXT -1 3 " y " }{TEXT 460 6 "addc
+ol" }{TEXT -1 39 ", ya empleadas en la pr\341ctica anterior:" }}{PARA 
+0 "" 0 "" {TEXT -1 41 "Llamadas a las funciones addrow y addcol:" }}
+{PARA 0 "" 0 "" {TEXT -1 26 "   addrow(A, r1, r2, m)   " }}{PARA 0 "" 
+0 "" {TEXT -1 26 "   addcol(A, c1, c2, m)   " }}{PARA 0 "" 0 "" {TEXT 
+-1 13 "Par\341metros:  " }}{PARA 0 "" 0 "" {TEXT -1 31 "     A        \+
+       - matriz  " }}{PARA 0 "" 0 "" {TEXT -1 54 "     r1,r2,c1,c2  - \+
+enteros; \355ndices de fila (columna)" }}{PARA 0 "" 0 "" {TEXT -1 69 "
+     m               - expresi\363n escalar (opcional. Por defecto m=1
+)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 204 "La
+ llamada  addrow(A,r1,r2,m)  devuelve una copia de la matriz A en la c
+ual la fila r2 ha sido reemplazada por m*row(A,r1)+row(A,r2). La funci
+\363n addcol tiene un comportamiento similar pero para columnas. " }}
+{PARA 0 "" 0 "" {TEXT -1 54 "Recordemos los coeficientes de la matriz \+
+A1 anterior. " }}{PARA 0 "" 0 "" {TEXT 273 4 "Nota" }{TEXT -1 100 ": S
+eg\372n vimos, la acci\363n del comando \"evalm\" es similar a la del \+
+comando \"eval\" pero para matrices. " }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 10 "evalm(A1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+18 "addcol(A1,1,2,-1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "a
+ddrow(A1,2,3,-9);" }}}{PARA 0 "" 0 "" {TEXT -1 33 "Recordemos tambi
+\351n las funciones " }{TEXT 461 6 "mulcol" }{TEXT -1 3 " y " }{TEXT 
+462 6 "mulrow" }{TEXT -1 1 ":" }}{PARA 0 "" 0 "" {TEXT -1 28 "Llamadas
+ a las funciones:   " }}{PARA 0 "" 0 "" {TEXT -1 26 "     mulcol(A, c,
+ expr)   " }}{PARA 0 "" 0 "" {TEXT -1 26 "     mulrow(A, r, expr)   " 
+}}{PARA 0 "" 0 "" {TEXT -1 14 "Par\341metros:   " }}{PARA 0 "" 0 "" 
+{TEXT -1 21 "    A     - matriz   " }}{PARA 0 "" 0 "" {TEXT -1 32 "   \+
+ r,c   - enteros positivos   " }}{PARA 0 "" 0 "" {TEXT -1 30 "    expr
+ - expresi\363n escalar  " }}{PARA 0 "" 0 "" {TEXT -1 240 "La llamada \+
+mulcol(A,c,expr) devuelve una matriz que tiene las mismas componentes \+
+que la matriz A, pero con los elementos de la columna c-\351sima multi
+plicados por la expresi\363n expr. La funci\363n mulrow(A,r,expr) tien
+e un comportamiento an\341logo:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 32 "mulcol(A1,2,x);mulrow(B1,1,2/3);" }}}{PARA 0 "" 0 "" {TEXT -1 
+11 "La funci\363n " }{TEXT 463 5 "equal" }{TEXT -1 39 " determina si d
+os matrices son iguales:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "
+equal(A1,B1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "Z:=A1: equ
+al(A1,Z);" }}}{PARA 0 "" 0 "" {TEXT -1 11 "La funci\363n " }{TEXT 464 
+9 "transpose" }{TEXT -1 21 " traspone una matriz:" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 49 "C1 := matrix([[1, 0, 7], [-2, 0, 8], [5, 1, 9
+]]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "C1:=transpose(A1);
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "v1:=row(C1,3);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "v2:=col(A1,3);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "equal(v1,v2);" }}}{PARA 0 "" 0 "" 
+{TEXT -1 25 "Recordemos las funciones " }{TEXT 465 7 "swapcol" }{TEXT 
+-1 3 " y " }{TEXT 466 7 "swaprow" }{TEXT -1 42 " tambi\351n empleadas \+
+en la primera pr\341ctica:" }}{PARA 0 "" 0 "" {TEXT -1 42 "Llamada a l
+as funciones swapcol y swaprow:" }}{PARA 0 "" 0 "" {TEXT -1 25 "    sw
+aprow(A, r1, r2)   " }}{PARA 0 "" 0 "" {TEXT -1 25 "    swapcol(A, c1,
+ c2)   " }}{PARA 0 "" 0 "" {TEXT -1 11 "Par\341metros:" }}{PARA 0 "" 
+0 "" {TEXT -1 31 "     A              - matriz   " }}{PARA 0 "" 0 "" 
+{TEXT -1 31 "     r1,r2,c1,c2 - naturales   " }}{PARA 0 "" 0 "" {TEXT 
+-1 211 "La funci\363n swaprow(A,r1,r2) crea una nueva matriz a partir \+
+de la matriz A intercambiando las filas r1 y r2. An\341logamente swapc
+ol(A,c1,c2) crea una nueva matriz a partir de A intercambiando las col
+umnas  c1 y c2." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "swapcol(A
+1,1,2);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "swaprow(B1,3,1);
+" }}}{PARA 0 "" 0 "" {TEXT -1 53 "En esta pr\341ctica tambi\351n vamos
+ a utilizar la funci\363n " }{TEXT 467 5 "pivot" }{TEXT -1 38 ", ya em
+pleada en la pr\341ctica anterior:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 27 "Llamada a la funci\363n pivot:" }}{PARA 
+0 "" 0 "" {TEXT -1 22 "     pivot(A, i, j)   " }}{PARA 0 "" 0 "" 
+{TEXT -1 28 "     pivot(A, i, j, r..s)   " }}{PARA 0 "" 0 "" {TEXT -1 
+14 "Par\341metros:   " }}{PARA 0 "" 0 "" {TEXT -1 20 "    A    - matri
+z   " }}{PARA 0 "" 0 "" {TEXT -1 28 "    i,j  - enteros positivos" }}
+{PARA 0 "" 0 "" {TEXT -1 25 "    r..s - rango de filas" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 411 "La funci\363n pivot
+ toma como entradas una matriz A y un par de enteros positivos i y j q
+ue determinan el elemento A[i,j] de A. Este elemento debe ser distinto
+ de cero, produci\351ndose un error en caso contrario. La funci\363n d
+evuelve una matriz del mismo orden que A, resultado de aplicar transfo
+rmaciones elementales de fila con el objeto de obtener ceros en la col
+umna j excepto, por supuesto, el elemento A[i,j].  " }}{PARA 0 "" 0 "
+" {TEXT -1 164 "La llamada pivot(A,i,j,r..s) tiene pr\341cticamente la
+ misma funcionalidad que pivot(A,i,j) excepto que las transformaciones
+ tan s\363lo afectan a las filas r, r+1,...,s:" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 34 "P1:=pivot(stackmatrix(A1,B1),1,1);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "P2:=pivot(swapcol(P1,2,3),2,2);" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "pivot(P2,3,3,4..6);" }}}
+{PARA 0 "" 0 "" {TEXT -1 37 "Se\361alaremos tambi\351n  que  la funci
+\363n " }{TEXT 468 8 "linsolve" }{TEXT -1 82 " permite resolver sistem
+as de ecuaciones lineales. La sintaxis de esta funci\363n es:" }}
+{PARA 0 "" 0 "" {TEXT -1 86 "\"linsolve(A,b)\" o tambi\351n  \"linsolv
+e(A,B)\", donde A y B son matrices y b es un vector:" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 60 "A:=matrix(3,3,[2,1,1,2,0,1,1,1,1]);b:=mat
+rix([[5],[1],[1]]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "lins
+olve(A,b);" }}}{PARA 0 "" 0 "" {TEXT -1 144 "Tambi\351n es posible det
+erminar la inversa de una matriz empleando la funci\363n linsolve. En \+
+ese caso estar\355amos resolviendo la ecuaci\363n matricial  " }
+{XPPEDIT 18 0 "A*X=Id" "6#/*&%\"AG\"\"\"%\"XGF&%#IdG" }{TEXT -1 1 ":" 
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "Id:=matrix(3,3,[1,0,0,0,1,
+0,0,0,1]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "linsolve(A,Id
+);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 22 "Ve
+amos que la funci\363n " }{TEXT 469 7 "inverse" }{TEXT -1 30 " nos dev
+uelve la misma matriz:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "in
+verse(A);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "equal(inverse(
+A),linsolve(A,Id));" }}}{PARA 0 "" 0 "" {TEXT -1 11 "El s\355mbolo " }
+{TEXT 470 2 "% " }{TEXT -1 50 " permiten recuperar la \372ltima expres
+i\363n evaluada, " }{TEXT 471 2 "%%" }{TEXT -1 36 "  la pen\372ltima, \+
+y as\355 suces\355vamente." }}{PARA 0 "" 0 "" {TEXT -1 26 "Verifiquemo
+s el resultado:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "multiply(
+A,%%);" }}}{PARA 0 "" 0 "" {TEXT -1 54 "Para finalizar, recordaremos c
+\363mo act\372an los comandos " }{TEXT 472 9 "gausselim" }{TEXT -1 3 "
+ y " }{TEXT 473 9 "gaussjord" }{TEXT -1 41 " ya introducidos en la pr
+\341ctica anterior:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "gauss
+elim(A);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "gaussjord(A);" 
+}}}{PARA 0 "" 0 "" {TEXT -1 11 "La funci\363n " }{TEXT 563 7 "rank(A)
+" }{TEXT -1 36 " determina el rango de una matriz A." }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 55 "r1:=rank(A1);r2:=rank(B1);r3:=rank(stackm
+atrix(A1,B1));" }}}}{SECT 1 {PARA 3 "" 0 "" {TEXT -1 7 "Lecci\363n" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{SECT 1 
+{PARA 4 "" 0 "" {TEXT -1 13 "Introducci\363n " }}{PARA 0 "" 0 "" 
+{TEXT -1 364 "Para comenzar, vamos a recordar en qu\351 consiste el m
+\351todo de Gauss-Jordan para resolver un sistema de ecuaciones lineal
+es. Primero lo resolveremos empleando el comando \"linsolve\" que tien
+e implementado Maple, y posteriormente iremos desarrollando el m\351to
+do de Gauss paso a paso para mejorar su comprensi\363n. Consideremos e
+l siguiente sistema de ecuaciones lineales:" }}{PARA 0 "" 0 "" {TEXT 
+-1 2 "  " }{XPPEDIT 18 0 "3*x[1]+2x[2]-x[3]=5" "6#/,(*&\"\"$\"\"\"&%\"
+xG6#\"\"\"F'F'*&\"\"#F'&F)6#\"\"#F'F'&F)6#\"\"$!\"\"\"\"&" }}{PARA 0 "
+" 0 "" {TEXT -1 2 "  " }{XPPEDIT 18 0 "x[1]-2x[2]+x[3]=3" "6#/,(&%\"xG
+6#\"\"\"\"\"\"*&\"\"#F)&F&6#\"\"#F)!\"\"&F&6#\"\"$F)\"\"$" }}{PARA 0 "
+" 0 "" {TEXT -1 2 "  " }{XPPEDIT 18 0 "x[1]-x[2]+x[3]  =1" "6#/,(&%\"x
+G6#\"\"\"\"\"\"&F&6#\"\"#!\"\"&F&6#\"\"$F)\"\"\"" }}{PARA 0 "" 0 "" 
+{TEXT -1 44 " En primer lugar lo resolvemos directamente:" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "with(linalg):" }}}{PARA 7 "" 1 "" 
+{TEXT -1 32 "Warning, new definition for norm" }}{PARA 7 "" 1 "" 
+{TEXT -1 33 "Warning, new definition for trace" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 38 "A:=matrix(3,3,[3,2,-1,1,-2,1,1,-1,1]);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "B:=matrix([[5],[3],[1]]);" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "linsolve(A,B);" }}}{PARA 
+0 "" 0 "" {TEXT -1 229 "Ahora ya sabemos la soluci\363n. Esta soluci
+\363n la ha obtenido el sistema aplicando el m\351todo de Gauss-Jordan
+ que tiene implementado. Vamos a obtenerla usando el m\351todo de Gaus
+s-Jordan  paso a paso seg\372n vimos en las clases te\363ricas:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "Am:=concat(A,B);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "Am:=pivot(Am,1,1);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "Am:=mulrow(Am,1,1/3);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "Am:=pivot(Am,2,2);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "Am:=mulrow(Am,2,-3/8);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "Am:=pivot(Am,3,3);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "Am:=mulrow(Am,3,2);" }}}{PARA 0 "" 
+0 "" {TEXT -1 61 "Como puede comprobarse, hemos obtenido la soluci\363
+n esperada. " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa retur
+n" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 47 "Las transformaciones y las
+ matrices elementales" }}{PARA 0 "" 0 "" {TEXT -1 115 "Estamos ya en c
+ondiciones de desarrollar nuevas aplicaciones de los m\351todos de red
+ucci\363n de matrices basados en el " }{TEXT 329 35 "uso de transforma
+ciones elementales" }{TEXT 358 1 " " }{TEXT -1 34 "estudiados en las c
+lases te\363ricas." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 546 4 "Sea " }{TEXT 365 1 "A" }{TEXT 374 12 " una matriz " }
+{TEXT 366 3 "mxn" }{TEXT 375 1 "." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT 330 106 "Las transformaciones elementales por fi
+las y las matrices elementales correspondientes son las siguientes:" }
+}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 15 "" 0 "" {TEXT 372 24 "Transf
+ormaci\363n elemental" }{TEXT -1 2 "  " }{XPPEDIT 18 0 "f[i] = f[i]+la
+mbda*f[j];" "6#/&%\"fG6#%\"iG,&&F%6#F'\"\"\"*&%'lambdaGF+&F%6#%\"jGF+F
++" }{TEXT -1 18 ": sumar a la fila " }{TEXT 368 1 "i" }{TEXT -1 4 " de
+ " }{TEXT 367 2 "A " }{TEXT -1 24 "un m\372ltiplo de la fila  " }
+{TEXT 369 1 "j" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 4 "    " }
+{TEXT 373 26 "Matriz elemental de orden " }{TEXT 370 1 "m" }{TEXT -1 
+2 "  " }{XPPEDIT 18 0 "S[ij](lambda);" "6#-&%\"SG6#%#ijG6#%'lambdaG" }
+{TEXT -1 100 ": es la matriz que se obtiene aplicando la transformaci
+\363n elemental anterior a la matriz identidad  " }{XPPEDIT 18 0 "I[m]
+;" "6#&%\"IG6#%\"mG" }{TEXT -1 10 " de orden " }{TEXT 371 2 "m." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 13 "Por ejemp
+lo: " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 
+"MATRIX([[-1, 2], [3, 1]])" "6#-%'MATRIXG6#7$7$,$\"\"\"!\"\"\"\"#7$\"
+\"$\"\"\"" }{TEXT -1 4 " -- " }{XPPEDIT 18 0 "f[2]=f[2]+3*f[1]" "6#/&%
+\"fG6#\"\"#,&&F%6#\"\"#\"\"\"*&\"\"$F,&F%6#\"\"\"F,F," }{TEXT -1 4 " -
+->" }{XPPEDIT 18 0 "MATRIX([[-1, 2], [0, 7]])" "6#-%'MATRIXG6#7$7$,$\"
+\"\"!\"\"\"\"#7$\"\"!\"\"(" }{TEXT -1 3 "   " }}{PARA 0 "" 0 "" 
+{XPPEDIT 18 0 "S[i,j](3);" "6#-&%\"SG6$%\"iG%\"jG6#\"\"$" }{TEXT -1 3 
+" = " }{XPPEDIT 18 0 "matrix([[1, 0], [3, 1]]);" "6#-%'matrixG6#7$7$\"
+\"\"\"\"!7$\"\"$\"\"\"" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 
+15 "" 0 "" {TEXT -1 1 " " }{TEXT 376 24 "Transformaci\363n elemental" 
+}{TEXT -1 2 "  " }{XPPEDIT 18 0 "f[i] = lambda*f[i];" "6#/&%\"fG6#%\"i
+G*&%'lambdaG\"\"\"&F%6#F'F*" }{TEXT -1 22 ": multiplicar la fila " }
+{TEXT 404 2 "i " }{TEXT -1 3 "de " }{TEXT 408 1 "A" }{TEXT -1 15 " por
+ un escalar" }{TEXT 334 1 " " }{TEXT -1 1 " " }{XPPEDIT 18 0 "lambda" 
+"6#%'lambdaG" }{TEXT 377 8 " no nulo" }{TEXT -1 2 ". " }}{PARA 0 "" 0 
+"" {TEXT -1 5 "     " }{TEXT 381 26 "Matriz elemental de orden " }
+{TEXT -1 0 "" }{TEXT 378 1 "m" }{TEXT -1 2 "  " }{XPPEDIT 18 0 "P[i](l
+ambda);" "6#-&%\"PG6#%\"iG6#%'lambdaG" }{TEXT -1 99 ": es la matriz qu
+e se obtiene aplicando la transformaci\363n elemental anterior a la ma
+triz identidad " }{XPPEDIT 18 0 "I[m];" "6#&%\"IG6#%\"mG" }{TEXT -1 
+10 " de orden " }{TEXT 379 2 "m." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 13 "Por ejemplo: " }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "MATRIX([[2, 0], [0, 1]])" "6#
+-%'MATRIXG6#7$7$\"\"#\"\"!7$F)\"\"\"" }{TEXT -1 4 " -- " }{XPPEDIT 18 
+0 "f[2]=3*f[2]" "6#/&%\"fG6#\"\"#*&\"\"$\"\"\"&F%6#\"\"#F*" }{TEXT -1 
+4 " -->" }{XPPEDIT 18 0 "MATRIX([[2, 0], [0, 3]])" "6#-%'MATRIXG6#7$7$
+\"\"#\"\"!7$F)\"\"$" }{TEXT -1 4 "    " }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "P[2](3);" "6#-&%\"PG
+6#\"\"#6#\"\"$" }{TEXT -1 3 " = " }{XPPEDIT 18 0 "matrix([[1, 0], [0, \+
+3]]);" "6#-%'matrixG6#7$7$\"\"\"\"\"!7$F)\"\"$" }{TEXT -1 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 15 "" 0 "" {TEXT 380 24 "Transformaci\363
+n elemental" }{TEXT -1 2 "  " }{XPPEDIT 18 0 "f[i];" "6#&%\"fG6#%\"iG
+" }{TEXT -1 6 " <--> " }{XPPEDIT 18 0 "f[j];" "6#&%\"fG6#%\"jG" }
+{TEXT -1 24 " : intercambiar la fila " }{TEXT 382 1 "i" }{TEXT -1 4 " \+
+de " }{TEXT 407 2 "A " }{TEXT -1 11 "con la fila" }{TEXT 383 2 " j" }
+{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 4 "    " }{TEXT 386 26 "Matr
+iz elemental de orden " }{TEXT -1 0 "" }{TEXT 384 1 "m" }{TEXT -1 2 " \+
+ " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 99 ": es la mat
+riz que se obtiene aplicando la transformaci\363n elemental anterior a
+ la matriz identidad " }{XPPEDIT 18 0 "I[m];" "6#&%\"IG6#%\"mG" }
+{TEXT -1 10 " de orden " }{TEXT 385 2 "m." }}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT -1 13 "Por ejemplo: " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "MATRIX([[2, 0], [0, 1]]
+)" "6#-%'MATRIXG6#7$7$\"\"#\"\"!7$F)\"\"\"" }{TEXT -1 4 " -- " }
+{XPPEDIT 18 0 "f[1];" "6#&%\"fG6#\"\"\"" }{TEXT -1 5 "<--> " }
+{XPPEDIT 18 0 "f[2];" "6#&%\"fG6#\"\"#" }{TEXT -1 4 " -->" }{XPPEDIT 
+18 0 "MATRIX([[0, 1], [2, 0]])" "6#-%'MATRIXG6#7$7$\"\"!\"\"\"7$\"\"#F
+(" }{TEXT -1 3 "   " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {XPPEDIT 18 0 "E[12];" "6#&%\"EG6#\"#7" }{TEXT -1 2 "= " }{XPPEDIT 
+18 0 "matrix([[0, 1], [1, 0]]);" "6#-%'matrixG6#7$7$\"\"!\"\"\"7$\"\"
+\"F(" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 346 0 "" }{TEXT 
+347 0 "" }{TEXT 348 0 "" }{TEXT 333 109 "Las transformaciones elementa
+les por columnas y las matrices elementales correspondientes son las s
+iguientes:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 15 "" 0 "" {TEXT 
+-1 0 "" }{TEXT 391 24 "Transformaci\363n elemental" }{TEXT -1 2 "  " }
+{XPPEDIT 18 0 "c[i] = c[i]+lambda*c[j];" "6#/&%\"cG6#%\"iG,&&F%6#F'\"
+\"\"*&%'lambdaGF+&F%6#%\"jGF+F+" }{TEXT -1 21 ": sumar a la columna " 
+}{TEXT 388 1 "i" }{TEXT -1 4 " de " }{TEXT 387 2 "A " }{TEXT -1 27 "un
+ m\372ltiplo de la columna  " }{TEXT 389 1 "j" }{TEXT -1 1 "." }}
+{PARA 0 "" 0 "" {TEXT -1 4 "    " }{TEXT 392 26 "Matriz elemental de o
+rden " }{TEXT 393 1 "n" }{TEXT -1 100 ": es la matriz que se obtiene a
+plicando la transformaci\363n elemental anterior a la matriz identidad
+  " }{XPPEDIT 18 0 "I[n];" "6#&%\"IG6#%\"nG" }{TEXT -1 10 " de orden \+
+" }{TEXT 390 2 "n " }{TEXT -1 4 "y es" }{TEXT 396 7 " igual " }{TEXT 
+-1 12 "a la matriz " }{TEXT 394 1 " " }{TEXT -1 9 "elemental" }{TEXT 
+399 1 " " }{XPPEDIT 18 0 "S[ji](lambda);" "6#-&%\"SG6#%#jiG6#%'lambdaG
+" }{TEXT -1 2 " (" }{TEXT 397 32 "notar la posici\363n de los \355ndic
+es" }{TEXT -1 1 ")" }{TEXT 395 1 "." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{PARA 0 "" 0 "" {TEXT -1 13 "Por ejemplo: " }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 1 " " }{XPPEDIT 18 0 "MATRIX([[2, 0
+], [0, 1]])" "6#-%'MATRIXG6#7$7$\"\"#\"\"!7$F)\"\"\"" }{TEXT -1 4 " --
+ " }{XPPEDIT 18 0 "c[2]=c[2]+3*c[1]" "6#/&%\"cG6#\"\"#,&&F%6#\"\"#\"\"
+\"*&\"\"$F,&F%6#\"\"\"F,F," }{TEXT -1 4 "- ->" }{XPPEDIT 18 0 "MATRIX(
+[[2, 6], [0, 1]])" "6#-%'MATRIXG6#7$7$\"\"#\"\"'7$\"\"!\"\"\"" }{TEXT 
+-1 4 "    " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }{XPPEDIT 18 0 "S[12](3);" "6#-&%\"SG6#\"#76#\"\"$" }{TEXT -1 
+4 " =  " }{XPPEDIT 18 0 "MATRIX([[1, 3], [0, 1]]);" "6#-%'MATRIXG6#7$7
+$\"\"\"\"\"$7$\"\"!\"\"\"" }{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 15 "" 0 "" {TEXT -1 0 "" }{TEXT 400 24 "Transformaci\363n elemen
+tal" }{TEXT -1 2 "  " }{XPPEDIT 18 0 "c[i] = lambda*c[i];" "6#/&%\"cG6
+#%\"iG*&%'lambdaG\"\"\"&F%6#F'F*" }{TEXT -1 25 ": multiplicar la colum
+na " }{TEXT 405 1 "i" }{TEXT -1 4 " de " }{TEXT 406 2 "A " }{TEXT -1 
+14 "por un escalar" }{TEXT 398 1 " " }{TEXT -1 1 " " }{XPPEDIT 18 0 "l
+ambda" "6#%'lambdaG" }{TEXT 401 8 " no nulo" }{TEXT -1 2 ". " }}{PARA 
+0 "" 0 "" {TEXT -1 4 "    " }{TEXT 403 25 "Matriz elemental de orden" 
+}{TEXT 410 2 " n" }{TEXT 409 0 "" }{TEXT -1 100 ": es la matriz que se
+ obtiene aplicando la transformaci\363n elemental anterior a la matriz
+ identidad  " }{XPPEDIT 18 0 "I[n];" "6#&%\"IG6#%\"nG" }{TEXT -1 10 " \+
+de orden " }{TEXT 402 2 "n " }{TEXT -1 4 "y es" }{TEXT 412 7 " igual \+
+" }{TEXT -1 12 "a la matriz " }{TEXT 411 1 " " }{TEXT -1 9 "elemental
+" }{TEXT 413 1 " " }{XPPEDIT 18 0 "P[i](lambda);" "6#-&%\"PG6#%\"iG6#%
+'lambdaG" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 12 "Por ejemplo:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 1 " " }{XPPEDIT 18 0 "MATRIX([[-1, 2], [3, 1]
+])" "6#-%'MATRIXG6#7$7$,$\"\"\"!\"\"\"\"#7$\"\"$\"\"\"" }{TEXT -1 4 " \+
+-- " }{XPPEDIT 18 0 "c[2]=4*c[2]" "6#/&%\"cG6#\"\"#*&\"\"%\"\"\"&F%6#
+\"\"#F*" }{TEXT -1 4 " -->" }{XPPEDIT 18 0 "MATRIX([[-1, 8], [3, 4]])
+" "6#-%'MATRIXG6#7$7$,$\"\"\"!\"\"\"\")7$\"\"$\"\"%" }{TEXT -1 3 "   \+
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "P[2
+](4);" "6#-&%\"PG6#\"\"#6#\"\"%" }{TEXT -1 3 " = " }{XPPEDIT 18 0 "MAT
+RIX([[1, 0], [0, 4]]);" "6#-%'MATRIXG6#7$7$\"\"\"\"\"!7$F)\"\"%" }
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa retur
+n" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 15 "" 0 "" {TEXT 414 24 "T
+ransformaci\363n elemental" }{TEXT -1 2 "  " }{XPPEDIT 18 0 "c[i];" "6
+#&%\"cG6#%\"iG" }{TEXT -1 6 " <--> " }{XPPEDIT 18 0 "c[j];" "6#&%\"cG6
+#%\"jG" }{TEXT -1 27 " : intercambiar la columna " }{TEXT 415 1 "i" }
+{TEXT -1 4 " de " }{TEXT 419 2 "A " }{TEXT -1 15 "con la columna " }
+{TEXT 416 2 " j" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 4 "    " }
+{TEXT 418 26 "Matriz elemental de orden " }{TEXT -1 0 "" }{TEXT 420 1 
+"n" }{TEXT -1 99 ": es la matriz que se obtiene aplicando la transform
+aci\363n elemental anterior a la matriz identidad " }{XPPEDIT 18 0 "I[
+n];" "6#&%\"IG6#%\"nG" }{TEXT -1 10 " de orden " }{TEXT 417 2 "n " }
+{TEXT -1 4 "y es" }{TEXT 422 7 " igual " }{TEXT -1 12 "a la matriz " }
+{TEXT 421 1 " " }{TEXT -1 9 "elemental" }{TEXT 423 1 " " }{XPPEDIT 18 
+0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 13 "Por ejemplo: " }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "MATRIX([[2, 0], [0, 1
+]])" "6#-%'MATRIXG6#7$7$\"\"#\"\"!7$F)\"\"\"" }{TEXT -1 4 " -- " }
+{XPPEDIT 18 0 "c[1]->c[2]" "6#R6#&%\"cG6#\"\"\"7\"6$%)operatorG%&arrow
+G6\"&F&6#\"\"#F-F-F-" }{TEXT -1 3 "-->" }{XPPEDIT 18 0 "MATRIX([[0,2],
+ [1, 0]])" "6#-%'MATRIXG6#7$7$\"\"!\"\"#7$\"\"\"F(" }{TEXT -1 4 "    \+
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+{XPPEDIT 18 0 "E[12];" "6#&%\"EG6#\"#7" }{TEXT -1 3 " = " }{XPPEDIT 
+18 0 "MATRIX([[0, 1], [1, 0]]);" "6#-%'MATRIXG6#7$7$\"\"!\"\"\"7$\"\"
+\"F(" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT -1 52 "Lo fundamental es tener presente q
+ue, seg\372n vimos,  " }}{PARA 0 "" 0 "" {TEXT 335 218 "cada transform
+aci\363n elemental se corresponde con la operaci\363n de multiplicar p
+or una cierta matriz invertible (por la izquierda si es una transforma
+ci\363n por filas y por la derecha si es una transformaci\363n por col
+umnas)" }{TEXT -1 2 ": " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 16 "dada una matriz " }{TEXT 336 1 "A" }{TEXT -1 10 " de
+ orden " }{XPPEDIT 18 0 "mxn" "6#%$mxnG" }{TEXT -1 45 ", si realizando
+ una transformaci\363n elemental " }{TEXT 360 9 "por filas" }{TEXT -1 
+8 " sobre  " }{TEXT 349 2 "A " }{TEXT -1 21 "obtenemos una matriz " }
+{TEXT 328 1 "B" }{TEXT -1 36 ", se verifica que existe una matriz " }
+{TEXT 359 1 "P" }{TEXT -1 21 " invertible de orden " }{TEXT 350 1 "m" 
+}{TEXT -1 10 "  tal que " }}{PARA 266 "" 0 "" {XPPEDIT 18 0 "B = P*A;
+" "6#/%\"BG*&%\"PG\"\"\"%\"AGF'" }{TEXT -1 1 " " }}{PARA 0 "" 0 "" 
+{TEXT -1 38 "(Obs\351rvese que en este caso la matriz " }{TEXT 332 1 "
+P" }{TEXT -1 25 " multiplica a la matriz  " }{TEXT 331 1 "A" }{TEXT 
+361 2 "  " }{TEXT -1 6 "por la" }{TEXT 364 10 " izquierda" }{TEXT -1 
+2 ")." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 57 "
+An\341logamente, si realizando una transformaci\363n elemental " }
+{TEXT 362 12 "por columnas" }{TEXT -1 7 " sobre " }{TEXT 337 1 "A" }
+{TEXT -1 22 " obtenemos una matriz " }{TEXT 338 1 "C" }{TEXT -1 47 ", \+
+se verifica que existe una matriz invertible " }{TEXT 363 1 "Q" }
+{TEXT -1 11 " de orden  " }{TEXT 351 3 "n  " }{TEXT -1 7 "tal que" }}
+{PARA 267 "" 0 "" {TEXT -1 1 " " }{XPPEDIT 18 0 "C = A*Q;" "6#/%\"CG*&
+%\"AG\"\"\"%\"QGF'" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" {TEXT -1 39 "(O
+bs\351rvese que en este caso la matriz Q" }{TEXT 424 1 " " }{TEXT -1 
+23 "multiplica a la matriz " }{TEXT 353 1 "A" }{TEXT -1 8 " por la " }
+{TEXT 354 9 "derecha)." }{TEXT -1 2 "  " }}{PARA 0 "" 0 "" {TEXT -1 0 
+"" }}{PARA 0 "" 0 "" {TEXT -1 117 "Veamos algunos ejemplos (recu\351rd
+ese que para multiplicar una matriz A por una matriz B se utiliza el c
+omando A&*B):  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 31 "A := matrix(2,3,(i,j)->a(i,j));" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "P[1](lambda) := matrix(2,2,[lambda,
+ 0,0,1]);" }}}{PARA 0 "" 0 "" {TEXT -1 10 "Notar que " }{XPPEDIT 18 0 
+"P[1](lambda);" "6#-&%\"PG6#\"\"\"6#%'lambdaG" }{TEXT -1 14 " es 2x2 y
+ que " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "Af := evalm(P[1](la
+mbda)&*A);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 20 "Ahora, si definimos " }{XPPEDIT 18 0 "P[1](lambda)" "6#-&%\"PG6
+#\"\"\"6#%'lambdaG" }{TEXT -1 16 " de dimensi\363n 3," }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 54 "P[1](lambda) := matrix(3,3,[lambda, 0,0,0
+,1,0,0,0,1]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "Ac := eval
+m(A&*P[1](lambda));" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pul
+sa return" }}}{PARA 0 "" 0 "" {TEXT -1 91 "Como se puede observar, seg
+\372n multipliquemos por la izquierda o por la derecha a la matriz " }
+{TEXT 355 1 "A" }{TEXT -1 15 " por la matriz " }{XPPEDIT 18 0 "P[1](la
+mbda" "6#-&%\"PG6#\"\"\"6#%'lambdaG" }{TEXT -1 87 "  (de dimensi\363n \+
+adecuada) realizamos una transformaci\363n por filas o por columnas so
+bre " }{TEXT 339 2 "A " }{TEXT -1 19 "(respectivamente). " }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 340 9 "Ejercicio" }{TEXT 
+-1 23 ": Definir las matrices " }{XPPEDIT 18 0 "P[2](lambda" "6#-&%\"P
+G6#\"\"#6#%'lambdaG" }{TEXT -1 4 "  y " }{XPPEDIT 18 0 "P[3](lambda" "
+6#-&%\"PG6#\"\"$6#%'lambdaG" }{TEXT -1 27 ", y realizar los productos \+
+" }{XPPEDIT 18 0 "A&*P[2](lambda)" "6#-%#&*G6$%\"AG-&%\"PG6#\"\"#6#%'l
+ambdaG" }{TEXT -1 3 " , " }{XPPEDIT 18 0 "A&*P[3](lambda)" "6#-%#&*G6$
+%\"AG-&%\"PG6#\"\"$6#%'lambdaG" }{TEXT -1 2 ", " }{XPPEDIT 18 0 "P[2](
+lambda)&*A" "6#-%#&*G6$-&%\"PG6#\"\"#6#%'lambdaG%\"AG" }{TEXT -1 5 "  \+
+y  " }{XPPEDIT 18 0 "P[3](lambda)&*A" "6#-%#&*G6$-&%\"PG6#\"\"$6#%'lam
+bdaG%\"AG" }{TEXT -1 46 ", y observar cual es el resultado.           \+
+ " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 16 "Vamo
+s a ver que " }{XPPEDIT 18 0 "S[ij](lambda);" "6#-&%\"SG6#%#ijG6#%'lam
+bdaG" }{TEXT -1 128 " es la matriz por la que hay que multiplicar a un
+a matriz dada por la izquierda para tener una acci\363n del tipo \"sum
+ar a la fila " }{TEXT 428 1 "i" }{TEXT -1 10 " la fila  " }{TEXT 352 
+1 "j" }{TEXT -1 18 " multiplicada por " }{XPPEDIT 18 0 "lambda;" "6#%'
+lambdaG" }{TEXT -1 2 "\":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 47 
+"S[12](lambda) := matrix(2,2,[1, lambda, 0, 1]);" }}}{PARA 0 "" 0 "" 
+{TEXT -1 10 "Notar que " }{XPPEDIT 18 0 "S[12](lambda);" "6#-&%\"SG6#
+\"#76#%'lambdaG" }{TEXT -1 19 " es de dimensi\363n 2:" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 30 "Af := evalm(S[12](lambda)&*A);" }}}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 20 "Ahora, si defin
+imos " }{XPPEDIT 18 0 "S[21](lambda);" "6#-&%\"SG6#\"#@6#%'lambdaG" }
+{TEXT -1 16 " de dimensi\363n 3 " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 57 "S[21](lambda) := matrix(3,3,[1, 0,0,lambda,1, 0,0,0, 1]);" }}}
+{PARA 0 "" 0 "" {TEXT -1 46 "y multiplicamos por la derecha, se obtien
+e que" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "Ac:=evalm(A&*S[21](
+lambda));" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 79 "Como puede observarse, el resultado de multiplicar a la matriz \+
+A por la matriz " }{XPPEDIT 18 0 "S[12](lambda" "6#-&%\"SG6#\"#76#%'la
+mbdaG" }{TEXT -1 125 " (de dimensi\363n 2) por la izquierda coincide c
+on la matriz que resulta al sumar a la primera fila de A la segunda mu
+ltiplicada" }{TEXT 356 1 " " }{TEXT -1 3 "por" }{TEXT 429 1 " " }
+{XPPEDIT 18 0 "lambda" "6#%'lambdaG" }{TEXT -1 2 ". " }{TEXT 431 1 " \+
+" }}{PARA 0 "" 0 "" {TEXT -1 15 "El resultado de" }{TEXT 425 2 "  " }
+{TEXT -1 40 "multiplicar a la matriz A por la matriz " }{XPPEDIT 18 0 
+"S[21](lambda);" "6#-&%\"SG6#\"#@6#%'lambdaG" }{TEXT -1 126 " (de dime
+nsi\363n 3) por la derecha coincide con la matriz que resulta al sumar
+ a la primera columna de A la segunda multiplicada" }{TEXT 426 1 " " }
+{TEXT -1 4 "por " }{XPPEDIT 18 0 "lambda" "6#%'lambdaG" }{TEXT 427 1 "
+ " }{TEXT -1 2 ". " }{TEXT 430 1 " " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{PARA 0 "" 0 "" {TEXT 341 9 "Ejercicio" }{TEXT -1 47 ": Definir las m
+atrices (de dimensi\363n adecuada) " }{XPPEDIT 18 0 "S[13](lambda" "6#
+-&%\"SG6#\"#86#%'lambdaG" }{TEXT -1 3 " y " }{XPPEDIT 18 0 "S[31](lamb
+da" "6#-&%\"SG6#\"#J6#%'lambdaG" }{TEXT -1 27 ", y realizar los produc
+tos " }{XPPEDIT 18 0 "A&*S[13](lambda)" "6#-%#&*G6$%\"AG-&%\"SG6#\"#86
+#%'lambdaG" }{TEXT -1 3 " , " }{XPPEDIT 18 0 "A&*S[31](lambda)" "6#-%#
+&*G6$%\"AG-&%\"SG6#\"#J6#%'lambdaG" }{TEXT -1 2 ", " }{XPPEDIT 18 0 "S
+[13](lambda)&*A" "6#-%#&*G6$-&%\"SG6#\"#86#%'lambdaG%\"AG" }{TEXT -1 
+5 "  y  " }{XPPEDIT 18 0 "S[31](lambda)&*A" "6#-%#&*G6$-&%\"SG6#\"#J6#
+%'lambdaG%\"AG" }{TEXT -1 36 ", y observar cual es el resultado.  " }}
+{PARA 0 "" 0 "" {TEXT -1 11 "           " }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 34 "Finalmente, vamos a verificar q
+ue " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 133 " es la m
+atriz por la que hay que multiplicar a una matriz dada por la izquierd
+a para tener una acci\363n del tipo \"intercambiar la fila " }{TEXT 
+433 1 "i" }{TEXT -1 14 " con la fila  " }{TEXT 432 1 "j" }{TEXT -1 2 "
+\":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "E[12]:= matrix(2,2,[0
+, 1, 1, 0]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "Af:= evalm(
+E[12]&*A);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 20 "Ahora, si definimos " }{XPPEDIT 18 0 "E[12];" "6#&%\"EG6#\"#7" 
+}{TEXT -1 16 " de dimensi\363n 3 " }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 42 "E[12]:= matrix(3,3,[0, 1,0,1,0,0,0,0, 1]);" }}}{PARA 
+0 "" 0 "" {TEXT -1 46 "y multiplicamos por la derecha, se obtiene que
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "Ac:=evalm(A&*E[12]);" }}
+}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 70 "En resum
+en,  dada una matriz A, si multiplicamos dicha matriz  por la " }
+{TEXT 357 9 "izquierda" }{TEXT -1 28 " por una matriz de la forma " }
+{XPPEDIT 18 0 "S[ij](lambda" "6#-&%\"SG6#%#ijG6#%'lambdaG" }{TEXT -1 
+2 ", " }{XPPEDIT 18 0 "P[i](lambda)" "6#-&%\"PG6#%\"iG6#%'lambdaG" }
+{TEXT -1 3 " o " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 
+42 ", el resultado de dicha multiplicaci\363n es " }{TEXT 343 30 "una \+
+transformaci\363n por filas  " }{TEXT -1 19 "sobre la matriz A. " }}
+{PARA 0 "" 0 "" {TEXT -1 16 "Del mismo modo, " }{TEXT 342 1 " " }
+{TEXT -1 38 "si multiplicamos dicha matriz  por la " }{TEXT 344 8 "der
+echa " }{TEXT -1 28 " por una matriz de la forma " }{XPPEDIT 18 0 "S[j
+i](lambda);" "6#-&%\"SG6#%#jiG6#%'lambdaG" }{TEXT -1 2 ", " }{XPPEDIT 
+18 0 "P[i](lambda" "6#-&%\"PG6#%\"iG6#%'lambdaG" }{TEXT -1 3 " o " }
+{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 61 ", el resultado \+
+de dicha multiplicaci\363n es la correspondiente " }{TEXT 345 28 "tran
+sformaci\363n por columnas " }{TEXT -1 19 "sobre la matriz A. " }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 13 "Tabla res
+umen" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}
+{PARA 0 "" 0 "" {TEXT -1 10 "          " }{TEXT 269 24 "Transformaci
+\363n elemental" }{TEXT -1 32 "                                " }
+{TEXT 270 20 "Producto de matrices" }}{PARA 0 "" 0 "" {TEXT -1 1 " " }
+}{PARA 0 "" 0 "" {TEXT -1 17 " Sumar a la fila " }{TEXT 274 1 "i" }
+{TEXT -1 4 " la " }{TEXT 275 2 "j " }{TEXT -1 18 "multiplicada por  " 
+}{XPPEDIT 18 0 "lambda" "6#%'lambdaG" }{TEXT -1 31 "                  \+
+             " }{XPPEDIT 18 0 "S[ij](lambda)*A" "6#*&-&%\"SG6#%#ijG6#%
+'lambdaG\"\"\"%\"AGF+" }{TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT -1 21 "
+ Multiplicar la fila " }{TEXT 271 1 "i" }{TEXT -1 6 " por  " }
+{XPPEDIT 18 0 "lambda" "6#%'lambdaG" }{TEXT -1 52 "                   \+
+                                 " }{XPPEDIT 18 0 "P[i](lambda)*A" "6#
+*&-&%\"PG6#%\"iG6#%'lambdaG\"\"\"%\"AGF+" }{TEXT -1 1 " " }}{PARA 0 "
+" 0 "" {TEXT -1 22 " Intercambiar la fila " }{TEXT 323 1 "i" }{TEXT 
+-1 14 " con la fila  " }{TEXT 324 42 "j                               \+
+          " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 1 " " 
+}{TEXT 325 1 "A" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 21 " Sumar a la columna  " }{TEXT 321 2 "i " }{TEXT -1 3 "la \+
+" }{TEXT 322 1 "j" }{TEXT -1 19 " multiplicada por  " }{XPPEDIT 18 0 "
+lambda" "6#%'lambdaG" }{TEXT -1 21 "                     " }{XPPEDIT 
+18 0 "A*S[ji](lambda);" "6#*&%\"AG\"\"\"-&%\"SG6#%#jiG6#%'lambdaGF%" }
+{TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT -1 24 " Multiplicar la columna \+
+" }{TEXT 320 1 "i" }{TEXT -1 6 " por  " }{XPPEDIT 18 0 "lambda" "6#%'l
+ambdaG" }{TEXT -1 43 "                                           " }
+{XPPEDIT 18 0 "A*P[i](lambda" "6#*&%\"AG\"\"\"-&%\"PG6#%\"iG6#%'lambda
+GF%" }{TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT -1 25 " Intercambiar la c
+olumna " }{TEXT 326 1 "i" }{TEXT -1 16 " con la columna " }{TEXT 327 
+27 "j                        A " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#
+ijG" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 1 " " }}}{SECT 1 {PARA 
+4 "" 0 "" {TEXT -1 44 "Inversas de las transformaciones elementales" }
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "
+" 0 "" {TEXT -1 81 "Las matrices que corresponden a las transformacion
+es elementales son invertibles." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 40 "En el caso de las matrices de la forma  \+
+" }{XPPEDIT 18 0 "P[i](lambda" "6#-&%\"PG6#%\"iG6#%'lambdaG" }{TEXT 
+-1 68 ", cuya acci\363n consiste en multiplicar la fila o columna i-
+\351sima por " }{XPPEDIT 18 0 "lambda" "6#%'lambdaG" }{TEXT -1 48 ", e
+s f\341cil deducir que su inversa es  la matriz " }{XPPEDIT 18 0 "P[i]
+(1/lambda" "6#-&%\"PG6#%\"iG6#*&\"\"\"\"\"\"%'lambdaG!\"\"" }{TEXT -1 
+3 " . " }}{PARA 0 "" 0 "" {TEXT -1 12 "Por ejemplo:" }}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 61 "P[1](lambda) := matrix(3,3,[lambda, 0, 0, 0
+, 1, 0, 0, 0, 1]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 64 "P[1](
+1/lambda):= matrix(3,3,[1/lambda, 0, 0, 0, 1, 0, 0, 0, 1]);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "evalm(P[1](lambda)&*P[1](1/l
+ambda));" }}}{PARA 0 "" 0 "" {TEXT -1 90 "Veamos adem\341s qu\351 suce
+de al hacer actuar estas transformaciones sobre la siguiente matriz:" 
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "A := matrix(3,3,(i,j)->a(i
+,j));" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 27 "Ac:=evalm(A&*P[1](lambda));" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 27 "evalm(Ac&*P[1](1/lambda)); " }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 39 "Por otra parte la inversa
+ de la matriz " }{XPPEDIT 18 0 "S[ij](lambda" "6#-&%\"SG6#%#ijG6#%'lam
+bdaG" }{TEXT -1 15 " es la matriz  " }{XPPEDIT 18 0 "S[ij](-lambda" "6
+#-&%\"SG6#%#ijG6#,$%'lambdaG!\"\"" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" 
+{TEXT -1 12 "Por ejemplo:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 
+"S[13](lambda) := matrix(3,3,[1, 0, lambda, 0, 1, 0, 0, 0, 1]);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 64 "S[13](-lambda) := matrix(3,3
+,[1, 0, -lambda, 0, 1, 0, 0, 0, 1]);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 37 "evalm(S[13](-lambda)&*S[13](lambda));" }}}{PARA 0 "" 
+0 "" {TEXT -1 99 "Si ahora queremos verlo a partir de la actuaci\363n \+
+de estas matrices sobre la matriz gen\351rica A dada:" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 30 "Ac := evalm(A&*S[13](lambda));" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "evalm(Ac&*S[13](-lambda));" 
+}}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 434 10 "Ejerc
+icio:" }{TEXT -1 53 " Determinar la matriz inversa de la matriz elemen
+tal " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 1 "." }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Puls
+a return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 {PARA 0 "" 0 "" 
+{TEXT 277 36 "Rango y transformaciones elementales" }}{PARA 0 "" 0 "" 
+{TEXT -1 58 "Comenzaremos recordando algunas definiciones y resultados
+:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 440 11 "Def
+inici\363n:" }{TEXT -1 4 " Si " }{TEXT 436 1 "A" }{TEXT -1 24 " es una
+ matriz de orden " }{TEXT 435 3 "mxn" }{TEXT -1 14 ", se denomina " }
+{TEXT 441 5 "rango" }{TEXT -1 14 " de la matriz " }{TEXT 437 1 "A" }
+{TEXT -1 35 " a la dimensi\363n del subespacio de  " }{XPPEDIT 18 0 "M
+[mx1](K" "6#-&%\"MG6#%$mx1G6#%\"KG" }{TEXT -1 44 " generado por el sis
+tema formado por  los  \"" }{TEXT 438 1 "n" }{TEXT -1 33 "\"  vectores
+ columna de la matriz " }{TEXT 439 1 "A" }{TEXT -1 2 ". " }}{PARA 0 "
+" 0 "" {TEXT -1 78 "Al subespacio generado por los vectores columna de
+ la matriz A se le denomina " }{TEXT 259 19 "subespacio columna " }
+{TEXT -1 5 "de A." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 215 "El rango de una matriz es un mecanismo \372til para dete
+rminar la dimensi\363n de aquellos subespacios vectoriales de los que \+
+conocemos un sistema generador y, entonces,  para verificar si este si
+stema es libre o ligado. " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 
+"#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 52 "As\355 por ejemplo, considerando el espacio vectorial  " 
+}{XPPEDIT 18 0 "P[3];" "6#&%\"PG6#\"\"$" }{TEXT -1 44 "(R) de los poli
+nomios reales en la variable " }{TEXT 474 2 "x " }{TEXT -1 74 "de grad
+o menor o igual que 3, para determinar la dimensi\363n del subespacio \+
+" }{XPPEDIT 18 0 "H=L(\{2+x,1-2*x+x^2,5+x^2" "6#/%\"HG-%\"LG6#<%,&\"\"
+#\"\"\"%\"xGF+,(\"\"\"F+*&\"\"#F+F,F+!\"\"*$F,\"\"#F+,&\"\"&F+*$F,\"\"
+#F+" }{TEXT -1 89 " escribimos las matrices de las coordenadas de dich
+os vectores respecto de la base usual " }{XPPEDIT 18 0 "B=\{1,x,x^2,x^
+3" "6#/%\"BG<&\"\"\"%\"xG*$F'\"\"#*$F'\"\"$" }{TEXT -1 26 ". Se obtien
+e el sistema   " }{XPPEDIT 18 0 "\{MATRIX([[2], [1],[0],[0]]),MATRIX([
+[1], [-2],[1],[0]]),MATRIX([[5], [0],[1],[0]])" "6#<%-%'MATRIXG6#7&7#
+\"\"#7#\"\"\"7#\"\"!7#F--F%6#7&7#\"\"\"7#,$\"\"#!\"\"7#\"\"\"7#F--F%6#
+7&7#\"\"&7#F-7#\"\"\"7#F-" }{TEXT -1 30 " , con lo que la dimensi\363n
+ de " }{TEXT 264 1 "H" }{TEXT -1 40 " coincidir\341 con el rango de la
+ matriz   " }{XPPEDIT 18 0 "MATRIX([[2,1,5],[1,-2,0],[0,1,1],[0,0,0]])
+" "6#-%'MATRIXG6#7&7%\"\"#\"\"\"\"\"&7%\"\"\",$\"\"#!\"\"\"\"!7%F0\"\"
+\"\"\"\"7%F0F0F0" }{TEXT -1 1 "." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 83 "Veamos, pues, un m\351todo para obtener de una maner
+a sencilla el rango de una matriz." }}{PARA 0 "" 0 "" {TEXT 548 11 "De
+finici\363n:" }{TEXT 318 1 " " }{TEXT -1 23 "Se dice que una matriz " 
+}{XPPEDIT 18 0 "A" "6#%\"AG" }{TEXT -1 4 " de " }{XPPEDIT 18 0 "m" "6#
+%\"mG" }{TEXT -1 9 " filas y " }{XPPEDIT 18 0 "n " "6#%\"nG" }{TEXT 
+-1 13 " columnas es " }{TEXT 256 9 "gaussiana" }{TEXT -1 17 " si sus c
+olumnas " }{XPPEDIT 18 0 "A^j" "6#)%\"AG%\"jG" }{TEXT -1 8 ", donde " 
+}{TEXT 549 1 "j" }{TEXT -1 44 " var\355a en el conjunto \{1,...,n\}, s
+atisfacen " }{TEXT 262 3 "una" }{TEXT -1 31 " de las condiciones sigui
+entes:" }}{PARA 15 "" 0 "" {XPPEDIT 18 0 "A^j=(0)" "6#/)%\"AG%\"jG\"\"
+!" }}{PARA 15 "" 0 "" {TEXT -1 7 "Existe " }{XPPEDIT 18 0 "i" "6#%\"iG
+" }{TEXT -1 45 " perteneciente al conjunto \{1,...,n\} tal que " }
+{XPPEDIT 18 0 "A^j" "6#)%\"AG%\"jG" }{TEXT -1 3 "(1," }{XPPEDIT 18 0 "
+i" "6#%\"iG" }{TEXT -1 35 ") es distinto de cero, y para todo " }
+{TEXT 550 1 "k" }{TEXT -1 41 " perteneciente al conjunto \{j+1,...,n\}
+,  " }{XPPEDIT 18 0 "A^k" "6#)%\"AG%\"kG" }{TEXT -1 3 "(1," }{XPPEDIT 
+18 0 "i" "6#%\"iG" }{TEXT -1 6 ") =0. " }}{PARA 0 "" 0 "" {TEXT -1 47 
+"En otras palabras, la segunda condici\363n supone " }{TEXT 261 22 "lo
+calizar un elemento " }{TEXT -1 1 " " }{XPPEDIT 18 0 "A^j" "6#)%\"AG%
+\"jG" }{TEXT -1 3 "(1," }{XPPEDIT 18 0 "i" "6#%\"iG" }{TEXT -1 3 ")  \+
+" }{TEXT 442 16 "distinto de cero" }{TEXT 263 133 " en la columna cons
+iderada y asegurarse de que todos los coeficientes de la matriz situad
+os en su misma fila y a su derecha son cero." }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 2 "  " 
+}}{PARA 0 "" 0 "" {TEXT -1 41 "As\355 por ejemplo, son matrices gaussi
+anas " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 268 "" 0 "" {TEXT -1 0 
+"" }{XPPEDIT 18 0 "matrix([[7, 0, 1], [1, 0, 1], [3, 0, 1], [0, 0, 1],
+ [1, 0, 0]]);" "6#-%'matrixG6#7'7%\"\"(\"\"!\"\"\"7%\"\"\"F)\"\"\"7%\"
+\"$F)\"\"\"7%F)F)\"\"\"7%\"\"\"F)F)" }{TEXT -1 3 ",  " }{XPPEDIT 18 0 
+"matrix([[0, -4], [0, 1], [1, 0]]);" "6#-%'matrixG6#7%7$\"\"!,$\"\"%!
+\"\"7$F(\"\"\"7$\"\"\"F(" }{TEXT -1 3 ",  " }{XPPEDIT 18 0 "matrix([[1
+, 0, 0, 0], [0, 1, 0, 0], [0, 0, 1, 0], [0, 0, 0, 1]]);" "6#-%'matrixG
+6#7&7&\"\"\"\"\"!F)F)7&F)\"\"\"F)F)7&F)F)\"\"\"F)7&F)F)F)\"\"\"" }
+{TEXT -1 3 ",  " }{XPPEDIT 18 0 "matrix([[3, 0, 0, 1, 0], [2, 0, 0, 0,
+ 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 1]]);" "6#-%'matri
+xG6#7'7'\"\"$\"\"!F)\"\"\"F)7'\"\"#F)F)F)F)7'F)F)F)F)F)7'F)F)F)F)F)7'F
+)F)F)F)\"\"\"" }{TEXT -1 2 " ." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 141 "El inter\351s de este tipo de matrices radica en que s
+i una matriz es gaussiana, su rango coincide con el n\372mero de colum
+nas no nulas que posee." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 17 "As\355 por ejemplo, " }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 3 "rg(" }
+{XPPEDIT 18 0 "matrix([[7, 0, 1], [1, 0, 1], [3, 0, 1], [0, 0, 1], [1,
+ 0, 0]])" "6#-%'matrixG6#7'7%\"\"(\"\"!\"\"\"7%\"\"\"F)\"\"\"7%\"\"$F)
+\"\"\"7%F)F)\"\"\"7%\"\"\"F)F)" }{TEXT -1 12 ")=2   y  rg(" }{XPPEDIT 
+18 0 "matrix([[3, 0, 0, 1, 0], [2, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0
+, 0, 0, 0], [0, 0, 0, 0, 1]]);" "6#-%'matrixG6#7'7'\"\"$\"\"!F)\"\"\"F
+)7'\"\"#F)F)F)F)7'F)F)F)F)F)7'F)F)F)F)F)7'F)F)F)F)\"\"\"" }{TEXT -1 4 
+")=3." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 3 "El " }
+{TEXT 257 54 "m\351todo de Gauss para determinar el rango de una matri
+z" }{TEXT 443 1 " " }{TEXT -1 26 "consiste en lo siguiente: " }}{PARA 
+0 "" 0 "" {TEXT -1 275 "partiendo del hecho de que al realizar transfo
+rmaciones elementales por columnas sobre una matriz, el rango de la nu
+eva matriz obtenida coincide con el rango de la matriz original, el m
+\351todo consiste en realizar transformaciones elementales por columna
+s sobre la matriz dada " }{TEXT 258 34 "hasta obtener una matriz gauss
+iana" }{TEXT -1 47 ", cuyo rango se determina de manera inmediata. " }
+}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 167 "El m
+\351todo de Gauss para determinar el rango de una matriz es especialme
+nte \372til para calcular el rango de una matriz cuando no se dispone \+
+de la ayuda de un ordenador. " }}{PARA 0 "" 0 "" {TEXT -1 63 "Si se qu
+iere determinar, junto con el rango de una matriz, una " }{TEXT 444 
+55 "base del subespacio vectorial generado por las columnas" }{TEXT 
+-1 254 " de la matriz dada y s\363lo se dispone de lapiz y papel, lo m
+\341s sensato es utilizar el m\351todo de Gauss para determinar los ra
+ngos de las matrices objeto de estudio. Maple lleva incorporada un com
+ando que determina autom\341ticamente el rango de una matriz:   " }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "A:=matrix(3,3,[1,1,1,1,1,1,1
+,1,1]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "rank(A);" }}}
+{PARA 5 "" 0 "" {TEXT 260 93 "En todo caso, el comando \"rank\" no nos
+ permite obtener una base del subespacio columna de  A." }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 446 15 "NOTA
+ IMPORTANTE" }{TEXT -1 34 ": Si queremos obtener una base de " }{TEXT 
+447 1 "H" }{TEXT -1 142 "  formada por vectores del sistema generador \+
+dado, tenemos que aplicar el m\351todo de Gauss sin utilizar transform
+aciones elementaless del tipo " }{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#i
+jG" }{TEXT -1 2 " (" }{TEXT 448 25 "sin intercambiar columnas" }{TEXT 
+-1 54 ") y elegir los vectores columnas de la matriz inicial " }{TEXT 
+449 2 "A " }{TEXT -1 75 "que corresponden a las columnas distintas de \+
+cero de la forma gaussiana de " }{TEXT 450 2 "A." }{TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 134 "Veamos c
+\363mo calcular el rango de la matriz anterior por el m\351todo de Gau
+ss paso a paso y obtener una base del subespacio columna de A," }}
+{PARA 0 "" 0 "" {TEXT -1 1 " " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 35 "A:=matrix(3,3,[1,1,1,1,1,1,1,1,1]);" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 21 "A1:=addcol(A,1,2,-1);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 22 "A2:=addcol(A1,1,3,-1);" }}}{PARA 0 "" 0 "" {TEXT -1 
+123 "La matriz A2 obtenida es gaussiana, por lo que su rango es 1, y o
+bviamente el sistema formado por el \372nico vector columna  " }
+{XPPEDIT 18 0 "\{MATRIX([[1], [1],[1]])" "6#<#-%'MATRIXG6#7%7#\"\"\"7#
+\"\"\"7#\"\"\"" }{TEXT -1 73 "  es una base del subespacio columna de \+
+la matriz original A considerada." }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 45 "Si aho
+ra volvemos a considerar el subespacio " }{XPPEDIT 18 0 "H=L(\{2+x,1-2
+*x+x^2,5+x^2" "6#/%\"HG-%\"LG6#<%,&\"\"#\"\"\"%\"xGF+,(\"\"\"F+*&\"\"#
+F+F,F+!\"\"*$F,\"\"#F+,&\"\"&F+*$F,\"\"#F+" }{TEXT -1 24 " del espacio
+ vectorial  " }{XPPEDIT 18 0 "P[3];" "6#&%\"PG6#\"\"$" }{TEXT -1 88 "(
+R) de los polinomios de grado menor o igual que 3, y adem\341s de obte
+ner la dimensi\363n de " }{TEXT 265 1 "H" }{TEXT -1 72 " queremos dete
+rminar una base de dicho subespacio, obraremos como sigue:" }}{PARA 0 
+"" 0 "" {TEXT -1 72 "en primer lugar consideraremos las coordenadas de
+l sistema generador de " }{TEXT 266 2 "H " }{TEXT -1 26 "respecto de l
+a base usual " }{XPPEDIT 18 0 "B=\{1,x,x^2,x^3" "6#/%\"BG<&\"\"\"%\"xG
+*$F'\"\"#*$F'\"\"$" }{TEXT -1 24 " obteniendo el sistema  " }{XPPEDIT 
+18 0 "\{MATRIX([[2], [1],[0],[0]]),MATRIX([[1], [-2],[1],[0]]),MATRIX(
+[[5], [0],[1],[0]])" "6#<%-%'MATRIXG6#7&7#\"\"#7#\"\"\"7#\"\"!7#F--F%6
+#7&7#\"\"\"7#,$\"\"#!\"\"7#\"\"\"7#F--F%6#7&7#\"\"&7#F-7#\"\"\"7#F-" }
+{TEXT -1 55 " ,  y ahora aplicamos el m\351todo de Gauss a la matriz  \+
+ " }{XPPEDIT 18 0 "MATRIX([[2,1,5],[1,-2,0],[0,1,1],[0,0,0]])" "6#-%'M
+ATRIXG6#7&7%\"\"#\"\"\"\"\"&7%\"\"\",$\"\"#!\"\"\"\"!7%F0\"\"\"\"\"\"7
+%F0F0F0" }{TEXT -1 8 " :      " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 42 "A:=matrix(4,3,[2,1,5,1,-2,0,0,1,1,0,0,0]);" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 20 "A1:=addcol(A,1,2,2);" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 22 "A2:=addcol(A1,2,3,-1);" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 59 "Esta matriz es gaussiana, por lo que el rango de la mat
+riz " }{TEXT 451 1 "A" }{TEXT -1 38 " es 2. En consecuencia la dimensi
+\363n de" }{TEXT 267 2 " H" }{TEXT -1 53 " es tambi\351n 2, y el siste
+ma formado por los vectores " }{XPPEDIT 18 0 "(\{2+x,5+x^2" "6#<$,&\"
+\"#\"\"\"%\"xGF&,&\"\"&F&*$F'\"\"#F&" }{TEXT -1 45 " correspondientes \+
+a las columnas no nulas de " }{TEXT 452 2 "A2" }{TEXT -1 25 " constitu
+yen una base de " }{TEXT 268 1 "H" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT -1 65 "Para finalizar este apartado, vamo
+s a ver un m\351todo directo para " }{TEXT 445 105 "determinar si un c
+ierto vector pertenece al subespacio vectorial generado por un sistema
+ de vectores dado" }{TEXT -1 30 ", utilizando el comando rank. " }}
+{PARA 0 "" 0 "" {TEXT -1 482 "Para ello, recordemos que si un vector p
+ertenece al subespacio vectorial generado por un sistema de vectores d
+ado, dicho vector se puede obtener como combinaci\363n lineal de los v
+ectores de dicho sistema. Por tanto si consideramos la matriz de coord
+enadas del sistema generador considerado respecto de una base fija del
+ espacio en el que estemos trabajando, el rango de dicha matriz no var
+\355a al a\361adir a la matriz anterior la columna correspondiente a l
+as coordenadas de dicho vector." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 45 "As\355 por ejemplo, fijada la base can
+\363nica de  " }{XPPEDIT 18 0 "(R)^3" "6#*$%\"RG\"\"$" }{TEXT -1 34 ",
+  para determinar si el vector ( " }{XPPEDIT 18 0 "(3,4,2)" "6%\"\"$\"
+\"%\"\"#" }{TEXT -1 126 " ) pertenece al subespacio vectorial generado
+ por el sistema de vectores \{(1,0,3),(4,3,2)\} hallar\355amos el rang
+o de la matriz  " }{XPPEDIT 18 0 "MATRIX([[1, 4], [0, 3], [3, 2]])" "6
+#-%'MATRIXG6#7%7$\"\"\"\"\"%7$\"\"!\"\"$7$\"\"$\"\"#" }{TEXT -1 52 " ,
+ y ver\355amos si coincide con el rango de la matriz " }{XPPEDIT 18 0 
+"MATRIX([[1, 4, 3], [0, 3, 4], [3, 2, 2]])" "6#-%'MATRIXG6#7%7%\"\"\"
+\"\"%\"\"$7%\"\"!\"\"$\"\"%7%\"\"$\"\"#\"\"#" }{TEXT -1 3 " . " }}
+{PARA 0 "" 0 "" {TEXT -1 94 "Si coinciden ambos rangos, el vector pert
+enece al subespacio generado y en caso contrario no. " }}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "A:=matrix
+(3,2,[1,4,0,3,3,2]); " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "ran
+k(A);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "Am:=matrix(3,3,[1,
+4,3,0,3,4,3,2,2]); " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "rank(
+Am);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 31 "
+ Como puede verse, el vector ( " }{XPPEDIT 18 0 "(3,4,2)" "6%\"\"$\"\"
+%\"\"#" }{TEXT -1 86 " ) no pertenece al subespacio generado por el si
+stema de vectores \{(1,0,3),(4,3,2)\}.  " }}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 12 "Determinante" }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 233 "El concepto de de
+terminante aparece de manera natural en varios contextos matem\341tico
+s. Algunos ejemplos son el c\341lculo del jacobiano para integraci\363
+n en varias variables, el c\341lculo vectorial, el c\341lculo de \341r
+eas y vol\372menes, etc...." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 70 "Vamos a ver como se pueden usar las propiedades
+ del determinante para " }}{PARA 15 "" 0 "" {TEXT -1 37 "calcular \341
+reas de paralelogramos en  " }{XPPEDIT 18 0 "R^2" "6#*$%\"RG\"\"#" }
+{TEXT -1 25 " y de paralelep\355pedos en " }{XPPEDIT 18 0 "R^3" "6#*$%
+\"RG\"\"$" }{TEXT -1 1 "," }}{PARA 15 "" 0 "" {TEXT -1 96 "relacionar \+
+el m\351todo de Gauss-Jordan para una matriz cuadrada con el c\341lcul
+o de su determinante," }}{PARA 15 "" 0 "" {TEXT -1 164 "desarrollar t
+\351cnicas para resolver sistemas de ecuaciones lineales con el mismo \+
+n\372mero de ecuaciones que de inc\363gnitas, es decir, cuya matriz as
+ociada sea cuadrada." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pul
+sa return" }}}{PARA 0 "" 0 "" {TEXT -1 2 "  " }}{PARA 0 "" 0 "" {TEXT 
+-1 107 "En esta primera secci\363n vamos a introducir (o recordar) el \+
+concepto de determinante de una matriz cuadrada." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 0 "" }{TEXT 286 23 "E
+l grupo sim\351trico S(n)" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 194 "Antes de poder definir el determinante de una mat
+riz cuadrada y estudiar sus aplicaciones necesitamos los conceptos de \+
+permutaci\363n y signo de una permutaci\363n que vamos a ilustrar a co
+ntinuaci\363n." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 27 "S(n) es el conjunto de las " }{TEXT 289 13 "permutaciones
+" }{TEXT -1 1 " " }{TEXT 290 44 "(o simetr\355as) de un conjunto con n
+ elementos" }{TEXT -1 80 ", que podemos representar como el conjunto d
+e los primeros n n\372meros naturales, " }{XPPEDIT 18 0 "N[n];" "6#&%
+\"NG6#%\"nG" }{TEXT -1 18 " = \{1,2,3,...,n\}. " }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 63 "Recordamos que S(n) consiste de todas
+ las funciones biyectivas " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 5 
+"  de " }{TEXT 288 0 "" }{TEXT -1 0 "" }{XPPEDIT 18 0 "N[n]" "6#&%\"NG
+6#%\"nG" }{TEXT -1 6 "  en  " }{XPPEDIT 18 0 "N[n]" "6#&%\"NG6#%\"nG" 
+}{TEXT -1 8 "  y que " }}{PARA 0 "" 0 "" {TEXT -1 58 "  - la composici
+\363n de dos permutaciones es una permutaci\363n" }}{PARA 0 "" 0 "" 
+{TEXT -1 49 "  - la composici\363n de permutaciones es asociativa" }}
+{PARA 0 "" 0 "" {TEXT -1 112 "  - la funci\363n identidad, Id(n)=n par
+a todo n, es el elemento neutro respecto de la composici\363n de permu
+taciones" }}{PARA 0 "" 0 "" {TEXT -1 50 "  - toda permutaci\363n tiene
+ una permutaci\363n inversa" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 36 "Por tanto, S(n) tiene estructura de " }{TEXT 
+291 20 "grupo no conmutativo" }{TEXT -1 1 "." }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 38 "Es usual representar una permutaci\363n  \+
+" }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 82 "  en S(n) por medio de u
+na matriz de dos filas y n columnas, as\355 que, por ejemplo," }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 260 "" 0 "" {TEXT -1 0 "" }
+{XPPEDIT 18 0 "f = matrix([[1, 2, 3, 4, 5, 6], [6, 2, 4, 3, 5, 1]]);" 
+"6#/%\"fG-%'matrixG6#7$7(\"\"\"\"\"#\"\"$\"\"%\"\"&\"\"'7(\"\"'\"\"#\"
+\"%\"\"$\"\"&\"\"\"" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 19 "es \+
+la permutaci\363n  " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 14 "  def
+inida en " }{XPPEDIT 18 0 "N[6];" "6#&%\"NG6#\"\"'" }{TEXT -1 6 "  por
+ " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 261 "" 0 "" {TEXT -1 0 "" }
+{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 10 " (1) =6,  " }{XPPEDIT 18 0 
+"f;" "6#%\"fG" }{TEXT -1 9 " (2) =2, " }{XPPEDIT 18 0 "f;" "6#%\"fG" }
+{TEXT -1 9 " (3) =4, " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 9 " (4)
+ =3, " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 9 " (5) =5, " }
+{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 8 " (6) =1." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 74 "Para trabajar con el grup
+o S(n) en Maple necesitamos llamar a la librer\355a " }{TEXT 292 8 "co
+mbinat" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "restart;with(linal
+g):with(combinat):matrix(1,6,[6,2,4,3,5,1]);" }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 11 "El comando " }{TEXT 294 
+11 "permute(n) " }{TEXT -1 135 "devuelve todas las permutaciones en S(
+n), escritas utilizando s\363lo las segundas filas de las matrices ant
+eriores como listas ordenadas." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT 293 9 "Ejemplo: " }{TEXT -1 69 "Sea S(3) el grup
+o de las permutaciones de un conjunto de 3 elementos:" }}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "permute(3
+); " }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{PARA 0 "" 0 "" {TEXT 297 128 "Los elementos de S(3) se pueden inter
+pretar como simetr\355as de un tri\341ngulo equil\341tero cuyo v\351rt
+ices est\351n marcados con 1, 2 y 3:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 272 "with(plottools):with(plot
+s):t1:=textplot([0.1,0.05,`1`],align=\{ABOVE,RIGHT\}):t2:=textplot([1/
+2,sqrt(3/4)-0.1,`2`],align=\{BELOW\}):t3:=textplot([1-0.1,0.05,`3`],al
+ign=\{ABOVE,LEFT\}):display(\{t1,t2,t3,polygon([[0,0], [1,0], [1/2,sqr
+t(3/4)]], color=red)\},scaling=constrained);\n" }}}{PARA 0 "" 0 "" 
+{TEXT -1 13 "Por ejemplo, " }}{PARA 0 "" 0 "" {TEXT -1 30 " -  (1 2 3)
+ es la identidad,  " }}{PARA 0 "" 0 "" {TEXT -1 68 " -  (1 3 2) es la \+
+simetr\355a respecto de la bisectriz del \341ngulo en 1:" }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 280 "t1:=
+textplot([0.1,0.05,`1`],align=\{ABOVE,RIGHT\}):t2:=textplot([1/2,sqrt(
+3/4)-0.1,`3`],align=\{BELOW\}):t3:=textplot([1-0.1,0.05,`2`],align=\{A
+BOVE,LEFT\}):r:=plot((sqrt(3)/3)*x,x=0..1.2):display(\{r,t1,t2,t3,poly
+gon([[0,0], [1,0], [1/2,sqrt(3/4)]], color=green)\},scaling=constraine
+d);\n" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 59 
+"- (2 3 1) es la rotaci\363n que lleva 1 en 2, 2 en 3 y 3 en 1:" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+247 "t1:=textplot([0.1,0.05,`3`],align=\{ABOVE,RIGHT\}):t2:=textplot([
+1/2,sqrt(3/4)-0.1,`1`],align=\{BELOW\}):t3:=textplot([1-0.1,0.05,`2`],
+align=\{ABOVE,LEFT\}):display(\{t1,t2,t3,polygon([[0,0], [1,0], [1/2,s
+qrt(3/4)]], color=yellow)\},scaling=constrained);\n" }}}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 298 10 "Ejercicio:" }{TEXT -1 
+117 " determina el efecto geom\351trico de aplicar las permutaciones (
+2 1 3), (3 1 2) y (3 2 1) al tri\341ngulo equil\341tero rojo." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 287 0 "" }
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 57 "Por definici\363n, el res
+ultado de aplicar una permutaci\363n  " }{XPPEDIT 18 0 "f;" "6#%\"fG" 
+}{TEXT -1 79 "  al conjunto ordenado (1,2,3, ..., n) es lo de obtener \+
+la nueva ordenaci\363n  ( " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 6 
+" (1), " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 6 " (2), " }{XPPEDIT 
+18 0 "f;" "6#%\"fG" }{TEXT -1 6 " (3), " }{XPPEDIT 18 0 "f;" "6#%\"fG
+" }{TEXT -1 6 " (4), " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 6 " (5)
+, " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 28 " (6)) de estos n eleme
+ntos. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 4 "
+Una " }{TEXT 299 13 "transposici\363n" }{TEXT -1 48 " es una permutaci
+\363n que intercambia el orden de " }{TEXT 311 8 "s\363lo dos" }{TEXT 
+-1 40 " elementos de la lista (1,2,3, ..., n). " }}{PARA 0 "" 0 "" 
+{TEXT -1 11 "Por ejemplo" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 262 
+"" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "f = matrix([[1, 2, 3, 4, 5, 6], \+
+[6, 2, 3, 4, 5, 1]]);" "6#/%\"fG-%'matrixG6#7$7(\"\"\"\"\"#\"\"$\"\"%
+\"\"&\"\"'7(\"\"'\"\"#\"\"$\"\"%\"\"&\"\"\"" }{TEXT -1 0 "" }}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 131 "es la trasposici
+\363n que intercambia el 1 con el 6, que se indicar\341 como (1 6), om
+itiendo los elementos cuya posici\363n no ha cambiato." }}{PARA 0 "" 
+0 "" {TEXT -1 4 "Una " }{TEXT 300 9 "inversi\363n" }{TEXT -1 94 " es u
+na transposici\363n que intercambia dos elementos consecutivos de la l
+ista (1,2,3, ..., n). " }}{PARA 0 "" 0 "" {TEXT -1 11 "Por ejemplo" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 263 "" 0 "" {TEXT -1 0 "" }
+{XPPEDIT 18 0 "f = matrix([[1, 2, 3, 4, 5, 6], [1, 2, 3, 5, 4, 6]]);" 
+"6#/%\"fG-%'matrixG6#7$7(\"\"\"\"\"#\"\"$\"\"%\"\"&\"\"'7(\"\"\"\"\"#
+\"\"$\"\"&\"\"%\"\"'" }{TEXT -1 1 "," }}{PARA 0 "" 0 "" {TEXT -1 44 "e
+s una inversi\363n que se indicar\341 como (4 5)." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa retur
+n" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 22 "Dad
+a una permutaci\363n  " }{TEXT 301 2 "f " }{TEXT -1 127 "de n elemento
+s, si queremos volver a la ordenaci\363n original (1,2,3, ..., n) pode
+mos realizar un  n\372mero adecuado de inversiones" }{TEXT 295 1 " " }
+{TEXT -1 35 "entre los elementos de la  lista ( " }{XPPEDIT 18 0 "f;" 
+"6#%\"fG" }{TEXT -1 6 " (1), " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT 
+-1 6 " (2), " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 6 " (3), " }
+{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 6 " (4), " }{XPPEDIT 18 0 "f;" 
+"6#%\"fG" }{TEXT -1 6 " (5), " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT 
+-1 59 " (6)), como se hace en un algoritmo de ordenaci\363n burbuja. \+
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 319 9 "Ejemp
+lo: " }{TEXT -1 40 "para reordenar los t\351rminos de la lista " }}
+{PARA 264 "" 0 "" {TEXT -1 2 "( " }{XPPEDIT 18 0 "f;" "6#%\"fG" }
+{TEXT -1 10 " (1) =6,  " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 9 " (
+2) =2, " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 9 " (3) =4, " }
+{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 9 " (4) =3, " }{XPPEDIT 18 0 "f
+;" "6#%\"fG" }{TEXT -1 9 " (5) =5, " }{XPPEDIT 18 0 "f;" "6#%\"fG" }
+{TEXT -1 24 " (6) =1) =(6,2,4,3,5,1) " }}{PARA 0 "" 0 "" {TEXT -1 61 "
+se pueden aplicar, sucesivamente, las siguientes inversiones:" }}
+{PARA 0 "" 0 "" {TEXT -1 436 "(1,2)  que produce la lista (2,6,4,3,5,1
+), (2 3) que produce la lista (2,4,6,3,5,1), (3 4) que produce la list
+a (2,4,3,6,5,1), (4 5) que produce la lista (2,4,3,5,6,1), (5 6) que p
+roduce la lista (2,4,3,5,1,6), (2 3) que produce la lista (2,3,4,5,1,6
+), (4 5) que produce la lista (2,3,4,1,5,6), (3 4) que produce la list
+a (2,3,1,4,5,6),  (2 3) que produce la lista (2,1,3,4,5,6) y, finalmen
+te, (1 2) que produce la lista (1,2,3,4,5,6). " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa retur
+n" }}}{PARA 0 "" 0 "" {TEXT -1 4 "Si  " }{TEXT 304 2 "i " }{TEXT -1 
+78 "es el n\372mero de inversiones necesarias para volver al orden (1,
+2,3, ..., n),  " }{XPPEDIT 18 0 "(-1)^i;" "6#),$\"\"\"!\"\"%\"iG" }
+{TEXT -1 6 "es el " }{TEXT 302 5 "signo" }{TEXT -1 34 " (o signatura) \+
+de la permutaci\363n  " }{TEXT 303 3 "f, " }{TEXT -1 5 "sign(" }{TEXT 
+316 1 "f" }{TEXT -1 2 ")." }{TEXT 317 1 " " }{TEXT -1 5 " Si  " }
+{TEXT 305 1 "i" }{TEXT -1 31 " es par (es decir, el signo de " }{TEXT 
+306 1 "f" }{TEXT -1 29 " es1) la permutaci\363n se dice " }{TEXT 307 
+3 "par" }{TEXT -1 6 " y si " }{TEXT 308 1 "i" }{TEXT -1 33 " es impar \+
+(es decir, el signo de " }{TEXT 309 1 "f" }{TEXT -1 31 " es -1) la per
+mutaci\363n se dice " }{TEXT 310 6 "impar." }{TEXT -1 38 " (Se puede d
+emostar que la paridad de " }{TEXT 312 1 "i" }{TEXT -1 97 " no depende
+ de las particulares inversiones empleadas para reordenar los elemento
+s de la lista ( " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 6 " (1), " }
+{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 6 " (2), " }{XPPEDIT 18 0 "f;" 
+"6#%\"fG" }{TEXT -1 6 " (3), " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT 
+-1 6 " (4), " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 6 " (5), " }
+{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 8 " (6)).) " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 78 "En el \372ltimo ejemplo h
+emos utilizado 10 inversiones y, por tanto, el signo de " }{TEXT 313 
+1 "f" }{TEXT -1 8 " es 1 y " }{TEXT 314 1 "f" }{TEXT -1 9 "  es par." 
+}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 155 "La def
+inici\363n de signo de una permutaci\363n se utilizar\341 en el pr\363
+ximo p\341rrafo para definir el determinante de una matriz cuadrada de
+ dimensi\363n n arbitraria." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 1 " " }{TEXT 296 73 
+"Definici\363n y primeros m\351todos para calcular el determinante de \+
+una matriz" }}{PARA 5 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+475 12 "Definici\363n: " }{TEXT -1 42 "El determinante de una matriz c
+uadrada A=(" }{XPPEDIT 18 0 "a[ij];" "6#&%\"aG6#%#ijG" }{TEXT -1 26 ")
+ de orden n es el escalar" }}{PARA 269 "" 0 "" {TEXT -1 7 "det(A)=" }
+{XPPEDIT 18 0 "Sum(sign(f),f);" "6#-%$SumG6$-%%signG6#%\"fGF)" }{TEXT 
+-1 1 " " }{XPPEDIT 18 0 "a[1,f(1)]*a[2,f(2)];" "6#*&&%\"aG6$\"\"\"-%\"
+fG6#\"\"\"\"\"\"&F%6$\"\"#-F)6#\"\"#F," }{TEXT -1 4 " ..." }{XPPEDIT 
+18 0 "a[n,f(n)];" "6#&%\"aG6$%\"nG-%\"fG6#F&" }{TEXT -1 1 "," }}{PARA 
+0 "" 0 "" {TEXT -1 68 "donde el sumatorio contiene n! sumandos, uno pa
+ra cada permutaci\363n  " }{XPPEDIT 18 0 "f;" "6#%\"fG" }{TEXT -1 17 "
+ de n elementos. " }}{PARA 0 "" 0 "" {TEXT -1 132 "Cada sumando es el \+
+producto de n factores y el signo de esto producto est\341 determinado
+ por el signo de la permutaci\363n que lo define." }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 
+"" }}{PARA 0 "" 0 "" {TEXT 476 10 "Ejemplos: " }}{PARA 0 "" 0 "" 
+{TEXT -1 31 "El determinate de la matriz 2x2" }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 30 "A:=matrix(2,2,[[1,2],[-4,1]]);" }}}{PARA 0 "" 0 "
+" {TEXT -1 46 "se calcula utilizando la 2 (=2!) permutaciones" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "permute(2);" }}}{PARA 0 "" 
+0 "" {TEXT -1 21 "y la formula anterior" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 49 "determinante(A):=1*A[1,1]*A[2,2]-1*A[1,2]*A[2,1];" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(A);" }}}{PARA 0 "" 0 "" 
+{TEXT -1 32 "El determinante de la matriz 3x3" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 41 "B:=matrix(3,3,[[1,2,3],[4,3,6],[0,1,2]]);" }}}
+{PARA 0 "" 0 "" {TEXT -1 46 "se calcula utilizando la 6 (=3!) permutac
+iones" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "permute(3);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 155 "determinante(B):=1*B[1,1]*B
+[2,2]*B[3,3]-1*B[1,1]*B[2,3]*B[3,2]-1*B[1,2]*B[2,1]*B[3,3]+1*B[1,2]*B[
+2,3]*B[3,1]+1*B[1,3]*B[2,1]*B[3,2]-1*B[1,3]*B[2,2]*B[3,1];" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(B);" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 29 "Dada una matriz cuadrada A= (" 
+}{XPPEDIT 18 0 "a[ij];" "6#&%\"aG6#%#ijG" }{TEXT -1 113 ") de dimensi
+\363n n, existe una f\363mula para hallar su determinante que utiliza \+
+los determinantes de las submatrices " }{XPPEDIT 18 0 "M[i,j];" "6#&%
+\"MG6$%\"iG%\"jG" }{TEXT -1 22 " de A que se obtienen " }{TEXT 551 19 
+"eliminando la fila " }{TEXT 477 1 "i" }{TEXT 552 14 " y la columna " 
+}{TEXT 478 1 "j" }{TEXT -1 17 " de la matriz A. " }}{PARA 0 "" 0 "" 
+{TEXT -1 19 "Al determinante de " }{XPPEDIT 18 0 "M[i,j]" "6#&%\"MG6$%
+\"iG%\"jG" }{TEXT -1 2 ", " }{TEXT 480 1 " " }{TEXT -1 4 "det(" }
+{XPPEDIT 18 0 "M[i,j]" "6#&%\"MG6$%\"iG%\"jG" }{TEXT -1 16 "),  se le \+
+llama " }{TEXT 479 19 "menor del elemento " }{XPPEDIT 18 0 "a[ij];" "6
+#&%\"aG6#%#ijG" }{TEXT -1 16 "  y el escalar  " }{XPPEDIT 18 0 "(-1)^(
+i+j);" "6#),$\"\"\"!\"\",&%\"iG\"\"\"%\"jGF)" }{TEXT -1 4 "det(" }
+{XPPEDIT 18 0 "M[i,j]" "6#&%\"MG6$%\"iG%\"jG" }{TEXT -1 8 ") es el " }
+{TEXT 482 21 "adjunto del elemento " }{XPPEDIT 18 0 "a[ij];" "6#&%\"aG
+6#%#ijG" }{TEXT -1 27 ". Con estas notaciones, la " }{TEXT 484 18 "f
+\363rmula de Laplace" }{TEXT -1 39 " para el c\341lculo del determinan
+te de A " }}{PARA 0 "" 0 "" {TEXT -1 15 "a partir de la " }{TEXT 481 
+7 " fila i" }{TEXT -1 8 " de A es" }}{PARA 270 "" 0 "" {XPPEDIT 18 0 "
+determinante(A) = sum((-1)^(i+j)*a[ij]*det(M[i,j]),j = 1 .. n);" "6#/-
+%-determinanteG6#%\"AG-%$sumG6$*(),$\"\"\"!\"\",&%\"iG\"\"\"%\"jGF2F2&
+%\"aG6#%#ijGF2-%$detG6#&%\"MG6$F1F3F2/F3;\"\"\"%\"nG" }{TEXT -1 0 "" }
+}{PARA 0 "" 0 "" {TEXT -1 18 "y  a partir de la " }{TEXT 483 9 "column
+a j" }{TEXT -1 8 " de A es" }}{PARA 271 "" 0 "" {TEXT -1 0 "" }
+{XPPEDIT 18 0 "determinante(A) = sum((-1)^(i+j)*a[ij]*det(M[i,j]),i = \+
+1 .. n);" "6#/-%-determinanteG6#%\"AG-%$sumG6$*(),$\"\"\"!\"\",&%\"iG
+\"\"\"%\"jGF2F2&%\"aG6#%#ijGF2-%$detG6#&%\"MG6$F1F3F2/F1;\"\"\"%\"nG" 
+}{TEXT -1 1 "." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa ret
+urn" }}}{PARA 0 "" 0 "" {TEXT -1 183 "Es posible demostrar que los val
+ores de las dos expressiones anteriores no dependen de la particular f
+ila o columna elegida y que son iguales al valor del determinante de l
+a matriz A." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 358 "Estas \372ltimas f\363rmulas nos dan una definici\363n recursi
+va del determinante: si somos capaces de calcular el determinante de m
+atrices 2x2, podemos calcular el determinante de una matriz cuadrada d
+e orden n simplemente aplicando la f\363rmula de Laplace iterativament
+e hasta que las submatrices de las cuales tenemos que calcular el dete
+rminante tengan dimensi\363n 2." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT 485 9 "Ejemplos:" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 85 "Apliquemos la f\363rmula de Laplace a
+ la matriz 2x2 definida en los ejemplos anteriores " }}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 52 "restart:with(linalg):\nA:=matrix(2,2,[[1,2]
+,[-4,1]]);" }}}{PARA 0 "" 0 "" {TEXT -1 26 "utilizando la primera fila
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 151 "dim(A):=2;i:=1;for k fr
+om 1 to dim(A) do M[i,k]:=delcols(delrows(A,i..i),k..k);od;\ndetermina
+nte(A):=add((-1)^(i+j)*A[i,j]*det(M[i,j]),j = 1 .. dim(A));" }}}{PARA 
+0 "" 0 "" {TEXT -1 20 "o la segunda columna" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 151 "dim(A):=2;j:=2;for k from 1 to dim(A) do M[k,j]:=d
+elcols(delrows(A,k..k),j..j);od;\ndeterminante(A):=add((-1)^(i+j)*A[i,
+j]*det(M[i,j]),i = 1 .. dim(A));" }}}{PARA 0 "" 0 "" {TEXT -1 46 "Para
+ la matriz 3x3 de los ejemplos anteriores " }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 41 "B:=matrix(3,3,[[1,2,3],[4,3,6],[0,1,2]]);" }}}
+{PARA 0 "" 0 "" {TEXT -1 45 "la f\363rmula de Laplace para la primera \+
+fila es" }{TEXT 486 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 152 "
+dim(B):=3; i:=1;for k from 1 to dim(B) do M[i,k]:=delcols(delrows(B,i.
+.i),k..k);od;\ndeterminante(B):=add((-1)^(i+j)*B[i,j]*det(M[i,j]),j = \+
+1 .. dim(B));" }}}{PARA 0 "" 0 "" {TEXT -1 25 "y para la tercera colum
+na" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 151 "dim(B):=3;j:=3;for k \+
+from 1 to dim(B) do M[k,j]:=delcols(delrows(B,k..k),j..j);od;\ndetermi
+nante(B):=add((-1)^(i+j)*B[i,j]*det(M[i,j]),i = 1 .. dim(B));" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 101 "El determinante t
+iene las siguientes propiedades que utilizaremos a continuaci\363n y e
+n los ejercicios:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 15 "" 0 "" 
+{TEXT -1 134 "Si A y B son matrices invertible, det(AB)=det(A)det(B). \+
+Por tanto el determinante de una matriz invertible es distinto de cero
+ y  det(" }{XPPEDIT 18 0 "A^(-1);" "6#)%\"AG,$\"\"\"!\"\"" }{TEXT -1 
+5 " ) = " }{XPPEDIT 18 0 "1/det(A);" "6#*&\"\"\"\"\"\"-%$detG6#%\"AG!
+\"\"" }{TEXT -1 22 " , siendo siempre det(" }{XPPEDIT 18 0 "I[n];" "6#
+&%\"IG6#%\"nG" }{TEXT -1 4 ")=1." }}{PARA 15 "" 0 "" {TEXT -1 30 "El d
+eterminante de una matriz " }{TEXT 487 19 "triangular superior" }
+{TEXT -1 55 " es igual al producto de los elementos de la diagonal. " 
+}}{PARA 15 "" 0 "" {TEXT -1 61 "El determinante de una matriz es igual
+ al determinante de su " }{TEXT 488 10 "traspuesta" }{TEXT -1 1 "." }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 15 "
+" 0 "" {TEXT -1 41 "Si A es una matriz invertible, su matriz " }{TEXT 
+489 7 "inversa" }{TEXT -1 3 " es" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 272 "" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "A^(-1);" "6#)%\"AG,$\"
+\"\"!\"\"" }{TEXT -1 3 " = " }{XPPEDIT 18 0 "[(-1)^(i+j)*det(M[i,j])]/
+det(A);" "6#*&7#*&),$\"\"\"!\"\",&%\"iG\"\"\"%\"jGF,F,-%$detG6#&%\"MG6
+$F+F-F,F,-F/6#%\"AGF)" }{TEXT -1 1 "," }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 6 "donde " }{XPPEDIT 18 0 "[(-1)^(i+j)*de
+t(M[i,j])];" "6#7#*&),$\"\"\"!\"\",&%\"iG\"\"\"%\"jGF+F+-%$detG6#&%\"M
+G6$F*F,F+" }{TEXT -1 119 " es la matriz cuadrada de la misma dimensi
+\363n que A cuyos coeficientes son los elementos adjuntos de los eleme
+ntos de A." }}{PARA 15 "" 0 "" {TEXT -1 8 "Vale la " }{TEXT 493 15 "Re
+gla de Cramer" }{TEXT -1 192 " para resolver un sistema de ecuaciones \+
+lineales AX=B con matriz asociada A nxn invertible, que, por tanto, es
+ compatible determinado. La \372nica soluci\363n del sistema es el vec
+tor de coordenadas" }}{PARA 273 "" 0 "" {XPPEDIT 18 0 "x[i];" "6#&%\"x
+G6#%\"iG" }{TEXT -1 3 " = " }{XPPEDIT 18 0 "det(A(i))/det(A);" "6#*&-%
+$detG6#-%\"AG6#%\"iG\"\"\"-F%6#F(!\"\"" }{TEXT -1 1 "," }}{PARA 274 "
+" 0 "" {TEXT -1 6 "donde " }{XPPEDIT 18 0 "A(i);" "6#-%\"AG6#%\"iG" }
+{TEXT -1 53 " es la matriz que se obtiene al sustituir la columna " }
+{TEXT 494 1 "i" }{TEXT -1 41 " de A por la matriz columna B, para todo
+ " }{TEXT 495 1 "i" }{TEXT -1 14 " de 1 hasta n." }{TEXT 490 0 "" }
+{TEXT -1 0 "" }{TEXT 491 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{PARA 5 "" 0 "
+" {TEXT -1 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 0 "" }{TEXT 496 
+71 "Determinantes, trasformaciones elementales, sistemas libres y vol
+\372menes" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 
+207 "En este apartado vamos a  estudiar un m\351todo para calcular el \+
+determinante de una matriz cuadrada por medio de transformaciones elem
+entales, sin tener que recurrir a su definici\363n o a la f\363rmula d
+e Laplace. " }}{PARA 0 "" 0 "" {TEXT -1 111 "Adem\341s veremos que el \+
+concepto de determinante se puede pensar como una generalizaci\363n de
+l concepto de volumen." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#P
+ulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 214 "Dada una matriz cuadrada nxn A, el siguiente teorema nos dice \+
+como obtener el determinante de la matriz A' obtenida como resultado d
+e aplicar una transformaci\363n elemental por filas (por columnas) sob
+re la matriz A:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 492 7 "Teorema" }}{PARA 0 "" 0 "" {TEXT -1 30 "Se
+a A una matriz nxn. Entonces" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 83 "1)  Si  A' es la matriz que se obtiene al multi
+plicar una fila de A por un escalar " }{XPPEDIT 18 0 "lambda;" "6#%'la
+mbdaG" }{TEXT -1 11 ",  det(A')=" }{XPPEDIT 18 0 "lambda;" "6#%'lambda
+G" }{TEXT -1 7 "det(A)," }}{PARA 0 "" 0 "" {TEXT -1 114 "2)  Si  A' es
+ la matriz que se obtiene al a\361adir a una fila de A un multiplo esc
+alar de otra fila, det(A')=det(A)," }}{PARA 0 "" 0 "" {TEXT -1 88 "3) \+
+ Si  A' es la matriz que se obtiene al intercambiar dos filas de A, de
+t(A')= -det(A)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 86 "4)  Si  A' es la matriz que se obtiene al multiplicar una
+ columna de A por un escalar " }{XPPEDIT 18 0 "lambda;" "6#%'lambdaG" 
+}{TEXT -1 11 ",  det(A')=" }{XPPEDIT 18 0 "lambda;" "6#%'lambdaG" }
+{TEXT -1 7 "det(A)," }}{PARA 0 "" 0 "" {TEXT -1 120 "5)  Si  A' es la \+
+matriz que se obtiene al a\361adir a una columna de A un multiplo esca
+lar de otra columna, det(A')=det(A)," }}{PARA 0 "" 0 "" {TEXT -1 91 "6
+)  Si  A' es la matriz que se obtiene al intercambiar dos columnas de \+
+A, det(A')= -det(A)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 220 "Siendo A' = EA y det(A') =det(E)det(A) en los primeros
+ tres casos y siendo A' = AE y det(A') =det(A)det(E) en los \372ltimos
+ tres casos (con E una matriz elemental), basta con verificar el teore
+ma para matrices elementales." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 4 "Sea " }{TEXT 497 3 "Id " }{TEXT -1 36 " la
+ matriz identidad de dimensi\363n n:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 51 "Id:=n->matrix(n,n,(k,r)->if k=r then 1 else 0; fi);" 
+}}}{PARA 0 "" 0 "" {TEXT -1 20 "La matriz elemental " }{XPPEDIT 18 0 "
+P[i](lambda);" "6#-&%\"PG6#%\"iG6#%'lambdaG" }{TEXT -1 28 " tiene dete
+rminante igual a " }{XPPEDIT 18 0 "lambda;" "6#%'lambdaG" }{TEXT -1 3 
+" = " }{XPPEDIT 18 0 "lambda;" "6#%'lambdaG" }{TEXT -1 5 " det(" }
+{TEXT 499 2 "Id" }{TEXT -1 2 "):" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 57 "n:=6;i:=4;lambda:=-2;P(i,lambda):=mulrow(Id(n),i,lambda);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(%);" }}}{PARA 0 "" 0 "" 
+{XPPEDIT 18 0 "S[ij](lambda);" "6#-&%\"SG6#%#ijG6#%'lambdaG" }{TEXT 
+-1 37 "  tiene determinante igual a 1 = det(" }{TEXT 498 2 "Id" }
+{TEXT -1 2 "):" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "n:=6;i:=4;
+j:=6;lambda:=-2;S(i,j,lambda):=addrow(Id(n),i,j,lambda);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(%);" }}}{PARA 0 "" 0 "" 
+{XPPEDIT 18 0 "E[ij];" "6#&%\"EG6#%#ijG" }{TEXT -1 36 " tiene determin
+ante igual a -1=-det(" }{TEXT 500 2 "Id" }{TEXT -1 2 "):" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "n:=6;i:=4;j:=6;E(i,j):=swaprow(Id(n
+),i,j);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(%);" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 277 "" 0 "" {TEXT -1 0 "" }
+{TEXT 517 77 "C\341lculo del valor del determinante por medio de trans
+formaciones elementales:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 341 "A partir del hecho de que el determinante de cual
+quier matriz triangular es igual al producto de los elementos de su di
+agonal principal y de los resultados del teorema anterior, podemos des
+arrollar un m\351todo que nos permite calcular el valor del determinan
+te de cualquier matriz A cuadrada de orden n utilizando transformacion
+es elementales." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa re
+turn" }}}{PARA 0 "" 0 "" {TEXT -1 221 "La idea es realizar transformac
+iones elementales por filas sobre A para obtener una matriz triangular
+ cuyo determinante sabemos calcular. As\355 por ejemplo, si B es la ma
+triz triangular obtenida al realizar sobre la matriz " }{TEXT 501 1 "A
+" }{TEXT -1 65 " en primer lugar la transformaci\363n consistente en s
+umar a la fila" }{TEXT 553 1 " " }{TEXT 502 1 "i" }{TEXT 554 1 " " }
+{TEXT -1 3 "la " }{TEXT 503 1 "j" }{TEXT -1 18 " multiplicada por " }
+{XPPEDIT 18 0 "lambda" "6#%'lambdaG" }{TEXT -1 48 " y en segundo lugar
+ multiplicando la fila k por " }{XPPEDIT 18 0 "lambda" "6#%'lambdaG" }
+{TEXT -1 14 ", resulta que:" }}{PARA 275 "" 0 "" {TEXT -1 1 "B" }
+{TEXT 516 1 "=" }{XPPEDIT 18 0 "P[k](lambda);" "6#-&%\"PG6#%\"kG6#%'la
+mbdaG" }{XPPEDIT 18 0 "S[ij](lambda)*A;" "6#*&-&%\"SG6#%#ijG6#%'lambda
+G\"\"\"%\"AGF+" }}{PARA 0 "" 0 "" {TEXT -1 1 "y" }}{PARA 276 "" 0 "" 
+{TEXT -1 4 "det(" }{TEXT 504 1 "B" }{TEXT -1 6 ")=det(" }{XPPEDIT 18 
+0 "P[k](lambda);" "6#-&%\"PG6#%\"kG6#%'lambdaG" }{TEXT -1 1 "(" }
+{XPPEDIT 18 0 "S[ij](lambda)*A;" "6#*&-&%\"SG6#%#ijG6#%'lambdaG\"\"\"%
+\"AGF+" }{TEXT -1 7 "))=det(" }{XPPEDIT 18 0 "P[k](lambda);" "6#-&%\"P
+G6#%\"kG6#%'lambdaG" }{TEXT -1 5 ")det(" }{XPPEDIT 18 0 "S[ij](lambda)
+*A;" "6#*&-&%\"SG6#%#ijG6#%'lambdaG\"\"\"%\"AGF+" }{TEXT -1 2 ")=" }
+{XPPEDIT 18 0 "lambda;" "6#%'lambdaG" }{TEXT -1 4 "det(" }{XPPEDIT 18 
+0 "S[ij](lambda);" "6#-&%\"SG6#%#ijG6#%'lambdaG" }{TEXT -1 5 ")det(" }
+{TEXT 505 1 "A" }{TEXT -1 2 ")=" }{XPPEDIT 18 0 "lambda;" "6#%'lambdaG
+" }{TEXT -1 11 "*1*det(A)= " }{XPPEDIT 18 0 "lambda;" "6#%'lambdaG" }
+{TEXT -1 7 "det(A)," }}{PARA 0 "" 0 "" {TEXT -1 17 "de donde  det(A) \+
+" }{TEXT 506 2 "= " }{XPPEDIT 18 0 "1/lambda" "6#*&\"\"\"\"\"\"%'lambd
+aG!\"\"" }{TEXT 507 1 " " }{TEXT -1 7 "det(B)." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 508 4 "Nota" }{TEXT 518 1 ":" }
+{TEXT -1 248 " El m\351todo anterior tambi\351n funcionar\355a realiza
+ndo transformaciones s\363lo por columnas o tambi\351n por filas y por
+ columnas pero teniendo cuidado con el lado (izquierda o derecha) por \+
+el que hay que multiplicar por la correspondiente matriz elemental." }
+}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 
+509 23 "Observaci\363n importante:" }{TEXT -1 28 " Teniendo en cuenta \+
+que det(" }{XPPEDIT 18 0 "S[ij](lambda);" "6#-&%\"SG6#%#ijG6#%'lambdaG
+" }{TEXT -1 29 ")=1, si la matriz triangular " }{TEXT 510 1 "B" }
+{TEXT -1 34 " se obtiene a partir de la matriz " }{TEXT 511 1 "A" }
+{TEXT -1 66 " realizando \372nicamente transformaciones del tipo \"sum
+ar a la fila " }{TEXT 512 1 "i" }{TEXT -1 9 " la fila " }{TEXT 513 1 "
+j" }{TEXT -1 18 " multiplicada por " }{XPPEDIT 18 0 "lambda" "6#%'lamb
+daG" }{TEXT -1 45 "\", de las propiedades vistas resulta que det(" }
+{TEXT 514 1 "A" }{TEXT -1 6 ")=det(" }{TEXT 515 1 "B" }{TEXT -1 6 "). \+
+   " }}{PARA 5 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 519 9 "Ej
+emplos:" }{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "T:
+=matrix(5,5,[1,3,3,3,6,0,1,2,3,4,0,0,-1,-8,-3,0,0,0,1,2,0,0,0,0,4]);" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(T);" }}}{PARA 0 "" 0 "
+" {TEXT -1 152 "Como se puede observar, el valor del determinante la m
+atriz anterior (que es triangular) es igual al producto de los element
+os de su diagonal principal." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "A:=matrix(4,4,[1,2,3,1,0,4,1
+,1,2,1,0,1,1,2,1,0]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "A1
+:=addrow(A,1,3,-2);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "A2:=
+addrow(A1,1,4,-1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "A3:=a
+ddrow(A2,2,3,3/4);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "A4:=a
+ddrow(A3,3,4,2*(-4/21));" }}}{PARA 0 "" 0 "" {TEXT -1 293 "Como puede \+
+verse, el producto de los elementos de la diagonal principal la matriz
+ A4 es 19 (y por consiguiente el valor del determinante de A4 es 19). \+
+Teniendo en cuenta que todas las transformaciones elementales por fila
+s realizadas han sido del tipo \"sumar a la fila i la j multiplicada p
+or " }{XPPEDIT 18 0 "lambda" "6#%'lambdaG" }{TEXT -1 65 " \", resulta \+
+que det(A) debe coincidir con det(A4). Comprob\351moslo:" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(A);" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT 520 42 "Determinantes, sistemas libres
+ y vol\372menes" }}{PARA 0 "" 0 "" {TEXT -1 50 "Comenzaremos dibujando
+ algunos paralelogramos en  " }{XPPEDIT 18 0 "R^2" "6#*$%\"RG\"\"#" }
+{TEXT -1 127 " y observando c\363mo var\355a dicho \"volumen bidimensi
+onal\" al modificar el sistema de vectores que determinan dicho parale
+logramo. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 
+54 "Comenzaremos con el sistema de vectores \{(1,0),(0,1)\}:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 103 "with(plottools):\nplots[dis
+play](polygon([[0,0], [1,0], [1,1], [0,1]]), color=red,scaling=constra
+ined);\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" 
+}}}{PARA 0 "" 0 "" {TEXT -1 66 "Es obvio que el \341rea del paralelogr
+amo anterior es igual a 1= det(" }{XPPEDIT 18 0 "MATRIX([[1,0],[0,1])
+" "6#-%'MATRIXG6#7$7$\"\"\"\"\"!7$F)\"\"\"" }{TEXT -1 4 " ). " }}
+{PARA 0 "" 0 "" {TEXT -1 135 "Si ahora multiplicamos uno de sus lados \+
+por 2, o por cualquier otro n\372mero, el valor del \341rea aparece mu
+ltiplicada por dicha cantidad: " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 104 "with(plottools):\nplots[display](polygon([[0,0], [2,0], [2,1]
+, [0,1]]), color=green,scaling=constrained);" }}}{PARA 0 "" 0 "" 
+{TEXT -1 100 "Como se puede obtener (y observar), el \341rea encerrada
+ en este caso por los vectores \{(2,0),(0,1)\}es " }}{PARA 0 "" 0 "" 
+{TEXT -1 4 "det(" }{XPPEDIT 18 0 "MATRIX([[2,0],[0,1])" "6#-%'MATRIXG6
+#7$7$\"\"#\"\"!7$F)\"\"\"" }{TEXT -1 5 " )=2." }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}{PARA 0 "" 0 "" {TEXT -1 183 "Por otra parte, recordando la \"regla \+
+del paralelogramo\" que utiliz\341bamos para sumar vectores, se puede \+
+demostrar, utilizando argumentos de geometr\355a elemental que, siendo
+ vectores de " }{TEXT 557 2 "u " }{TEXT -1 2 "y " }{TEXT 558 2 "v " }
+{XPPEDIT 18 0 "R^2" "6#*$%\"RG\"\"#" }{TEXT -1 54 ", el \341rea del pa
+ralelogramo definido por los vectores " }{XPPEDIT 18 0 "u+v;" "6#,&%\"
+uG\"\"\"%\"vGF%" }{TEXT -1 3 " y " }{TEXT 559 2 "v " }{TEXT -1 62 "es \+
+igual al \341rea del paralelogramo de finido por los vectores " }
+{TEXT 560 1 "u" }{TEXT -1 3 " y " }{TEXT 561 1 "v" }{TEXT -1 1 "." }}
+{PARA 0 "" 0 "" {TEXT -1 58 "Ve\341moslo de modo gr\341fico en el sigu
+iente dibujo, en el que" }{TEXT 531 2 "  " }{TEXT 555 1 "u" }{TEXT -1 
+8 "=(1,0), " }{TEXT 556 1 "v" }{TEXT -1 8 "=(0,1). " }}{PARA 278 "" 0 
+"" {TEXT 530 129 "La idea es comprobar gr\341ficamente que el \341rea \+
+del rect\341ngulo de borde rojo coincide con el \341rea del paralelogr
+amo de borde azul: " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 367 "with
+(plottools):\nl := line([0,0], [1,1], color=blue, linestyle=1):l3 := l
+ine([0,0], [0,1], color=red, linestyle=1):\nl4 := line([1,0], [1,1], c
+olor=red, linestyle=1):\nl5 := line([1,1], [0,1], color=red, linestyle
+=1):\nl1 := line([1,0], [2,1], color=blue,linestyle=1):l2:= line([1,1]
+, [2,1], color=blue,linestyle=1):plots[display](l,l1,l2,l3,l4,l5,scali
+ng=constrained);\n" }}}{PARA 0 "" 0 "" {TEXT -1 294 "Hay que observar \+
+que el orden en el que consideramos los vectores determina un \"sentid
+o de recorrido\" del borde del paralelogramo considerado. Por ejemplo,
+ consideremos el sistema \{(1,0),(0,1)\} y hallemos el \341rea del rec
+t\341ngulo determinado por este sistema calculando el siguiente determ
+inante:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "with(linalg):" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "A:=array(1..2,1..2,[[1,0],[0,1]]);
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "det(A);" }}}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 242 "Si ahora cambiamos \+
+el sentido de recorrido del per\355metro del paralelogramo anterior, i
+.e., si consideramos el paralelogramo determinado por el sistema  \{(0
+,1),(1,0)\} y hallamos el \341rea correspondiente calculando el valor \+
+del determinante det(" }{XPPEDIT 18 0 "MATRIX([[0,1],[1,0])" "6#-%'MAT
+RIXG6#7$7$\"\"!\"\"\"7$\"\"\"F(" }{TEXT -1 60 " ), vamos a obtener un \+
+cambio de signo en el valor obtenido:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 47 "with(linalg):A:=array(1..2,1..2,[[0,1],[1,0]]);" }}}
+{PARA 5 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+7 "det(A);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 70 "Si lo que pretendemos es hallar el valor del \341rea, deberemos
+ tomar el " }{TEXT 562 14 "valor absoluto" }{TEXT -1 67 " del determin
+ante, pues el determinante en el caso de dos vectores " }{XPPEDIT 18 
+0 "R^2" "6#*$%\"RG\"\"#" }{TEXT -1 258 " es un \"\341rea con signo\", \+
+en el que el signo depende del orden considerado de los vectores que d
+eterminan el \341rea. Si ahora queremos determinar el \341rea encerrad
+a por el sistema \{(1,1),(-1,2)\}, ser\341 suficiente con calcular el \+
+valor del siguiente determinante: " }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 26 "A:=matrix(2,2,[1,-1,1,2]);" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 7 "det(A);" }}}{PARA 0 "" 0 "" {TEXT -1 64 "Obviamente
+, el \341rea encerrada por un sistema de dos vectores de " }{XPPEDIT 
+18 0 "R^2" "6#*$%\"RG\"\"#" }{TEXT -1 113 " es cero si y solo si dicho
+s vectores son proporcionales, o lo que es lo mismo, el sistema que fo
+rman es ligado. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 36 "En las clases te\363ricas vimos que en " }{XPPEDIT 18 0 "
+R^3;" "6#*$%\"RG\"\"$" }{TEXT -1 22 " se pueden definir el " }{TEXT 
+522 18 "producto vectorial" }{TEXT -1 18 " de dos vectores, " }{TEXT 
+521 9 "crossprod" }{TEXT -1 10 " en Maple," }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 21 "restart:with(linalg):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 24 "u := vector([u1,u2,u3]);" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 23 "v:= vector([v1,v2,v3]);" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 15 "crossprod(u,v);" }}}{PARA 0 "" 0 "" {TEXT -1 62 "do
+nde las coordenadas del vector resultante son los adjuntos  " }
+{XPPEDIT 18 0 "M[1,1];" "6#&%\"MG6$\"\"\"\"\"\"" }{TEXT -1 4 ", - " }
+{XPPEDIT 18 0 "M[1,2];" "6#&%\"MG6$\"\"\"\"\"#" }{TEXT -1 4 " y  " }
+{XPPEDIT 18 0 "M[1,3];" "6#&%\"MG6$\"\"\"\"\"$" }{TEXT -1 18 " de los \+
+elementos " }{TEXT 525 2 "e1" }{TEXT -1 1 "," }{TEXT 526 2 "e2" }
+{TEXT -1 3 " y " }{TEXT 527 3 "e3 " }{TEXT -1 2 "de" }{TEXT 529 1 " " 
+}{TEXT -1 10 "la matriz " }{TEXT 528 9 "simb\363lica" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 51 "PV:=matrix(3,3,[[e1,e2,e3],[u1,u2,u3],[v1
+,v2,v3]]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "M[1,1]:=det(d
+elcols(delrows(PV,1..1),1..1));" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 44 "M[1,2]:=det(delcols(delrows(PV,1..1),2..2));" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 44 "M[1,3]:=det(delcols(delrows(PV,1..1),3..3
+));" }}}{PARA 0 "" 0 "" {TEXT -1 24 "y tambi\351n definimos el  " }
+{TEXT 523 14 "producto mixto" }{TEXT -1 30 " de tres vectores (el coma
+ndo " }{TEXT 524 9 "innerprod" }{TEXT -1 30 " devuelve el producto esc
+alar)" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "w:=vector([w1,w2,w3
+]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "innerprod(u,crosspro
+d(v,w));" }}}{PARA 0 "" 0 "" {TEXT -1 114 "donde el escalar resultante
+ es el determinante de la matriz cuyas filas son las coordenadas de lo
+s tres vectores: " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "PM:=mat
+rix(3,3,[[u1,v1,w1],[u2,v2,w2],[u3,v3,w3]]);" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 8 "det(PM);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 36 "det(PM)-innerprod(u,crossprod(v,w));" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 3 "La " }{TEXT 533 5 "norma" }
+{TEXT -1 82 " del producto vectorial de dos vectores coincide con el \+
+\341rea del paralelogramo en " }{XPPEDIT 18 0 "R^3;" "6#*$%\"RG\"\"$" 
+}{TEXT -1 27 "determinado por ellos y el " }{TEXT 534 14 "valor absolu
+to" }{TEXT -1 87 " del producto mixto es el volumen del paralelep\355p
+edo individuado por los tres vectores." }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT 532 9 "Ejemplo: " }{TEXT -1 18 "Dados los ve
+ctores" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "u:=vector([1,2,1])
+;v:=vector([-1,1,0]);w:=vector([-2,1,7]);" }}}{PARA 0 "" 0 "" {TEXT 
+-1 34 "el paralelep\355pedo determinado por " }{TEXT 535 1 "u" }{TEXT 
+-1 2 ", " }{TEXT 536 1 "v" }{TEXT -1 3 " y " }{TEXT 537 1 "w" }{TEXT 
+-1 3 " es" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 687 "with(plottools
+):\nwith(plots):\nt:=textplot3d([[1,2,1,`u`],[-1,1,0,`v`],[-2,1,7,`w`]
+],color=black,font=[TIMES, BOLD, 20],align=LEFT):\np1:=polygon([[0,0,0
+],[-1,1,0],[0, 3, 1], [1,2,1]],color=green,scaling=constrained):\np2:=
+polygon([[-2,1,7],[-3,2,7],[-2, 4, 8], [-1,3,8]],color=green,scaling=c
+onstrained):\np3:=polygon([[0,0,0],[-1,1,0],[-3, 2, 7],[-2,1,7] ],colo
+r=blue,scaling=constrained):\np4:=polygon([[1,2,1],[0,3,1],[-2, 4, 8],
+[-1,3,8] ],color=blue,scaling=constrained):\np5:=polygon([[0,0,0],[1,2
+,1],[-1, 3, 8],[-2,1,7] ],color=red,scaling=constrained):\np6:=polygon
+([[-1,1,0],[0,3,1],[-2, 4, 8],[-3,2,7] ],color=red,scaling=constrained
+):\nplots[display](p1,p2,p3,p4,p5,p6,t,axes=normal);" }}}{PARA 0 "" 0 
+"" {TEXT -1 69 "El \341rea del paralelogramo azul es la norma del prod
+ucto vectorial de " }{TEXT 538 1 "v" }{TEXT -1 5 " con " }{TEXT 539 1 
+"w" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "norm(c
+rossprod(v,w));" }}}{PARA 0 "" 0 "" {TEXT -1 73 "El volumen del parale
+lep\355pedo es el valor absoluto del producto mixto de " }{TEXT 540 1 
+"u" }{TEXT -1 2 ", " }{TEXT 541 1 "v" }{TEXT -1 3 " y " }{TEXT 542 1 "
+w" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "abs(inn
+erprod(u,crossprod(v,w)));" }}}{PARA 0 "" 0 "" {TEXT -1 53 "Todo lo an
+terior se puede generalizar a conjuntos de " }{XPPEDIT 18 0 "4;" "6#\"
+\"%" }{TEXT -1 13 " vectores en " }{XPPEDIT 18 0 "R^4;" "6#*$%\"RG\"\"
+%" }{TEXT -1 16 ", 5 vectores en " }{XPPEDIT 18 0 "R^5;" "6#*$%\"RG\"
+\"&" }{TEXT -1 14 ", etc.: dados " }{XPPEDIT 18 0 "n;" "6#%\"nG" }
+{TEXT -1 13 " vectores en " }{XPPEDIT 18 0 "R^n;" "6#)%\"RG%\"nG" }
+{TEXT -1 46 ", y aunque no podemos dibujarlo, definimos el " }{TEXT 
+569 27 "paralelep\355pedo generalizado" }{TEXT -1 170 " generado por d
+ichos vectores como el conjunto de combinaciones lineales de dichos ve
+ctores con coeficientes entre 0 y 1 (es decir, lo definimos de la mism
+a forma que en " }{XPPEDIT 18 0 "R^2;" "6#*$%\"RG\"\"#" }{TEXT -1 3 " \+
+y " }{XPPEDIT 18 0 "R^3;" "6#*$%\"RG\"\"$" }{TEXT -1 8 "). Para " }
+{XPPEDIT 18 0 "3 < n;" "6#2\"\"$%\"nG" }{TEXT -1 171 "  no disponemos \+
+de un concepto intuitivo de volumen, pero s\355 conocemos las propieda
+des que queremos que dicho concepto verifique (las extrapolamos del co
+ncepto de area en " }{XPPEDIT 18 0 "R^2;" "6#*$%\"RG\"\"#" }{TEXT -1 
+17 " y de volumen en " }{XPPEDIT 18 0 "R^3;" "6#*$%\"RG\"\"$" }{TEXT 
+-1 90 ", teniendo en mente que el \"volumen\" debe ser una medida del \+
+tama\361o de un paralelep\355pedo):" }}{PARA 0 "" 0 "" {TEXT -1 4 "1.-
+ " }{XPPEDIT 18 0 "V(lambda*v[1],v[2] .. v[n]) = abs(lambda)*V(v[1], v
+[2] .. v[n]);" "6#/-%\"VG6$*&%'lambdaG\"\"\"&%\"vG6#\"\"\"F);&F+6#\"\"
+#&F+6#%\"nG*&-%$absG6#F(F)-F%6$&F+6#\"\"\";&F+6#\"\"#&F+6#F4F)" }
+{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 4 "2.- " }{XPPEDIT 18 0 "V(v
+[1]+w[1], v[2] .. v[n]) <= V(v[1], v[2] .. v[n])+V(w[1], v[2] .. v[n])
+;" "6#1-%\"VG6$,&&%\"vG6#\"\"\"\"\"\"&%\"wG6#\"\"\"F,;&F)6#\"\"#&F)6#%
+\"nG,&-F%6$&F)6#\"\"\";&F)6#\"\"#&F)6#F7F,-F%6$&F.6#\"\"\";&F)6#\"\"#&
+F)6#F7F," }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 4 "3.- " }
+{XPPEDIT 18 0 "V(v[sigma(1)], v[sigma(2)] .. v[sigma(n)]) = V(v[1], v[
+2] .. v[n]);" "6#/-%\"VG6$&%\"vG6#-%&sigmaG6#\"\"\";&F(6#-F+6#\"\"#&F(
+6#-F+6#%\"nG-F%6$&F(6#\"\"\";&F(6#\"\"#&F(6#F8" }{TEXT -1 28 " para cu
+alquier permutaci\363n " }{XPPEDIT 18 0 "sigma;" "6#%&sigmaG" }{TEXT 
+-1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 4 "4.- " }{XPPEDIT 18 0 "V(e[1], e
+[2] .. e[n]) = 1;" "6#/-%\"VG6$&%\"eG6#\"\"\";&F(6#\"\"#&F(6#%\"nG\"\"
+\"" }{TEXT -1 8 ", donde " }{XPPEDIT 18 0 "e[1],e[2] .. e[n];" "6$&%\"
+eG6#\"\"\";&F$6#\"\"#&F$6#%\"nG" }{TEXT -1 38 " son los vectores de la
+ base can\363nica." }}{PARA 0 "" 0 "" {TEXT -1 206 "Estas propiedades \+
+son verificadas por el valor absoluto del determinante, como se deduce
+ de nuestra discusi\363n sobre el comportamiento de \351ste con respec
+to a transformaciones elementales, cualquiera que sea " }{XPPEDIT 18 
+0 "n;" "6#%\"nG" }{TEXT -1 14 ". Adem\341s para " }{XPPEDIT 18 0 "n <=
+ 3;" "6#1%\"nG\"\"$" }{TEXT -1 132 ", el valor absoluto del determinan
+te de una matriz coincide con el volumen del paralelep\355pedo (o \341
+rea del paralelogramo, en el caso " }{XPPEDIT 18 0 "n = 2;" "6#/%\"nG
+\"\"#" }{TEXT -1 104 ") formado por los vectores columna de dicha matr
+iz. Por tanto es razonable dar la siguiente definici\363n: " }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 564 55 
+"Se define el volumen de un paralelep\355pedo generado por " }
+{XPPEDIT 18 0 "n;" "6#%\"nG" }{TEXT 565 10 " vectores " }{XPPEDIT 18 
+0 "v[1],v[2];" "6$&%\"vG6#\"\"\"&F$6#\"\"#" }{TEXT -1 6 ", ...," }
+{XPPEDIT 18 0 "v[n];" "6#&%\"vG6#%\"nG" }{TEXT 566 4 " en " }{XPPEDIT 
+18 0 "R^n;" "6#)%\"RG%\"nG" }{TEXT 567 106 ", como el valor absoluto d
+el determinante de la matriz cuyas columnas son las coordenadas de las
+ vectores " }{XPPEDIT 18 0 "v[1],v[2];" "6$&%\"vG6#\"\"\"&F$6#\"\"#" }
+{TEXT -1 6 ", ...," }{XPPEDIT 18 0 "v[n];" "6#&%\"vG6#%\"nG" }{TEXT 
+-1 0 "" }{TEXT 568 30 " respecto de la base can\363nica." }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 39 "Por tanto, en el c
+aso de 3 vectores de " }{XPPEDIT 18 0 "R^3" "6#*$%\"RG\"\"$" }{TEXT 
+-1 173 " el determinante representa un \"volumen orientado\" (si se qu
+iere obtener el volumen, basta con considerar el valor absoluto del de
+terminante), y en el caso de 4 vectores de " }{XPPEDIT 18 0 "R^4" "6#*
+$%\"RG\"\"%" }{TEXT -1 16 ", 5 vectores de " }{XPPEDIT 18 0 "R^5" "6#*
+$%\"RG\"\"&" }{TEXT -1 44 ", etc., un \"volumen orientado generalizado
+\"." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}
+{PARA 0 "" 0 "" {TEXT -1 43 "As\355 pues, el sistema \{u,v,w\}de vecto
+res de " }{XPPEDIT 18 0 "R^3" "6#*$%\"RG\"\"$" }{TEXT -1 116 " es libr
+e si el determinante de la matriz que tiene por columnas sus coordenad
+as respecto de la base can\363nica de de " }{XPPEDIT 18 0 "R^3" "6#*$%
+\"RG\"\"$" }{TEXT -1 258 " es distinto de cero y es ligado si el volum
+en es cero, es decir, si el determinante anterior es 0. Por ejemplo, s
+i queremos determinar si el sistema \{(1,-1,-2), (2,1,1),(1,0,7)\} es \+
+libre o ligado, bastar\341 con calcular el determinante de la siguient
+e matriz:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "A:=matrix(3,3,[
+1,2,1,-1,1,0,-2,1,7]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "de
+t(A);" }}}{PARA 0 "" 0 "" {TEXT -1 63 "Esto mismo es obviamente v\341l
+ido para sistemas de 4 vectores de " }{XPPEDIT 18 0 "R^4;" "6#*$%\"RG
+\"\"%" }{TEXT -1 28 ", sistemas de 5 vectores de " }{XPPEDIT 18 0 "R^5
+;" "6#*$%\"RG\"\"&" }{TEXT -1 14 ", etc., ya que" }}{PARA 0 "" 0 "" 
+{TEXT -1 280 "dada una matriz cuadrada A de dimensi\363n arbitraria, l
+os vectores fila (columna) forman un sistema libre (es decir, el rango
+ de A es igual a su dimensi\363n) si, aplicando el m\351todo de elimin
+aci\363n gaussiana, la matriz escalonada reducida A' que se obtiene no
+ contiene filas de ceros. " }}{PARA 0 "" 0 "" {TEXT -1 81 "Siendo det(
+A) un multiplo de det(A'), det(A)=0 s\363lo si det(A')=0. Pero det(A')
+=1." }}{PARA 0 "" 0 "" {TEXT -1 13 "Se sigue que " }}{PARA 279 "" 0 "
+" {TEXT 543 53 "A es invertible si y s\363lo si det(A) es distinto de \+
+0." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "#fin" }}}}}}{MARK "13" 
+0 }{VIEWOPTS 1 1 0 1 1 1803 }

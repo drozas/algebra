@@ -1,0 +1,718 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 
+0 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 256 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 }{CSTYLE "" -1 257 "" 0 18 
+0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 258 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 260 "" 1 12 0 0 234 0 0 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 262 "" 1 
+12 0 0 234 0 0 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 263 "" 1 12 0 0 234 0 1 
+2 0 0 0 0 0 0 0 }{CSTYLE "" -1 264 "" 1 12 0 0 234 0 0 2 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 265 "" 1 14 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 
+267 "" 0 1 0 0 70 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 268 "" 0 1 0 0 
+25 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 269 "" 0 1 253 137 255 0 1 0 0 
+0 0 0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 271 "" 0 1 253 137 255 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 273 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 0 0 70 0 0 2 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 275 "" 1 12 0 0 0 0 0 2 2 0 0 0 0 0 0 }{CSTYLE "
+" -1 276 "" 1 14 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 277 "" 1 14 
+0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 278 "" 1 14 0 0 0 0 0 0 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 279 "" 0 1 0 0 255 1 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 280 "" 0 1 0 0 255 1 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+281 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 282 "" 0 1 83 
+136 1 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 283 "" 1 12 0 0 0 0 0 0 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 284 "" 0 1 0 0 29 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 285 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 286 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 287 "" 0 1 40 103 64 
+0 1 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 288 "" 0 1 0 0 234 0 1 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 289 "" 0 1 0 0 8 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 290 "" 0 1 255 255 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 291 "" 0 1 
+0 0 0 0 1 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 292 "" 0 1 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 293 "" 1 14 53 138 29 0 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 294 "" 1 12 0 0 64 0 1 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+295 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 296 "" 0 1 0 0 0 
+0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 297 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 298 "" 1 12 0 0 0 0 0 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+299 "" 1 12 0 0 0 0 0 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 300 "" 1 12 0 0 
+0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 301 "" 1 18 0 0 0 0 0 0 2 0 0 0 
+0 0 0 }{CSTYLE "" -1 302 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 303 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 304 "" 0 18 0 
+0 0 0 0 1 2 0 0 0 0 0 0 }{CSTYLE "" -1 305 "" 1 14 0 0 0 0 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 306 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE 
+"" -1 307 "" 0 18 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 308 "" 0 1 
+0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 309 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 310 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 311 "" 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 }{CSTYLE "" -1 312 "" 1 14 
+0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 313 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 315 "" 0 1 253 137 255 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 316 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+317 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 318 "" 0 1 0 0 0 
+0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 319 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 320 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+321 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 322 "" 0 1 0 0 0 
+0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 323 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 325 "" 1 12 0 0 234 0 1 2 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 327 "" 1 12 0 0 234 0 1 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 328 "" 1 12 
+0 0 234 0 0 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 329 "" 0 1 0 0 0 0 1 0 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 330 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 331 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 332 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 333 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 334 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 335 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 336 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 337 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 338 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 339 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 340 
+"" 1 12 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 341 "" 1 12 0 0 0 0 
+0 2 0 0 0 0 0 0 0 }{CSTYLE "" -1 342 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 
+}{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 0 12 0 0 0 1 2 2 2 
+0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 1" 0 3 
+1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 0 0 }1 0 0 0 6 6 0 0 
+0 0 0 0 -1 0 }{PSTYLE "Heading 2" 3 4 1 {CSTYLE "" -1 -1 "" 1 14 0 0 
+0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 4 4 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple O
+utput" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 3 
+0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Bullet Item" 0 15 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 3 3 0 0 0 0 0 0 15 2 
+}{PSTYLE "Title" 0 18 1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 1 0 0 0 
+0 0 0 }3 0 0 -1 12 12 0 0 0 0 0 0 19 0 }{PSTYLE "R3 Font 0" -1 256 1 
+{CSTYLE "" -1 -1 "Helvetica" 0 12 0 0 255 1 2 1 2 0 0 0 0 0 0 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "R3 Font 2" -1 257 1 {CSTYLE "" -1 
+-1 "Courier" 0 12 0 0 0 1 2 2 2 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 
+0 -1 0 }{PSTYLE "" 18 259 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 4 260 1 {CSTYLE "
+" -1 -1 "" 0 1 0 0 48 0 0 2 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 0 262 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 263 1 {CSTYLE "
+" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 3 264 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 265 1 {CSTYLE "" 
+-1 -1 "" 1 24 0 0 0 0 0 1 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 0 266 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 267 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "" 0 268 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 269 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 11 270 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+}1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 271 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 272 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {PARA 264 "" 0 "" {TEXT -1 0 "" }{TEXT 256 0 "" }{OLE 1 21160 
+1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya<nYny
+yyYE:G:I:K:M:O:Q:S:UJ:n;v;;JBB:]:_:a:wAwAg:i:k:m:o:q:s:u:w:y:;[:F>N>V>
+^>f>n>v>nYvY::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:;THcV>whGYX>efI<VN=nN`H<::;I`_f
+_IbAAX:A:;R:B:F:AlqfG[maNFO=;::::::::_J;@J<jysyJ:B:::::::i]:>:VBYLa^DE
+LajcJ::::::::JCj:j;>:yayA:<::::::CJ:^lXZ:j[:fBjcnDaKR<Z::::::::kJ;@j<j
+ysyJ:B::::::N:^<>:F:;JyKy;vY::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::F:wyyAb<vYxYZ`MD;:f>FcgGfagfh?
+^^gfZfccWflwgmwg`_hZ>dbwgnwgZfb^Ggnwgl?^mn_jb=<ZGWdJ?gik\\LpnJ:l:;::Ws
+FLyVDurB:;:::vy:J:::::::::::=Z<Z::::::::::jyyiyY:;J<j:B:yayQ:>:>g@JQi:
+[ICB::::::::::::::::::::::::::::::::::::J;nA]=;J\\uZ:>F;B:CB;CBCCr=Cs=
+YrECr=Ys=YrEYBCYCCCsECsECt=CCKCCCCtEYCKCtEotEYcPYCKoDKYcPCDKodPCdPodPC
+ePCDSodPCESoDSCESoESCeXoESoeXoeXCfXCfXoE[CfXCF[CF[oF[Cf`of`oF[of`dsQeS
+GytQyTGeCoveYweYghYghoweoOWeuaeUWyvaeUgyvayvaOuIysiQuTywTQUYipoyuYy=Cr
+uYBKYICYruCCCYyECsuCt=YIKCsuCtEYIKCtuotEYiPotuoDSYISotuCESYiXCtuoeXYI[
+ouuCF[YI[ovuoF[Yi`ovuYg`YyeYwuoweYihowuYhhYymYxuYipYyuYyuoyuYixoixCB;o
+ICCcxCsEoyEYbxYCCoyEYcxCt=oIKCcxCDKoiPCcxotEoiPCdxodPoISYcxCeXoiXCdxoe
+PoiXoexCFKoI[odxCFSoI[oexCF[oi`oexof`oyeoexYG[oyeofxYweoihoexoG[oihofx
+oweoymYgxYhhoymYhxoxeoipogxoxmoipohxYymoyuohxoix;J:<::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::ry:;:::::KMQijyyyyyI:::
+::::::::::::::::::::::::::::::::::::::::::rUEUSyyyyyy::::::::ZlFdKGdKc
+Fyyyyyy::::::::>iKGdKGDneyyYyA:::::::Jn@obFDryyyyyA:::::::jf@ob@obJSXq
+yyyyyI:::::::jn@obFDryvY::::::::@ob@objlxyywY::::::::@?]\\lvYxI:::::::
+:XPS@obFarwyyyyy=::::::::::::::::::::::::::::::::::::::::::::::muG]TN]
+TNVeyyYyAVhKGdKGDDMrxyywYJfDmb@_KO`Nwyyyyy=:JT@ob@obZnvyyuyJSjbJS\\pyy
+iy]pGdKGdK;yay=:BGRN:ctyyqyGhlFdKSN:yayml@ob@ob:_syvY:ZKkb:ryvYc;]<jux
+yywY_;]<BRyyyxI:>GFD:Hqyyyyamb@_K;ZymyM=@?:c<yA:gSN]lb:RRyyyD=@?:XAK=]
+<:xIyA:c;]<ZVwyyyylZK;Zmkh@ob@ob:Zymy;JTjb:BQbFRN:rV^eKGdKGD:N@vY:VbKG
+D]<ZmkyQob@_K;ZyM_@ob@ob:Zymy;J`@obFD:xIyiS]TN@?:_;yIGRN:>eyyYyA:@?]<Z
+ymyGD@?:Suyyqyqpb@_K;juryyA:D=@?JTjy_aKGD]<jysyN@FDZ\\wyyuy::ODG]TN@?k
+sWyyyxIfEFD^EvYBXRNjysy::JvDMSDmTxyywY:Dpd@obNfrwyyuy:cuN]TN@OkZy=::::
+:^hrwyyuy:JvdNtxyywY::::::::::::::::::::::::::::::::::BRwDR;URCUR=USEU
+SE=JnPPn\\PndPohpqxpqxPr<QrDqysy:::ZKkb:ZlN`KGD]<_SNFDbF_cFyyyxI:::RNF
+D:::::yay=:::@?]<::::bFyay=:::@?]<::::jysy:::ZKkb:::::vYxI::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::Z:J:::xIyA::B:>::JPxyywYB:>
+::Zymy;::<:;::f_yyYyA<:;Z<R:=j:J:xIyA::B:FZ;FZ;:>Z:f?vYB:>::Zymy;::<:=
+Z;>:=B:=R:;jPjy[:J:::xIyA::B:FZ;FZ;>:;B:=B:;jPjy[:J:::xIyA::B:FZ;>Z;>:
+<j:B:U;yA<:;Z;>:;B:Zymy;::<:=::f?vYB:FZ;R:B:Zymy;::<:=B:@:;j:@Z:f?vYB:
+>Z;>:;B::xIyA::B:>:Z;F:v_yuyZ:J:R:;J:<:ryvY::Z:J::=j:>:Y[y=<:;::ryvY::
+Z:J::=j:>:Y[y=<:;::ryvY::Z:j:@Z;>:=Z;>:Y[y=<:;::ryvY::Z:J:@J:@Z:F:<J:v
+?xIB:>::Zymy;::<:=R:;j:<j:@:;B:Y[y=<:;::ryvY::Z:j:>:;j:@j:@J:vYxIB:>::
+@J:>Zymy;::<:;R:B:=R:@J:vYxIB:>::Zymy;::<:=B:@:;B:=R:;jysyZ:J:R:;J:<:r
+yvY::Z:J::=:;jysyZ:J:::xIyA::B:>::=:yay=<:;::ryvY::Z:J:@j:@j:<Z;:yay=<
+:;Z;>:;B:Zymy;::<:;:=:;:yay=<:;Z;Z::xIyA::B:F:Z;R:;B:yay=<:;:Z<B:xIyA:
+:B:>:@j:R:=B:;B:yay=<:;::ryvY::Z:j:<Z;FZ;R:<J:<jysyZ:J::R:;Zymy;::<:=R
+:J:FZ;jysyZ:Z:B:;:Zymy;::<:=R:=R:;Z::yay=<:;:R:;Z:ryvY::Z:J:::yay=<:;:
+R:B:xIyA::B:>::jysyZ:J:::xIyA::B:>::jysyZ:J:::xIyA::B:>::jysyZ:J:::xIy
+A::B:>::jysyZ:J:R:B:Zymy;::<:;::vYxIB:>Z;Z::ryvY::jAJ:::yay=<:;::ryvY:
+:J?<:;::vYxIB:>::Zymy;::EJ:>::jysyZ:J:::xIyA::>:<::jysyZ:J:Z;Z:Zymy;::
+;Z:::vYxIB:>::Zymy;::;Z:::vYxIR:<Z::=Z;J:xIyA::>:<::jysyZ:J:Z;Z:j:xyyw
+Y::BD<Z:::vYxIR:B:R:;Z:F:=b<yyyyyy::B:>:::yay=\\j:R:<J:@j:<:;J;DJExyyy
+yy;:^;>:::yay=d:<::R:Eryyqy;:T;<:::yay=lk:J:@J:B::?b<Wsyyqy;JG@:<:::ya
+y=xl;J:::r=Usyyqy[bv[<Z::::yay=v;>:::@J<xJJdLOllN<L?@j:J::::yay=B:=:;:
+:=B:@j:@j:<j:@:<j:>Z:>Z;>:<::jysy:@:<::F:=Z;>Z:B:=J:>:FZ;Z:::vYxIZ_^Z;
+Z:::FZ:J:F:>:j>J:::yay=jD@Z:B::::F:>:vy:J:::yyyxI:Yc:@J:B:@:<::::yI:>:
+:jyyiy=Z<:<:::F:=B:;J:FZ`vy:J:::yay=:AR:=B:@j:B:;Z;>:<::=R:=RByyy<J:>:
+:jysy:Z>FZ:R:;J:<:::FZ;^\\yyYyI:>::jysy::ej:<:;R:;:F:<J:F:VZCvyyyyyE:>
+::jysy::L:>::j:FZ;FZ=N]yyYya:J:::yay=::UC;Hj:@:<j:@J:@Z;nZWvyyuyZg>:<:
+:vYxI::ZiF^DN[@^Z>^Z@N[[V_yyYyA::::::::YsEYsyxI:::::::::::::::>:<:::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::j:<ja<JpfF;J:::
+:::::::OJ;vyyuy:>:<::::::AB:^\\:J:J;<ja<:>D_mlVH[KRJ:<:::::::>=?B:yay=
+J:B::::::f\\:B:kRCB::::::::::::jysy:>:<:::::::::::::::::::vYxI:;Z:::::
+:::jysyAB:^Z:j:>:yayQ:;J:Jn>:W_:J:F:MZ=>iLj:NbJ>:;j>B:Gc;YB:KjiTn`Do^L
+oiHl;JIf:;j?D:;B:E:Sb:[mXfZ<jus:;R:CB;CB:CC;YB:Cs=YB:YC;YB:Ys=YB:^^:v?
+CC:YkQ<J\\xJL<J\\LLL<J\\xlQ<J\\LnQ<JgxlQ<Jg^b:Ne>w_:BKCD:odPCD:oLg<Jld
+O\\<JldOg<Z^OECMl<JwLPl<Zt_f:NIoE:oE[oE:CfXoE:CF[oE:^j:^jT`j:^JoF:of`C
+F:of`oF:xTG=JGwo:voTPm:voiPm:vOYG:duQ=JWeuQ=:oG:owmoG:ooa=JWewawsIys:v
+sTys:ruoH:oxuoH:vw:Nutyw:vwI^Z:vwI^b:vw^v;YICCkqyLL<jqMnA<Z>_^:jQ<jq_b
+:vwTw_:vwTOe:vwT_f:vw^Oe:vw^_f:vwt_b:vWoE:YI[oE:YQ<=jqMRG=jqeS<=jqeSGw
+wiPMYqQwwtxONq:vwIQq:vWYpqyXgwwiyw:vwtyw:Jw=JwMJ<<JwMLL<Jww_:Nyiv[:NYC
+C:oyEYKwMnA<Jw_^:BKCLweOL<Jww_:NyT_b:NYoD:oISYC:LPw<JweQ\\<ZtOe:JwNy>`
+b:B[oD:^f:NYo=CF:dSw<ZTPMoyeoE:oQ<=JwyTGOYYOweUw<Zt`j:NytPm:jQsmYG:NQo
+ymYPwewQ=:oG:oipY@oH:oyuYH:xXgOytQy:>:;:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::vY<J<<J:<JTD:A
+J:f@C:IR:AJ[<;At=;K`kr<JY>Z:>:]=>:KK:nAFH;B:=J>>:;JZl;C@C@;R:<Z:J<LZ:v
+[>^^:v[I^>YB;YC:Yr=YC:CkQ<Z^v?YCC^^I^BCCCCD:YsECD:YCKC\\iNe:^biNe:v_>O
+e:^b>Oe:bPoLgd_:^BCE:oLl<Z^_FCESJw<JldQwNit[>LwdQ<=JwLR<_j>\\T`Jof`CF:
+CNGOmTPMxTGwOoNGesQ=JGytQwoixOdEYOWOqt\\IQQYxmo_TQQYxmYpaewaOuiySoPgwW
+o`tQu:^ZIvw:^bIvWYBCYI:CCCYI:xlq=Z>ww:BKYI:YCKYQ\\Lnqw_TwWodPYI:CePYQg
+Lpq=JlLpq=J\\dqq=Jwdqq=Z>xw:^j>xw:Nm>xWCf`YI:of`YI:xtqwoixw:bhYI:oghYI
+:xvqwsIyw:NUYqqyxqcxYQweyq_Z>Ny:^^^Ny:v_^Ny:v[iNy:^^iNy:v_iNYYBKoQLLNw
+_b>OYCcPoI:YcPoQ\\dOwOEoI:YCSoQwLPw_btOy:NetOy:NitOYCD[oI:oD[oI:CE[oQw
+LRw_JoQwdSw=JGeSwOiiPy:^jiPy:NmiPYYOw=JwdUw=J<eUwOmtPYYghoI:xVw=JWOYYP
+wwoTQy:NqTQYYhpoQgeWwwsiQy:NuiQYoQw=J:>:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::jyyi:vyyuy::::
+:::::J:<jysy:::v_iv_yuy:::::>:ry::rE=;LZ@:vY::::>:ry::UC;Z:B:=R:;R:@:r
+yZg>:<::vYxY:Zy=Z>:;::FZ:F:H:yyyya:B:;::vYxY:vYxI:e:;J:@Z::=Z:>:=:AR<x
+iyE:<J:::yayA:yay=B;R:>Z::::=R:cZyyy:B:;::vYxY:vYxIj;@:@Z:B:;Z;>:<::=R
+:=RBxi:B:;::vYxY:vYxIb:@:<:::FZ:FZ:>:;j:T<<J:::yayA:yay=Yc:Z:R:;Z::::j
+y=J:<J:::yyyxY:vYxIf<;Z::::j:J:jy=Z:>::jyyiyA:yay]_:<::j:J:F:>:j>B:;::
+vYxY:Zy];Z:::=j:R:;Z:F:;J:j:@:<::jysy;:xI<j:J::j:<Z;FZ;FZ:F:B:=J:<J:@J
+:B:::yayAZ:ZymA<Z:>:::@J<xJJd<N;>:;:::vYxY:vYxiiV:>:::x:vYBDB:;B:::jys
+y;:xiV:;R:;Z::NZDjywY:N=;Z:::jysy;:xiDB:<::R:Eryyqy;:T;;B:::vYxY:ZyE<R
+:;J:@j:<:;J;D:yqy;:^;<J:::vYxY:ZyU:B:R:;Z:F:=b<yay=:Z:B:;::jysy;jysy<Z
+:>:R:<Z:j:xIyA::\\L:<Z:::vYxY:vYxi;Z::=B:@:;ryvY::J:>Z:::vYxY:vYxi:B:;
+::ryvY::J:B:::yayA:yayE:<J:Z;Z:Zymy;::;Z:::vYxY:vYxi:B:;::ryvY::J:B:::
+yayA:yayE:<J:::xIyA::f:>::jysy;jysy<Z:>::Zymy;::O:;::vYxY:vYxi:B:;R:B:
+:xIyA::v;>::jysy;jysy<Z:>:@:<:ryvY::Z:J:::yayA:yayE:<J:::xIyA::B:>::jy
+sy;jysy<Z:>::Zymy;::<:;::vYxY:vYxi:B:;::ryvY::Z:J:::yayA:yayE:<J::@:<Z
+ymy;::<:;::vYxY:vYxi:B:;:R:B:xIyA::B:>::jysy;jysy<Z:F:>::xIyA::B:FZ;FZ
+;>:<:vYxY:vYxi:B:;:Z;>:xIyA::B:FZ;>:>:=R:vYxY:vYxi:B:;::ryvY::Z:j:<Z;F
+Z;R:=B:;B:yayA:yayE:<J::b:;B:xIyA::B:>:@Z;R:<J:vYxY:vYxi:B:;Z;>:<:ryvY
+::Z:j::@Z;>Z:vYxY:vYxi:B:;Z;J:<:ryvY::Z:J:j:J:jysy;jysy<Z:>::Zymy;::<:
+;R:=R:=B:@:vYxY:vYxi:B:;::ryvY::Z:J::FZ:B:yayA:yayE:<J:R:B:Zymy;::<:;:
+F:>:yayA:yayE:<J:::xIyA::B:F:@:;B:=R:;jysy;jysy<Z:>::@J:>Zymy;::<:;R:B
+:=R:=R:;jysy;jysy<Z:>::Zymy;::<:=B:<J:FZ;R:;jysy;jysy<Z:>::Zymy;::<:=J
+:FZ:FZ;J:<jQry;jysy<Z:>::Zymy;::<:;R:>Z:F:<J:v?xY:vYxi:B:;::ryvY::Z:j:
+@j:@J:F:@J:v?xY:vYxi:B:;::ryvY::Z:J::=B:=J:<jQry;jysy<Z:>:@:<:ryvY::Z:
+J::=j:>:Y[yA:yayE:<J:@:<:Zymy;::<:;:R:=:Y[yA:yayE:<:;R:>Z::xIyA::B:FZ:
+R:>:=R:<jP:yayE:<J:R:;J:<:ryvY::Z:j:::U;vYxi:B:;::ryvY::Z:j:@J:@:<j:B:
+U;vYxi:B:;::ryvY::Z:j:FZ;>:;B:=B:f?jysy<Z:>::Zymy;::<:=R:@J:FZ:FZ;>:U;
+vYxi:B:;Z<R:=j:<J:<J:xIyA::B:FZ;FZ;:>Z:f?jysy<Z:>::Zymy;::<:;::f?jysy<
+Z:>::Zymy;::<:;::^?jysy:::::::::J:Zy=:::::::::;:xI:::::::::>:ry:::::::
+::J:Zy=:::::::::;:xI:::::::::>:ry:::::::::J:Zy=:::::::::;:xI:::::::::>
+:ry:::::::::J:Zy=:::::::::;:xI:::::::::>:ry:ZKGD]<::::jysy:>:ry:ZKkb::
+:::vYxI:;:xI:RNFD::::ZlryxI:;:xI:RNFD:::::yay=J:Zy=:@?]<:DMS@?]<_SNFDb
+F_cFry:>:ry:ZZoE;Ml:E=Jn:OuTx`i?HZy=J:Zy=:::::::::;:xI:::::::::>:ry:::
+::::::J:Zy=::::cEXvyy=:k]ymy;>:ry:>iljTvYyAZ\\kbNFry:cuNRN?=xI>:ry:O<@
+?k[yuyjhjbJhvYyA\\qbRNjysyJ:Zy=D=@?JTxIyQXFD]<jysyN@FDZ\\wYxI;:xIRNFD:
+xIyqbRN:^Gvyg[K;jujy?:ryJ`jb:ryvy`[K;JSxIyIG]\\K;Jfjy?:ryj[jb:rVxiO[K;
+ZyM_@?]<:xIyQ:Zy=c;]<ZV[lZK;ZmKhFD]<:_;yQ:Zy=c;]<ZV[lZK;Zmkhjb:Zymy?:r
+yJUjb:RRbFRN:rW>GFD:ryvY;:xI>GFD:HAyYHRN:ryvynZK;JdxIyQ:Zy=@?]<Zymy_@F
+D:i]yyY_;]<BRyayM:Zy=L=@?JdjyGhlFD@?jysyfFFDJSxIyA;:xIJTjbZnZy=_;]<_CT
+rybWRNjysyJ:Zy=FIRNVEvYjsjbbF[=yA>ERN_COryJ:Zy=:::::::::;:xI:::::::::>
+:ry:::::::::J:Zy=:::::::::;:xI:::ZakbFAry:::J:Zy=:::RNFDDmysy:::J:Zy=:
+::RNFDfFyqy;::J:Zy=:::FGFDryvY:::>:ry::::m<]<_sWry:::>:ry::::K=]<xIyA:
+::;:xI:::JvjbJivYyA:::;:xI:::ZlZKcFyay=:::;:xI::::x@ry::::;:xI::::::::
+:>:ry:::::::::J:Zy=:::::::::;:xI:::::::::>:CJ:v^;vYAB:>:::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::ZjE:;Bb>Zj]:B:;B:::::1:" 
+}}{PARA 18 "" 0 "" {TEXT -1 0 "" }{TEXT 301 17 "\301lgebra 2002/2003" 
+}}{PARA 18 "" 0 "" {TEXT 256 10 "Pr\341ctica 5" }}{PARA 265 "" 0 "" 
+{TEXT 257 16 "C\363digos Lineales" }{TEXT 304 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 266 "" 0 "" {TEXT -1 31 "Por: A.Bujosa(*) y R.Cr
+iado(**)" }}{PARA 267 "" 0 "" {TEXT -1 79 "(*) Departamento de Matem
+\341tica Ap. a las Tecnolog\355as de la Informaci\363n (U.P.M.)" }}
+{PARA 268 "" 0 "" {TEXT -1 21 "(**) E.S.C.E.T., URJC" }}{PARA 269 "" 
+0 "" {TEXT -1 45 "\332ltima actualizaci\363n: A.Gallinari, E.S.C.E.T.
+" }{TEXT 307 12 ", URJC, 2003" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{SECT 1 {PARA 3 "" 0 "" {TEXT 305 22 "
+Objetivos de la sesi\363n" }}{PARA 15 "" 0 "" {TEXT -1 290 "Presentar \+
+un ejemplo pr\341ctico de transmisi\363n de informaci\363n a trav\351s
+ de la simulaci\363n de un canal binario sim\351trico con ruido, para \+
+cuya simulaci\363n se han empleado los algoritmos y m\351todos de codi
+ficaci\363n, decodificaci\363n y detecci\363n y correcci\363n de error
+es vistos en las clases te\363ricas.   " }}{PARA 15 "" 0 "" {TEXT -1 
+49 "Recordar algunas de las funciones de la librer\355a " }{TEXT 308 
+7 "linalg " }{TEXT -1 127 "con las que hemos trabajado en las pr\341ct
+icas anteriores e introducir otras nuevas necesarias para el desarroll
+o de la pr\341ctica." }}{PARA 15 "" 0 "" {TEXT -1 242 "Afianzar en el \+
+alumno la comprensi\363n de la base te\363rica del m\351todo de Gauss \+
+y su aplicaci\363n a la teor\355a de c\363digos lineales mediante el u
+so de Maple, utilizando las ecuaciones param\351tricas e impl\355citas
+ de espacios vectoriales sobre el cuerpo " }{XPPEDIT 18 0 "Z[2];" "6#&
+%\"ZG6#\"\"#" }{TEXT -1 1 "." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+13 "#Pulsa return" }}}}{SECT 1 {PARA 3 "" 0 "" {TEXT 316 7 "Tiempos" }
+}{PARA 0 "" 0 "" {TEXT -1 156 "La duraci\363n de la pr\341ctica (inclu
+ida la evaluaci\363n) es de  dos horas. La primera hora (aproximadamen
+te) se dedicar\341 al desarrollo-estudio de los contenidos " }{TEXT 
+342 1 "d" }{TEXT -1 278 "e los apartados \"Comandos de Maple necesario
+s para la realizaci\363n de esta pr\341ctica\" y \"Lecci\363n,\" donde
+ se introducen y repasan los conceptos y se muestran los comandos de M
+aple precisos para el desarrollo de la pr\341ctica. La segunda hora a \+
+la realizaci\363n del test de evaluaci\363n. " }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}{SECT 1 {PARA 3 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 306 43 "Como se debe realizar la siguiente pr\341
+ctica" }}{PARA 0 "" 0 "" {TEXT -1 210 "El presente gui\363n seguido co
+n las indicaciones y observaciones del profesor contiene las instrucci
+ones precisas para realizar con el ordenador ejercicios sobre los cont
+enidos presentados en las clases te\363ricas." }}{PARA 0 "" 0 "" 
+{TEXT -1 186 "Lo deseable, para que queden afianzadas las ideas y las \+
+nociones b\341sicas sobre la sintaxis de Maple, es que se realicen pru
+eba y nuevos ejemplos sobre la base de los ejemplos planteados." }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}{SECT 1 
+{PARA 3 "" 0 "" {TEXT 317 65 "Comandos de Maple necesarios para la rea
+lizaci\363n de esta pr\341ctica" }}{PARA 0 "" 0 "" {TEXT 309 5 "Nota:
+" }{TEXT -1 64 " NO SE DEBEN EMPLEAR M\301S DE 15 MINUTOS EN REPASAR E
+STOS COMANDOS" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 58 "Adem\341s de recordar los siguientes comandos de la libre
+r\355a " }{TEXT 310 6 "linalg" }{TEXT -1 43 " que ya utilizamos en la \+
+pr\341ctica anterior " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 
+"" {TEXT -1 85 "    stack         augment     addcol        addrow    \+
+    mulcol            Nullspace" }}{PARA 0 "" 0 "" {TEXT -1 64 "    sw
+apcol    swaprow    submatrix     row            gausselim" }}{PARA 0 
+"" 0 "" {TEXT -1 73 "    equal         rank           transpose     co
+l              gaussjord" }}{PARA 0 "" 0 "" {TEXT -1 66 "    delcols  \+
+    delrows       pivot           mulrow        evalm" }}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 56 "vamos a introducir los
+ comandos de la aritm\351tica modular" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 24 "     mod           map  " }}{PARA 0 "
+" 0 "" {TEXT -1 5 "     " }}{PARA 0 "" 0 "" {TEXT -1 47 "necesarios pa
+ra el desarrollo de esta pr\341ctica." }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 109 "Los comandos con los que ya trabajam
+os en la pr\341ctica anterior los recordaremos a trav\351s de algunos \+
+ejemplos." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+311 40 "Descripci\363n de los comandos mencionados:" }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "with(linal
+g):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "A1:=matrix(3,3,[alph
+a,4,5,0,0,-1,b,8,9]);" }}}{PARA 0 "" 0 "" {TEXT -1 86 "Para acceder al
+ elemento (i,j) de una matriz C  hay que escribir C [i,j]. Por ejemplo
+:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "c:=A1[3,1];" }}}{PARA 
+0 "" 0 "" {TEXT -1 164 "Las funciones row(A,r1), col(A,c1) devuelven l
+a fila r1 y la columna c1 de A respectivamente. N\363tese que col(A,c1
+) devuelve una  matriz fila, no una matriz columna." }}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 29 "r2:=row(A1,2); c3:=col(A1,3);" }}}{PARA 0 "
+" 0 "" {TEXT -1 54 "La funci\363n stackmatrix une dos matrices vertica
+lmente:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "stackmatrix(r2,c3
+);" }}}{PARA 0 "" 0 "" {TEXT -1 52 "La funci\363n augment une dos matr
+ices horizontalmente:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "aug
+ment(r2,c3);" }}}{PARA 0 "" 0 "" {TEXT -1 117 "La funci\363n delcols(A
+,r..s) (delcols(A,r..s)) eliminan las columnas (respectivamente filas)
+ r,r+1,...,s de la matriz A" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+33 "delrows(stackmatrix(r2,c3),2..2);" }}}{PARA 0 "" 0 "" {TEXT -1 
+204 "La llamada  addrow(A,r1,r2,m)  devuelve una copia de la matriz A \+
+en la cual la fila r2 ha sido reemplazada por m*row(A,r1)+row(A,r2). L
+a funci\363n addcol tiene un comportamiento similar pero para columnas
+. " }}{PARA 0 "" 0 "" {TEXT 313 5 "Nota:" }{TEXT -1 98 " Seg\372n vimo
+s, la acci\363n del comando \"evalm\" es similar a la del comando \"ev
+al\" pero para matrices." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "
+A:=evalm(multiply(stackmatrix(r2,c3),augment(r2,c3)));" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "addcol(A,1,2,9);" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 18 "addrow(A,2,1,1/9);" }}}{PARA 0 "" 0 "" 
+{TEXT -1 240 "La llamada mulcol(A,c,expr) devuelve una matriz que tien
+e las mismas componentes que la matriz A, pero con los elementos de la
+ columna c-\351sima multiplicados por la expresi\363n expr. La funci
+\363n mulrow(A,r,expr) tiene un comportamiento an\341logo." }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "mulcol(A,2,-1/9);mulrow(A,1,1/9);" 
+}}}{PARA 0 "" 0 "" {TEXT -1 42 "La funci\363n transpose traspone una m
+atriz. " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "C1:=transpose(A);
+" }}}{PARA 0 "" 0 "" {TEXT -1 52 "La funci\363n rank(A) determina el r
+ango de una matriz." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "r1:=rank(A);" }}}{PARA 0 "" 0 "" {TEXT -1 211 "La fun
+ci\363n swaprow(A,r1,r2) crea una nueva matriz a partir de la matriz A
+ intercambiando las filas r1 y r2. An\341logamente swapcol(A,c1,c2) cr
+ea una nueva matriz a partir de A intercambiando las columnas  c1 y c2
+." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "C1:=augment(A1,A1);" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "swapcol(A1,1,2);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "swaprow(A1,3,1);" }}}{PARA 
+0 "" 0 "" {TEXT -1 410 "La funci\363n pivot toma como entradas una mat
+riz A y un par de enteros positivos i y j que determinan el elemento A
+[i,j] de A. Este elemento debe ser distinto de cero, produci\351ndose \+
+un error en caso contrario. La funci\363n devuelve una matriz del mism
+o orden que A, resultado de aplicar transformaciones elementales de fi
+la con el objeto de obtener ceros en la columna j excepto, por supuest
+o,el elemento A[i,j].  " }}{PARA 0 "" 0 "" {TEXT -1 166 "La llamada pi
+vot(A,i,j,r..s) tiene pr\341cticamente la misma funcionalidad que pivo
+t(A,i,j) excepto que las transformaciones tan s\363lo afectan a las fi
+las r, r+1, ..., s." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "evalm
+(A); P1:=pivot(A,1,1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "P
+2:=pivot(P1,2,2);" }}}{PARA 0 "" 0 "" {TEXT -1 68 "Recordemos dos coma
+ndos ya introducidos en las pr\341cticas anteriores:" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 13 "gausselim(A);" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 13 "gaussjord(A);" }}}{PARA 0 "" 0 "" {TEXT -1 11 "El c
+omando " }{TEXT 273 3 "mod" }{TEXT -1 35 " permite operar con enteros \+
+m\363dulo " }{TEXT 318 1 "m" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 9 "27 mod 7;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+10 "5*3 mod 7;" }}}{PARA 0 "" 0 "" {TEXT -1 11 "El comando " }{TEXT 
+302 3 "map" }{TEXT -1 68 " permite aplicar un procedimiento a cada arg
+umento de una expresi\363n:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+14 "map(f, \{a,b\});" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "map
+(x -> x^2, \{2,3,4\});" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "m
+ap(proc(x) x^2 end, [1,2,3,4]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 37 "G:=matrix([[1,0,1],[0,1,0],[1,1,1]]);" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 29 "H=map(x->x mod 2,evalm(G+G));" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 37 "K:=matrix([[1,1,1],[1,1,0],[1,1,1]]);" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "map(x->x mod 2,evalm(G+K));
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 {PARA 3 "" 0 "" {TEXT -1 7 "L
+ecci\363n" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" 
+}}}{SECT 1 {PARA 3 "" 0 "escenario" {TEXT 276 57 "Transmisi\363n de in
+formaci\363n a trav\351s de un canal con ru\355do" }}{PARA 259 "" 0 "
+" {TEXT 275 225 "El problema que vamos a tratar consiste en transmitir
+ informaci\363n a trav\351s de un canal con ruido. Para ello vamos a c
+onstruir un simulador que permita representar esa situaci\363n. Consid
+eraremos las siguientes simplificaciones:" }}{PARA 15 "" 0 "" {TEXT 
+267 20 "El canal es binario:" }{TEXT -1 53 " los mensajes que se trans
+miten son cadenas de 0 y 1." }}{PARA 15 "" 0 "" {TEXT 268 23 "El canal
+ es sim\351trico: " }{TEXT -1 16 "la probabilidad " }{TEXT 269 3 " p \+
+" }{TEXT -1 87 "de cambiar un 0 por un 1 en la transmisi\363n es la mi
+sma que la de cambiar un 1 por un 0." }}{PARA 15 "" 0 "" {TEXT 270 26 
+"El canal no tiene memoria:" }{TEXT -1 17 " la probabilidad " }{TEXT 
+271 3 " p " }{TEXT -1 73 "de cambiar un 0 por un 1 no depende de los s
+\355mbolos previamente enviados." }}{PARA 15 "" 0 "" {TEXT 272 33 "No \+
+hay errores de sincronizaci\363n:" }{TEXT -1 73 " el n\372mero de s
+\355mbolos recibidos es igual al n\372mero de s\355mbolos enviados." }
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "
+" 0 "" {TEXT -1 3 "   " }}{PARA 0 "" 0 "" {TEXT -1 37 "Para simular es
+te canal  necesitamos:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{SECT 1 
+{PARA 4 "" 0 "" {TEXT -1 20 "Un conversor binario" }}{PARA 0 "" 0 "" 
+{TEXT 274 581 "Puesto que \372nicamente podemos transmitir cadenas de \+
+ceros y unos, necesitamos un procedimiento que convierta mensajes (es \+
+decir cadenas de caracteres) en secuencias de ceros y unos. En la pr
+\341ctica, la tabla de caracteres ASCII es una estandarizaci\363n de t
+al procedimiento, del que sin embargo no disponemos en el entorno Mapl
+e. Por tanto,vamos a implementar un conversor simplificado, capaz de t
+ratar mensajes constituidos \372nicamente por las letras min\372sculas
+ 'a'-'z'  y el espacio '  ' como separador. Se trata de un alfabeto de
+ 27 s\355mbolos, que se pueden convertir en vectores de " }{XPPEDIT 
+18 0 "[Z[2]]^5;" "6#*$)7#&%\"ZG6#\"\"#\"\"&\"\"\"" }{TEXT -1 10 ", sie
+ndo |" }{XPPEDIT 18 0 "[Z[2]]^5" "6#*$7#&%\"ZG6#\"\"#\"\"&" }{TEXT -1 
+4 "| = " }{XPPEDIT 18 0 "2^5;" "6#*$)\"\"#\"\"&\"\"\"" }{TEXT -1 5 "= \+
+32." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 668 "binario := proc(st)\n  local ll,ii,jj,tabla;\n  tabl
+a:=table([\n   'a'=[0,0,0,0,1],'b'=[0,0,0,1,0],'c'=[0,0,0,1,1],\n   'd
+'=[0,0,1,0,0],'e'=[0,0,1,0,1],'f'= [0,0,1,1,0],\n   'g'=[0,0,1,1,1],'h
+'=[0,1,0,0,0],'i' =[0,1,0,0,1],\n   'j'=[0,1,0,1,0],'k'=[0,1,0,1,1],'l
+'= [0,1,1,0,0],\n   'm'=[0,1,1,0,1],'n'=[0,1,1,1,0],'o'=[0,1,1,1,1],\n
+   'p'=[1,0,0,0,0],'q'=[1,0,0,0,1],'r'=[1,0,0,1,0],\n   's'=[1,0,0,1,1
+],'t'=[1,0,1,0,0],'u'=[1,0,1,0,1],\n   'v'=[1,0,1,1,0],'w'=[1,0,1,1,1]
+,'x'=[1,1,0,0,0],\n   'y'=[1,1,0,0,1],'z'=[1,1,0,1,0],'` `'=[0,0,0,0,0
+]\n   ]);\n  ll:=length(st);\n  if ll= 0 then RETURN([]) fi;\n  RETURN
+(\n[seq(seq(tabla[substring(st,ii..ii)][jj],jj=1..5),ii=1..ll)]);\n  e
+nd:" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 51 "A
+hora podemos convertir el mensaje 'viva la urjc' :" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "mensaje:=bin
+ario(`viva la urjc`);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 164 "El conversor no nos sirve de nada si no podemos inv
+ertir el proceso, es decir, si no podemos recuperar el mensaje origina
+l a partir de la secuencia de ceros y unos:" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 752 "alfabetico:=proc(
+mt)\n  local ll,nn,ss,ii,i,albat;\n  albat:=table([\n   [0,0,0,0,1]=\"
+a\",[0,0,0,1,0]=\"b\",[0,0,0,1,1]=\"c\",\n   [0,0,1,0,0]=\"d\",[0,0,1,
+0,1]=\"e\",[0,0,1,1,0]=\"f\",\n   [0,0,1,1,1]=\"g\",[0,1,0,0,0]=\"h\",
+[0,1,0,0,1]=\"i\",\n   [0,1,0,1,0]=\"j\",[0,1,0,1,1]=\"k\",[0,1,1,0,0]
+=\"l\",\n   [0,1,1,0,1]=\"m\",[0,1,1,1,0]=\"n\",[0,1,1,1,1]=\"o\",\n  \+
+ [1,0,0,0,0]=\"p\",[1,0,0,0,1]=\"q\",[1,0,0,1,0]=\"r\",\n   [1,0,0,1,1
+]=\"s\",[1,0,1,0,0]=\"t\",[1,0,1,0,1]=\"u\",\n   [1,0,1,1,0]=\"v\",[1,
+0,1,1,1]=\"w\",[1,1,0,0,0]=\"x\",\n   [1,1,0,0,1]=\"y\",[1,1,0,1,0]=\"
+z\",[0,0,0,0,0]=\" \"]\n   );\n   ll:=floor(nops(mt)/5); \n   nn:=` `;
+\n   for ii from 0 to ll-1 do\n     ss:=albat[[seq(mt[i+ii*5],i=1..5)]
+];\n     if(not type(ss,string)) then ss:=`@` fi;\n     nn:=cat(nn,ss)
+;\n   od;\n   RETURN(eval(nn));\n   end:" }}}{PARA 0 "" 0 "" {TEXT -1 
+44 "Ahora podemos recuperar el mensaje original:" }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 20 "alfabetico(mensaje);" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" 
+}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 21 "Un generador de ruido" }}
+{PARA 0 "" 0 "" {TEXT -1 47 "Vamos a simular el ruido sumando 1 en bin
+ario. " }}{PARA 0 "" 0 "" {TEXT -1 7 "Ya que:" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 10 "0+1 mod 2;" }}}{PARA 0 "" 0 "" {TEXT -1 1 "y" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "1+1 mod 2;" }}}{PARA 0 "" 0 
+"" {TEXT -1 98 "nuestro generador de ruido nos proporcionar\341 0 si n
+o se ha producido ruido y 1 si se ha producido:" }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 85 "ruido:=proc(p)\n  if(rand()<999999999999*(1-p)
+) then RETURN(0) fi;\n  RETURN(1);\n  end:" }}}{PARA 0 "" 0 "" {TEXT 
+-1 12 "Por ejemplo:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "[seq(
+ ruido(0.2), i=0..10 )];" }}}{PARA 0 "" 0 "" {TEXT -1 61 "Ahora, con e
+ste generador podemos simular un canal con ruido:" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 87 "canal:=proc(mt,p)\n  local i;\n  RETURN([seq(
+mt[i]+ruido(p) mod 2,i=1..nops(mt))])\n  end:" }}}{PARA 0 "" 0 "" 
+{TEXT -1 17 "As\355, por ejemplo:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 23 "canal([1,1,0,1,0],0.2);" }}}{PARA 0 "" 0 "" {TEXT -1 
+63 "As\355, al transmitir el mensaje 'viva la urjc' por un canal cuya \+
+" }{TEXT 319 21 "probabilidad de error" }{TEXT -1 1 " " }{TEXT 315 2 "
+ p" }{TEXT -1 20 " sea 0.2, se recibe:" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 85 "transmito:=binario(`viva la urjc`):\nrecibo:=canal(tr
+ansmito,0.2):\nalfabetico(recibo);" }}}{PARA 0 "" 0 "" {TEXT -1 62 "En
+ este punto hacer pruebas variando la probabilidad de error " }{TEXT 
+320 1 "p" }{TEXT -1 58 " (en el caso anterior 0.2) y comprobar que par
+ valores de " }{TEXT 321 1 "p" }{TEXT -1 75 " pr\363ximos a 1 el mensa
+je se distorsiona cada vez m\341s y que para valores de " }{TEXT 322 
+1 "p" }{TEXT -1 62 " pr\363ximos a 0 el mensaje es cada vez m\341s par
+ecido al original." }}{PARA 0 "" 0 "" {TEXT -1 272 "La estrategia para
+ que el receptor pueda recuperar la informaci\363n consiste, seg\372n \+
+vimos en las clases te\363ricas, en que el emisor env\355e informaci
+\363n redundante de manera que el receptor, al recibir la transmisi
+\363n, pueda detectar y corregir los errores generados en la misma." }
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}}{SECT 1 {PARA 3 "" 0 "binaria" {TEXT 265 19 "
+M\351todo de Gauss en " }{XPPEDIT 18 0 "Z[2];" "6#&%\"ZG6#\"\"#" }
+{TEXT -1 0 "" }{TEXT 312 21 "-espacios vectoriales" }}{PARA 0 "" 0 "" 
+{TEXT -1 115 "Vamos a  manipular secuencias de ceros y unos. Para ello
+ utilizaremos la suma y producto ya definidos en el cuerpo " }
+{XPPEDIT 18 0 "Z[2]" "6#&%\"ZG6#\"\"#" }{TEXT -1 0 "" }{TEXT 323 0 "" 
+}{TEXT -1 28 "=\{0,1\} y trabajaremos sobre " }{XPPEDIT 18 0 "Z[2];" "
+6#&%\"ZG6#\"\"#" }{TEXT -1 171 "-espacios vectoriales, siendo v\341lid
+os, por consiguiente, todos los resultados vistos para espacios vector
+iales generales. En particular los relativos al c\341lculo matricial.
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 39 "Para \+
+definir la suma y el producto en  " }{XPPEDIT 18 0 "Z[2]" "6#&%\"ZG6#
+\"\"#" }{TEXT -1 58 "-espacios vectoriales es preciso utilizar la func
+i\363n  map." }}{PARA 0 "" 0 "" {TEXT -1 2 "  " }}{SECT 1 {PARA 4 "" 
+0 "" {TEXT -1 16 "Suma de matrices" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 121 "G:=matrix([[1,0,1],[0,1,0],[1,1,1]]):\nH:=matrix([[1
+,1,1],[1,0,1],[1,0,0]]):\nevalm(G)+evalm(H)=map(x->x mod 2,evalm(G+H))
+;" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 20 "Producto de matrices" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 123 "G:=matrix([[1,0,1],[0,1,0],
+[1,1,1]]):\nH:=matrix([[1,1,1],[1,0,1],[1,0,0]]):\nevalm(G)&*evalm(H)=
+map(x->x mod 2,evalm(G&*H));" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 21 
+"Inversi\363n de matrices" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 71 
+"H:=matrix([[1,1,1],[1,0,1],[1,0,0]]):\nevalm(H)^(`-1`)=Inverse(H) mod
+ 2;" }}}{PARA 0 "" 0 "" {TEXT -1 15 "y efect\355vamente" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 116 "H:=matrix([[1,1,1],[1,0,1],[1,0,0]
+]):\nG:=Inverse(H) mod 2:\nevalm(H)&*evalm(G)=map(x->x mod 2,evalm(mul
+tiply(H,G)));\n" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 53 "M\351todo de
+ Gauss-Jordan para la inversi\363n de matrices " }}{PARA 0 "" 0 "" 
+{TEXT -1 143 "Vamos a usar el m\351todo visto en las clases te\363rica
+s para hallar la inversa de una matriz no singular mediante transforma
+ciones elementales por " }{TEXT 259 5 "filas" }{TEXT -1 1 ":" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 143 "H:=matrix([[1,1,1],[1,0,1],
+[1,0,0]]):\nId:=matrix([[1,0,0],[0,1,0],[0,0,1]]):\nG:=linalg[augment]
+(H,Id):\ngaussjord(evalm(G))= Gaussjord(G) mod 2;" }}}{PARA 0 "" 0 "" 
+{TEXT 303 4 "Nota" }{TEXT -1 94 ": Para el m\351todo de eliminaci\363n
+ gaussiana m\363dulo 2 se pueden utilizar los siguientes comandos:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "H:=matrix([[0,0,0],[1,0,1],[
+1,0,0]]);\ngausselim(evalm(H))= Gausselim(H) mod 2;" }}}}{SECT 1 
+{PARA 4 "" 0 "" {TEXT -1 20 "Obtenci\363n del n\372cleo" }}{PARA 4 "" 
+0 "" {TEXT 260 16 "Dada una matriz " }{TEXT 325 1 "H" }{TEXT 262 61 ",
+ un sistema fundamental de soluciones del sistema homog\351neo " }
+{TEXT 263 5 "H*X=0" }{TEXT 264 85 " se obtiene hallando una base del n
+\372cleo de la funci\363n lineal definida por la matriz " }{TEXT 327 
+1 "H" }{TEXT 328 40 ", en t\351rminos de coordenadas can\363nicas: " }
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 75 "H:=matrix([[
+1,1,0,0,1],[1,1,1,1,1],[0,0,1,1,0]]);\nSol:=Nullspace(H) mod 2;\n" }}}
+{PARA 0 "" 0 "" {TEXT -1 72 "Si queremos escribir el resultado obtenid
+o en forma de vectores columna:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 45 "linalg[transpose](matrix(convert(Sol,list)));" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}}{SECT 1 {PARA 3 "" 0 "codigos lineales" {TEXT 277 
+16 "C\363digos lineales" }}{SECT 1 {PARA 4 "" 0 "" {TEXT 278 24 "Las m
+atrices generadoras" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 3 "Si \+
+" }{XPPEDIT 18 0 "G;" "6#%\"GG" }{TEXT -1 84 " es una matriz tal que s
+us columnas constituyen un sistema libre, la funci\363n lineal " }
+{XPPEDIT 18 0 "L[G]" "6#&%\"LG6#%\"GG" }{TEXT -1 14 "  definida por" }
+}{PARA 262 "" 0 "" {XPPEDIT 18 0 "proc (X) options operator, arrow; L[
+G](X)= `&*`(G,X) end" "6#R6#%\"XG7\"6$%)operatorG%&arrowG6\"/-&%\"LG6#
+%\"GG6#F%-%#&*G6$F0F%F*F*F*" }{TEXT -1 1 " " }}{PARA 263 "" 1 "" 
+{TEXT -1 11 "es tal que " }{TEXT 330 3 "Ker" }{TEXT -1 1 "(" }
+{XPPEDIT 18 0 "L[G]" "6#&%\"LG6#%\"GG" }{TEXT -1 33 ")=\{0\}, por lo q
+ue es inyectiva e " }{TEXT 329 3 "Im(" }{TEXT -1 1 " " }{XPPEDIT 18 0 
+"L[G]" "6#&%\"LG6#%\"GG" }{TEXT -1 17 ") = C. Por tanto " }{TEXT 331 
+1 "G" }{TEXT -1 21 " es la matriz de las " }{TEXT 333 23 "ecuaciones p
+aram\351tricas" }{TEXT -1 4 " de " }{TEXT 332 1 "C" }{TEXT -1 2 ". " }
+}{PARA 270 "" 0 "" {TEXT -1 94 "Los c\363digos lineales utilizan este \+
+hecho para introducir informaci\363n redundante. Es decir si  " }
+{XPPEDIT 18 0 "X;" "6#%\"XG" }{TEXT -1 0 "" }{TEXT 279 1 " " }{TEXT 
+-1 16 "es informaci\363n, " }{XPPEDIT 18 0 "GX;" "6#%#GXG" }{TEXT -1 
+87 " es informaci\363n redundante. Pero \277C\363mo invertir este proc
+eso?, es decir, \277C\363mo obtener " }{XPPEDIT 18 0 "X;" "6#%\"XG" }
+{TEXT -1 13 " a partir de " }{TEXT 280 1 " " }{XPPEDIT 18 0 "GX" "6#%#
+GXG" }{TEXT -1 100 "? o, lo que es lo mismo, \277C\363mo obtener la in
+formaci\363n original a partir de la informaci\363n recibida? " }}
+{PARA 271 "" 0 "" {TEXT -1 18 "Veamos un ejemplo:" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 128 "G:=matrix([[1,0,1],[0,1,0],[1,1,1],[1,1,0],[
+0,0,1]]):\nX:=matrix([[a],[b],[c]]):\nevalm(G)&*evalm(X)=map(x->x mod \+
+2,evalm(G&*X));\n" }}}{PARA 0 "" 0 "" {TEXT -1 29 "La idea es buscar u
+na matriz " }{XPPEDIT 18 0 "P;" "6#%\"PG" }{TEXT -1 10 "  tal que " }
+{XPPEDIT 18 0 "PG;" "6#%#PGG" }{TEXT -1 84 "  'casi' sea la matriz ide
+ntidad. Para ello utilizaremos el m\351todo de Gauss- Jordan:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 164 "Id:=array(identity, 1..5,1.
+.5):\nJ:=linalg[augment](G,Id):\nS:=Gaussjord(J) mod 2:\nP:=linalg[sub
+matrix](S, 1..5,4..8):\nevalm(P)&*evalm(G)=map(x->x mod 2,evalm(P&*G))
+;" }}}{PARA 0 "" 0 "" {TEXT -1 33 "Si ahora multiplicamos la matriz " 
+}{XPPEDIT 18 0 "P;" "6#%\"PG" }{TEXT -1 5 " por " }{XPPEDIT 18 0 "GX;
+" "6#%#GXG" }{TEXT -1 12 " obtendremos" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 60 "evalm(P)&*evalm(G)&*evalm(X)=map(x->x mod 2,evalm(P&*
+G&*X));" }}}{PARA 0 "" 0 "" {TEXT -1 34 "es decir, recuperamos el mens
+aje. " }}{PARA 0 "" 0 "" {TEXT -1 38 "Obs\351rvese que si tomamos la s
+ubmatriz " }{XPPEDIT 18 0 "T;" "6#%\"TG" }{TEXT -1 4 " de " }{XPPEDIT 
+18 0 "P;" "6#%\"PG" }{TEXT -1 72 "  formada por las primeras 3 filas e
+ntonces obtenemos uan pseudoinversa " }{TEXT 334 1 "T" }{TEXT -1 4 " d
+e " }{TEXT 335 1 "G" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 84 "T:=linalg[submatrix](P, 1..3, 1..5):\nevalm(T)&*evalm
+(G)=map(x->x mod 2,evalm(T&*G));" }}}{PARA 0 "" 0 "" {TEXT -1 17 "y en
+ consecuencia" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 60 "evalm(T)&*e
+valm(G)&*evalm(X)=map(x->x mod 2,evalm(T&*G&*X));" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT -1 32 " Por tanto podemos construir un:" 
+}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 29 
+"Procedimiento de codificaci\363n" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 314 "codifica:=proc(st,g)\n   local ll,cc,kk,ii,jj,stt,ms
+g;\n   ll:=linalg[coldim](g);\n   cc:=linalg[rowdim](g);\n   kk:=ceil(
+nops(st)/ll);\n   stt:=matrix(kk,ll,array(sparse,1..kk*ll,st));\n   ms
+g:=map(x-> x mod 2,\n        linalg[multiply](stt,linalg[transpose](g)
+));\nRETURN([seq(seq(msg[ii,jj],jj=1..cc),ii=1..kk)]);\nend: " }}}
+{PARA 0 "" 0 "" {TEXT -1 56 "As\355 por ejemplo, para codificar 'viva \+
+la urjc' mediante " }{XPPEDIT 18 0 "G;" "6#%\"GG" }{TEXT -1 14 " esrib
+ir\355amos:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 47 "transmito:=co
+difica(binario(`viva la urjc`),G);" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 
+-1 31 "Procedimiento de decodificaci\363n" }}{PARA 0 "" 0 "" {TEXT -1 
+57 "En primer lugar sistematizamos la obtenci\363n de la matriz " }
+{XPPEDIT 18 0 "T;" "6#%\"TG" }{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 227 "pseudoinv:=proc(g)\n  local ll,cc,J,T,S;\n  ll:=li
+nalg[coldim](g);\n  cc:=linalg[rowdim](g);\n  J:=linalg[augment](g,arr
+ay(identity, 1..cc,1..cc));\n  S:=Gaussjord(J) mod 2;\n  RETURN(linalg
+[submatrix](S, 1..ll, ll+1..ll+cc));\nend:  " }}}{PARA 0 "" 0 "" 
+{TEXT -1 120 "y a continuaci\363n el procedimiento de decodificaci\363
+n consiste en utilizar el de codificaci\363n con la matriz pseudoinver
+sa:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "alfabetico(codifica(t
+ransmito,pseudoinv(G)));" }}}{PARA 0 "" 0 "" {TEXT -1 37 "Como puede o
+bservarse, los resultados" }{TEXT 258 10 " te\363ricos " }{TEXT -1 21 
+"tienen su aplicaci\363n " }{TEXT 297 8 "pr\341ctica" }{TEXT -1 1 "." 
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT 281 23 "Las m
+atrices de control" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 31 "Al m
+ultiplicar la matriz P por " }{XPPEDIT 18 0 "GX;" "6#%#GXG" }{TEXT -1 
+12 " obten\355amos:" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%#&*G6$-%'MAT
+RIXG6#7'7'\"\"!\"\"\"F,F-F,7'F,F-F,F,F,7'F,F,F,F,F-7'F-F-F,F-F-7'F,F,F
+-F-F--F(6#7'7#,&%\"aGF-%\"cGF-7#%\"bG7#,(F7F-F:F-F8F-7#,&F7F-F:F-7#F8-
+F(6#7'7#F7F9F?7#F,FD" }}{PARA 0 "" 0 "" {TEXT -1 53 "por tanto, para r
+ecuperar el mensaje elimin\341bamos de " }{XPPEDIT 18 0 "P;" "6#%\"PG
+" }{TEXT -1 35 " las \372ltimas dos filas (obteniendo " }{XPPEDIT 18 
+0 "T;" "6#%\"TG" }{TEXT -1 4 " ): " }}{PARA 11 "" 1 "" {TEXT -1 0 "" }
+{XPPMATH 20 "6#/-%#&*G6$-%'MATRIXG6#7%7'\"\"!\"\"\"F,F-F,7'F,F-F,F,F,7
+'F,F,F,F,F--F(6#7'7#,&%\"aGF-%\"cGF-7#%\"bG7#,(F5F-F8F-F6F-7#,&F5F-F8F
+-7#F6-F(6#7%7#F5F7F=" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pul
+sa return" }}}{PARA 0 "" 0 "" {TEXT -1 57 "Y \277Cual es el significad
+o de estas las dos \372ltimas filas?" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#/-%#&*G6$-%'MATRIXG6#7$7'\"\"\"F,\"\"!F,F,7'F-F-F,F,F,-F(6#7'7#,&%\"
+aGF,%\"cGF,7#%\"bG7#,(F4F,F7F,F5F,7#,&F4F,F7F,7#F5-F(6#7$7#F-F@" }}
+{PARA 0 "" 0 "" {TEXT -1 129 "Permiten detectar si el vector columna p
+ertenece o no al c\363digo, es decir,  la matriz formada por estas \+
+\372ltimas dos filas es una " }{TEXT 282 17 "matriz de control" }
+{TEXT -1 2 "  " }{XPPEDIT 18 0 "H;" "6#%\"HG" }{TEXT -1 26 "  del c
+\363digo generado por " }{XPPEDIT 18 0 "G;" "6#%\"GG" }{TEXT -1 1 "." 
+}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 62 
+"Generaci\363n de una matriz de control a partir de una generadora" }}
+{PARA 260 "" 0 "" {TEXT 283 76 "Es una ligera modificaci\363n del proc
+edimiento para construir la pseudoinversa" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 223 "control:=proc(g)\n  local ll,cc,J,H;\n  ll:=linalg[c
+oldim](g);\n  cc:=linalg[rowdim](g);\n  J:=linalg[augment](g,array(ide
+ntity, 1..cc,1..cc));\n  H:=Gaussjord(J) mod 2;\n  RETURN(linalg[subma
+trix](H,ll+1..cc, ll+1..ll+cc));\nend:" }}}{PARA 0 "" 0 "" {TEXT -1 
+15 "As\355 por ejemplo" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "co
+ntrol(G);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return
+" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 56 "Procedimiento de decodifica
+ci\363n con detecci\363n de errores" }}{PARA 0 "" 0 "" {TEXT -1 54 "Es
+ una modificaci\363n del procedimiento de codificaci\363n " }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 503 "decodifica_d:=proc(st,inv,con)\n l
+ocal ll,cc,kk,i,j,stt,test,msg;\n ll:=linalg[coldim](inv);\n cc:=linal
+g[rowdim](inv);\n kk:=ceil(nops(st)/ll);\n stt:=matrix(kk,ll,array(spa
+rse,1..kk*ll,st));\n\n test:=map(x->x mod 2, \n       linalg[multiply]
+(stt,linalg[transpose](con)));\n if not linalg[iszero](test) then\n  p
+rint(`Error en la trasmisi\363n. Int\351ntalo de nuevo`);\n  RETURN([]
+);\n fi;\n\n msg:=map(x-> x mod 2,\n      linalg[multiply](stt,linalg[
+transpose](inv)));  RETURN([seq(seq(msg[i,j],j=1..cc),i=1..kk)]);\nend
+:" }}}{PARA 0 "" 0 "" {TEXT -1 78 "As\355, si no introducimos error en
+ la transmisi\363n recuperamos el texto original:" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 96 "mensaje:=codifica(binario(`hola`),G):\nalfabe
+tico(decodifica_d(mensaje,pseudoinv(G),control(G)));" }}}{PARA 0 "" 0 
+"" {TEXT -1 46 "pero si introducimos errores en la transmisi\363n" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 124 "mensaje:=codifica(binario(`
+hola`),G):\nmensaj:=canal(mensaje,0.05):\nalfabetico(decodifica_d(mens
+aj,pseudoinv(G),control(G)));" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 
+62 "Generaci\363n de una matriz generadora a partir de una de control
+" }}{PARA 0 "" 0 "" {TEXT -1 22 "Una matriz de control " }{TEXT 286 1 
+"H" }{TEXT -1 14 " de un c\363digo " }{TEXT 284 1 "C" }{TEXT -1 29 " c
+aracteriza a los elementos " }{TEXT 285 1 "X" }{TEXT -1 19 " del mismo
+ por las " }{TEXT 337 21 "ecuaciones impl\355citas" }{TEXT -1 4 " de \+
+" }{TEXT 336 2 "C:" }}{PARA 272 "" 0 "" {TEXT 287 1 "H" }{TEXT 339 1 "
+*" }{TEXT 288 3 "X=0" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 38 "C
+omo construir una matriz geradora de " }{TEXT 289 1 "C" }{TEXT -1 36 "
+ es lo mismo que elegir una base de " }{TEXT 290 1 "C" }{TEXT -1 76 ",
+ simplemente necesitamos encontrar un sistema fundamental de solucione
+s de " }{TEXT 292 1 "H" }{TEXT 291 1 "*" }{TEXT 338 3 "X=0" }{TEXT -1 
+1 "." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 142 "H:=matrix([[1,1,0,0
+,1],[1,1,1,1,1],[0,0,1,1,0]]);\nG:=linalg[transpose](\n       matrix(c
+onvert(Nullspace(H) mod 2,list))\n                    );" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#Pulsa return" }}}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT 293 21 "Correcci\363n d
+e errores" }}{PARA 4 "" 0 "" {TEXT 298 262 "Mediante la matriz de cont
+rol, adem\341s de detectar podemos corregir alg\372n error. En general
+ no es posible corregir cualquier error, por tanto debemos elegir (den
+tro de un orden) aquellos errores que deseamos poder corregir. Esta el
+ecci\363n hay que realizarla en la " }{TEXT 294 18 "tabla de s\355ndro
+mes" }{TEXT 299 128 ", utilizando normalmente como criterio la selecci
+\363n del error m\341s probable seg\372n el criterio del vecino m\341s
+ pr\363ximo, o de menor " }{TEXT 340 5 "peso " }{TEXT 341 23 "(menor n
+\372mero de unos)." }{TEXT 300 1 " " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 35 "Construcci\363n de la tabla de e
+rrores" }}{PARA 0 "" 0 "" {TEXT -1 37 "Suponemos dada una matriz de co
+ntrol " }{TEXT 295 2 "H." }{TEXT -1 80 " En primer lugar necesitamos e
+l conjunto de vectores sobre los que puede actuar " }{TEXT 296 1 "H" }
+{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 136 "espacio:=p
+roc(dim)\n  local i,j;\n  RETURN(matrix([seq([seq(ceil(i/2^(j-1)) mod \+
+2,\n                      i=1..2^dim)],j=1..dim)]));\n  end:" }}}
+{PARA 0 "" 0 "" {TEXT -1 15 "as\355 por ejemplo" }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 15 "A:=espacio(4);\n" }}}{PARA 0 "" 0 "" {TEXT -1 
+61 "A continuaci\363n necesitamos contar el n\372mero de unos (el peso
+)" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 71 "peso:=proc(st)\n  local
+ i;\n  RETURN(add(st[i], i = 1..nops(st)));\n  end:" }}}{PARA 0 "" 0 "
+" {TEXT -1 11 "por ejemplo" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+18 "peso([1,1,0,1,0]);" }}}{PARA 0 "" 0 "" {TEXT -1 44 "Ahora, podemos
+ construir la tabla de errores" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 506 "errores:=proc(ct)\n local dm,i,j,ii,jj,kk,rn,tabla,sindrome,pre
+v,error;\n jj:=linalg[coldim](ct);\n dm:=espacio(jj);\n rn:=map(x->x m
+od 2,evalm(ct&*dm));\n kk:=linalg[rowdim](rn); \n ii:=linalg[coldim](d
+m);\n tabla:=table();\n for i from 1 to ii do\n  sindrome:=[seq(rn[j,i
+],j=1..kk)];\n  error:=[seq(dm[j,i],j=1..jj)];\n  prev:=tabla[sindrome
+];\n  if type(prev,indexed)then\n        tabla[sindrome]:= error;\n  e
+lif peso(error) < peso(prev) then\n        tabla[sindrome]:= error;\n \+
+ fi; \n od; \n RETURN(eval(tabla));\n end:" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 133 "Ahora podemos construir una t
+abla que asocia a cada s\355ndrome (a cada cogrupo) un error de peso m
+\355nimo (un representante del cogrupo):" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 11 "errores(H);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 27 "#presionar la teclar return" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 57 "Procedimiento de decodificaci
+\363n con correcci\363n de errores" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 587 "decodifica_c:=proc(st,inv,con,tabl)\n local ll,cc,kk
+,jj,i,j,sindrome,error,stt,test,msg;\n ll:=linalg[coldim](inv);\n cc:=
+linalg[rowdim](inv);\n kk:=ceil(nops(st)/ll);\n stt:=matrix(kk,ll,arra
+y(sparse,1..kk*ll,st));\n\n test:=map(x->x mod 2, \n       linalg[mult
+iply](stt,linalg[transpose](con)));\n jj:=linalg[coldim](test);\n sind
+rome:=[seq([seq(test[i,j],j=1..jj)],i=1..kk)];\n error:=matrix([seq(ta
+bl[sindrome[i]],i=1..kk)]);\n stt:=map(x->x mod 2,evalm(stt+error));\n
+\n msg:=map(x-> x mod 2,\n      linalg[multiply](stt,linalg[transpose]
+(inv)));  RETURN([seq(seq(msg[i,j],j=1..cc),i=1..kk)]);\nend:" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 157 "mensaje:=codifica(binario(`
+hola`),G):\nmensaj:=canal(mensaje,0.05):\nT:=pseudoinv(G):\nH:=control
+(G):\nERR:=errores(H):\nalfabetico(decodifica_c(mensaj,T,H,ERR));" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "#fin" }}}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{PARA 4 "" 0 "" {TEXT -1 0 "" }}}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{MARK "18" 0 }
+{VIEWOPTS 1 1 0 1 1 1803 }
